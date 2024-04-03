@@ -1,0 +1,4658 @@
+[
+  {
+    "sentence": "It starred Hicks's wife, Ellaline Terriss and Edmund Payne.",
+    "entities": {
+      "Hicks": "person-artist/author",
+      "Ellaline Terriss": "person-actor",
+      "Edmund Payne": "person-actor"
+    }
+  },
+  {
+    "sentence": "``Time`` magazine said the film was ``a multimillion dollar improvisation that does everything but what the title promises ''and suggested that`` writer George Axelrod (``The Seven Year Itch``) and director Richard Quine should have taken a hint from Holden ['s character Richard Benson], who writes his movie, takes a long sober look at what he has wrought, and burns it.''",
+    "entities": {
+      "Time": "art-writtenart",
+      "George Axelrod": "person-artist/author",
+      "The Seven Year Itch": "art-writtenart",
+      "Richard Quine": "person-director",
+      "Holden": "person-other",
+      "Richard Benson": "person-other"
+    }
+  },
+  {
+    "sentence": "Pakistani scientists and engineers' working at IAEA became aware of advancing Indian nuclear program towards making the bombs.",
+    "entities": {
+      "IAEA": "organization-other"
+    }
+  },
+  {
+    "sentence": "In February 2008, Church's Chicken entered the UK market under the ``Texas Chicken`` name, claiming to have signed up 50 former Dixy Chicken franchisees.",
+    "entities": {
+      "Church's Chicken": "organization-company",
+      "Texas Chicken": "organization-company",
+      "Dixy Chicken": "organization-company"
+    }
+  },
+  {
+    "sentence": "This rivalry intensified in 1919 when Arsenal were unexpectedly promoted to the First Division, taking a place that Tottenham believed should be theirs.",
+    "entities": {
+      "Arsenal": "organization-sportsteam",
+      "First Division": "organization-sportsleague",
+      "Tottenham": "organization-sportsteam"
+    }
+  },
+  {
+    "sentence": "The platform is based on the 2003 Rolls-Royce Phantom and has styling heavily derived from the Rolls-Royce 100EX, a concept car unveiled to celebrate the company's centennial in 2004.",
+    "entities": {
+      "Phantom": "product-car",
+      "100EX": "product-car"
+    }
+  },
+  {
+    "sentence": "He has also written several plays and various articles on the Iranian Constitutional Revolution of 1905-1911, the French Revolution, and the Russian Revolution.",
+    "entities": {
+      "Iranian Constitutional Revolution": "event-protest",
+      "French Revolution": "event-protest",
+      "Russian Revolution": "event-protest"
+    }
+  },
+  {
+    "sentence": "After many appeals, the case went to the Supreme Court, which in 1992 ruled in ``Two Pesos, Inc. v. Taco Cabana, Inc.`` in favor of Taco Cabana.",
+    "entities": {
+      "Supreme Court": "organization-government/governmentagency",
+      "Two Pesos, Inc.": "organization-company",
+      "Taco Cabana, Inc.": "organization-company",
+      "Taco Cabana": "organization-company"
+    }
+  },
+  {
+    "sentence": "Amphiphysin is a brain-enriched protein with an N-terminal lipid interaction, dimerisation and membrane bending BAR domain, a middle clathrin and adaptor binding domain and a C-terminal SH3 domain.",
+    "entities": {
+      "Amphiphysin": "other-biologything",
+      "N-terminal lipid": "other-biologything",
+      "BAR": "other-biologything",
+      "C-terminal SH3 domain": "other-biologything"
+    }
+  },
+  {
+    "sentence": "Decorations and awards can be conferred on Croatian or foreign nationals, legal entities as well as units of the Armed Forces of the Republic of Croatia and the Ministry of the Interior.",
+    "entities": {
+      "Croatian": "location-GPE",
+      "the Republic of Croatia": "location-GPE"
+    }
+  },
+  {
+    "sentence": "In 1783 Campbell married Olympia Elizabeth (died 1794), eldest daughter of William Morshead of Cartuther, Cornwall.",
+    "entities": {
+      "Campbell": "person-other",
+      "Olympia Elizabeth": "person-other",
+      "William Morshead": "person-other",
+      "Cartuther": "location-other",
+      "Cornwall": "location-GPE"
+    }
+  },
+  {
+    "sentence": "Neville performed a Spinning Back Kick on Tozawa to retain the title.",
+    "entities": {
+      "Neville": "person-athlete",
+      "Tozawa": "person-athlete"
+    }
+  },
+  {
+    "sentence": "Its title is also seen as The Gale Storm Show: Oh, Susanna.",
+    "entities": {
+      "The Gale Storm Show: Oh, Susanna": "art-broadcastprogram"
+    }
+  },
+  {
+    "sentence": "Known locally as ``Fairbottom Bobs`` it is now preserved at the Henry Ford Museum in Dearborn, Michigan.",
+    "entities": {
+      "Fairbottom Bobs": "product-other",
+      "Henry Ford Museum": "building-other",
+      "Dearborn": "location-GPE",
+      "Michigan": "location-GPE"
+    }
+  },
+  {
+    "sentence": "The latter group included ZU-23-2M Wróbel universal naval gun and its successor, the artillery-rocket set ZU-23-2MR Wróbel II.",
+    "entities": {
+      "ZU-23-2M Wróbel": "product-weapon",
+      "ZU-23-2MR Wróbel II": "product-weapon"
+    }
+  },
+  {
+    "sentence": "Sheremetyevo International Airport has four operating passenger terminals and one special terminal reserved for the use of private and business aviation.",
+    "entities": {
+      "Sheremetyevo International Airport": "building-airport"
+    }
+  },
+  {
+    "sentence": "During medical school, Reitman often worked as the house doctor at sporting events at the Boston Garden.",
+    "entities": {
+      "Reitman": "person-other",
+      "Boston Garden": "building-sportsfacility"
+    }
+  },
+  {
+    "sentence": "The chapel of Stalmine was first mentioned about 1200 and a cemetery was consecrated in 1230.",
+    "entities": {
+      "Stalmine": "person-scholar"
+    }
+  },
+  {
+    "sentence": "The score to ``Spring Breakdown ''was composed by Deborah Lurie who recorded her score with the Hollywood Studio Symphony conducted by Blake Neely and recorded by Greg Dennen at the Eastwood Scoring Stage at Warner Brothers.",
+    "entities": {
+      "Deborah Lurie": "person-artist/author",
+      "Hollywood Studio Symphony": "art-music",
+      "Blake Neely": "person-artist/author",
+      "Greg Dennen": "person-artist/author",
+      "Eastwood Scoring Stage": "event-other",
+      "Warner Brothers": "organization-company"
+    }
+  },
+  {
+    "sentence": "The Swedish national men's ice hockey team, affectionately known as ``Tre Kronor`` (English: Three Crowns; the national symbol of Sweden), is regarded as one of the best in the world.",
+    "entities": {
+      "Swedish national men's ice hockey team": "organization-sportsteam",
+      "Tre Kronor": "organization-sportsteam",
+      "English": "other-language",
+      "Three Crowns": "organization-sportsteam",
+      "Sweden": "location-GPE"
+    }
+  },
+  {
+    "sentence": "Significant technical and materials problems were encountered with FBRs, and geological exploration showed that scarcity of uranium was not going to be a concern for some time.",
+    "entities": {
+      "uranium": "other-chemicalthing"
+    }
+  },
+  {
+    "sentence": "In 1992, another film adaptation of the novel was made, ``L'Atlantide``, directed by Bob Swaim and starring Tchéky Karyo, Jean Rochefort, Anna Galiena, and the famous Spanish actor, Fernando Rey.",
+    "entities": {
+      "L'Atlantide": "art-film",
+      "Bob Swaim": "person-director",
+      "Tchéky Karyo": "person-actor",
+      "Jean Rochefort": "person-actor",
+      "Anna Galiena": "person-actor",
+      "Spanish": "location-GPE",
+      "Fernando Rey": "person-actor"
+    }
+  },
+  {
+    "sentence": "He is also a member of the Board of Overseers of Memorial Sloan-Kettering Cancer Center.",
+    "entities": {
+      "Memorial Sloan-Kettering Cancer Center": "building-hospital"
+    }
+  },
+  {
+    "sentence": "Section 907 of the United States Freedom Support Act bans any kind of direct United States aid to the Azerbaijani government.",
+    "entities": {
+      "United States Freedom Support Act": "other-law",
+      "United States": "location-GPE",
+      "Azerbaijani": "location-GPE"
+    }
+  },
+  {
+    "sentence": "Chiltern Air Support's Luton helicopter (EC135T2 CPDS) moved from London Luton Airport to RAF Henlow, near Hitchin and Shillington.",
+    "entities": {
+      "Chiltern Air Support": "organization-company",
+      "Luton": "product-airplane",
+      "EC135T2 CPDS": "product-airplane",
+      "London Luton Airport": "building-airport",
+      "RAF Henlow": "location-GPE",
+      "Hitchin": "location-GPE",
+      "Shillington": "location-GPE"
+    }
+  },
+  {
+    "sentence": "Planned to connect Downtown Newark and Elizabeth via Newark Liberty International Airport, NJT is no longer pursuing the Newark-Elizabeth Rail Link.",
+    "entities": {
+      "Newark": "location-GPE",
+      "Elizabeth": "location-GPE",
+      "Newark Liberty International Airport": "building-airport",
+      "NJT": "location-road/railway/highway/transit",
+      "Newark-Elizabeth Rail Link": "location-road/railway/highway/transit"
+    }
+  },
+  {
+    "sentence": "On 25 April, Krukenberg was appointed by General Helmuth Weidling as the commander of (Berlin) Defence Sector C, which included the SS Division Nordland, whose previous commander Joachim Ziegler was relieved of his command the same day.",
+    "entities": {
+      "Krukenberg": "person-soldier",
+      "Helmuth Weidling": "person-soldier",
+      "Berlin": "location-GPE",
+      "Defence Sector C": "organization-other",
+      "SS Division Nordland": "organization-other",
+      "Joachim Ziegler": "person-soldier"
+    }
+  },
+  {
+    "sentence": "The Eighth Army began to attack Italian units, located using information from Ultra, at Ruweisat Ridge and from again at Tel El Eisa on 22 July and Miteirya Ridge after which another lull fell.",
+    "entities": {
+      "Eighth Army": "organization-other",
+      "Italian": "organization-other",
+      "Ruweisat Ridge": "location-mountain",
+      "Tel El Eisa": "location-GPE",
+      "Miteirya Ridge": "location-mountain"
+    }
+  },
+  {
+    "sentence": "Hoey was born in Mallusk, County Antrim, and studied at Belfast Royal Academy and the Ulster College of Physical Education.",
+    "entities": {
+      "Hoey": "person-other",
+      "Mallusk": "location-GPE",
+      "County Antrim": "location-GPE",
+      "Belfast Royal Academy and the Ulster College of Physical Education": "organization-education"
+    }
+  },
+  {
+    "sentence": "In 2010, Al Jazeera's Teymoor Nabili suggested that the article ``Cyrus Cylinder ''had been edited for political purposes by`` an apparent tussle of opinions in the shadowy world of hard drives and'independent 'editors that comprise the Wikipedia industry.''",
+    "entities": {
+      "Al Jazeera": "organization-media/newspaper",
+      "Teymoor Nabili": "person-other",
+      "Wikipedia": "product-software"
+    }
+  },
+  {
+    "sentence": "The new Samsat district is a peninsula surrounded on the three sides by the Atatürk Dam Lake.",
+    "entities": {
+      "new Samsat district": "location-island",
+      "Atatürk Dam Lake": "location-bodiesofwater"
+    }
+  },
+  {
+    "sentence": "The Bayerische Staatsbibliothek furthermore is Europe's second-largest journals library (after the British Library).",
+    "entities": {
+      "Bayerische Staatsbibliothek": "building-library",
+      "Europe": "location-GPE",
+      "British Library": "building-library"
+    }
+  },
+  {
+    "sentence": "12 Corazones (, ``12 Hearts '') is a Spanish -language dating game show produced in the United States for the television network Telemundo since January 2005, based on its namesake Argentine TV show format The show is filmed in Los Angeles and revolves around the twelve Zodiac signs that identify each contestant.",
+    "entities": {
+      "Corazones": "art-broadcastprogram",
+      "Spanish": "person-other",
+      "United States": "location-GPE",
+      "Argentine TV": "organization-company",
+      "Los Angeles": "location-GPE",
+      "Zodiac": "other-astronomything"
+    }
+  },
+  {
+    "sentence": "She was a younger sister of Emeric, King of Hungary.",
+    "entities": {
+      "Emeric": "person-politician",
+      "Hungary": "location-GPE"
+    }
+  },
+  {
+    "sentence": "The video, shot in Los Angeles on location at The Echo, The Standard Hotel and the streets of Downtown LA, was premiered by UK music tastemaker Clash (magazine).",
+    "entities": {
+      "Los Angeles": "location-GPE",
+      "The Echo": "building-other",
+      "The Standard Hotel": "building-hotel",
+      "LA": "location-GPE",
+      "UK": "location-GPE",
+      "Clash": "organization-media/newspaper"
+    }
+  },
+  {
+    "sentence": "Although the game features his name, Tom Clancy had little to no involvement in the development of any of the Splinter Cell games.",
+    "entities": {
+      "Tom Clancy": "person-other",
+      "Splinter Cell": "product-game"
+    }
+  },
+  {
+    "sentence": "He was honoured with the Order of the Republic of Guinea and Nigeria, second highest national honours of Grand Commander of the Order of the Niger (GCON).",
+    "entities": {
+      "Order of the Republic of Guinea and Nigeria": "other-award",
+      "Grand Commander of the Order of the Niger": "other-award",
+      "GCON": "other-award"
+    }
+  },
+  {
+    "sentence": "Furthermore, because the playoff format was also changed to ensure exclusive intradivisional play for the first two rounds of the 2021 Stanley Cup playoffs, any postseason rematch between Dallas and Tampa Bay will take place no later than the second round, making this series the first Stanley Cup Finals since 1967 Stanley Cup Finals (which preceded the 1967 NHL expansion) for which a rematch in the following year's Finals will be impossible due to League realignment.",
+    "entities": {
+      "Stanley Cup": "event-sportsevent",
+      "Dallas": "organization-sportsteam",
+      "Tampa Bay": "organization-sportsteam",
+      "NHL": "organization-sportsleague"
+    }
+  },
+  {
+    "sentence": "Lead guitar was not played by Ace Frehley as he was not musically involved with the album and it was not played by Vinnie Vincent either; it was played by Steve Farris, who would go on to be the lead guitarist of the 1980s pop rock group Mr. Mister.",
+    "entities": {
+      "Ace Frehley": "person-artist/author",
+      "Vinnie Vincent": "person-artist/author",
+      "Steve Farris": "person-artist/author",
+      "Mr. Mister": "organization-showorganization"
+    }
+  },
+  {
+    "sentence": "Born in 1943, Stedman attended the University of Canterbury, graduating with a BSc (Hons) in physics in 1965.",
+    "entities": {
+      "Stedman": "person-scholar",
+      "University of Canterbury": "organization-education",
+      "BSc (Hons) in physics": "other-educationaldegree"
+    }
+  },
+  {
+    "sentence": "On commencement day, June 22, less than 4 weeks after the Court began interviewing students, the senior class exercises in Sanders Theatre were followed by another ceremony at the stadium.",
+    "entities": {
+      "Sanders Theatre": "building-theater"
+    }
+  },
+  {
+    "sentence": "The village was badly affected by the French Dysentery Epidemic of 1779 such that 250 died and the graveyard had to be extended this may be the origin of the five crosses (Les Cinq Croix)",
+    "entities": {
+      "French Dysentery Epidemic of 1779": "other-disease"
+    }
+  },
+  {
+    "sentence": "After losing another two seats in the March 1898 elections, the party merged with Shimpotō in June 1898 to form the Kenseitō.",
+    "entities": {
+      "March 1898 elections": "event-election",
+      "Shimpotō": "organization-politicalparty",
+      "Kenseitō": "organization-politicalparty"
+    }
+  },
+  {
+    "sentence": "The Travancore Rupee was the highest denomination of currency issued for general circulation.",
+    "entities": {
+      "Travancore Rupee": "other-currency"
+    }
+  },
+  {
+    "sentence": "The ZSU-57-2 first saw major use in the Vietnam War by the Vietnam People's Army (VPA), in the beginning of the Easter Offensive in 1972.",
+    "entities": {
+      "ZSU-57-2": "product-weapon",
+      "Vietnam War": "event-attack/battle/war/militaryconflict",
+      "Vietnam People's Army": "organization-other",
+      "VPA": "organization-other",
+      "Easter Offensive": "event-attack/battle/war/militaryconflict"
+    }
+  },
+  {
+    "sentence": "In Cochin, India, at the shore establishment HMS ``Chinkara ''(home of the Landing Craft Storage, Section 21), many such craft were towed out to the 10 fathom mark and sunk by various means from axe to 40mm Bofors gun fire.",
+    "entities": {
+      "Cochin": "location-GPE",
+      "India": "location-GPE",
+      "HMS ``Chinkara ''": "product-ship",
+      "40mm Bofors gun": "product-weapon"
+    }
+  },
+  {
+    "sentence": "The new building contained the Trumbull dining hall, common room, and library.",
+    "entities": {
+      "Trumbull": "building-restaurant"
+    }
+  },
+  {
+    "sentence": "He is afraid of monkeys, insects, and many other things, though his fears fluctuate as the series progresses as Ron matures.",
+    "entities": {
+      "monkeys": "other-livingthing",
+      "insects": "other-livingthing",
+      "Ron": "person-other"
+    }
+  },
+  {
+    "sentence": "Alexandros is best known today for the Venus de Milo (Aphrodite of Milos) at the Louvre Museum in Paris, France.",
+    "entities": {
+      "Alexandros": "location-GPE",
+      "Venus de Milo": "art-other",
+      "Aphrodite of Milos": "art-other",
+      "Louvre Museum": "building-other",
+      "Paris": "location-GPE",
+      "France": "location-GPE"
+    }
+  },
+  {
+    "sentence": "The faults bounding these grabens are associated with most of the earthquakes that affect the archipelago, although some earthquakes with epicentres in Sicily may have damaging effects, such as the 1693 Sicily earthquake.",
+    "entities": {
+      "Sicily": "location-GPE",
+      "1693 Sicily earthquake": "event-disaster"
+    }
+  },
+  {
+    "sentence": "Dajani has also been active in forming relationships with Jewish and Christian religious leaders and peace activists to spread the Wasatia message of understanding, tolerance, coexistence and brotherhood.",
+    "entities": {
+      "Jewish": "organization-religion",
+      "Christian": "organization-religion"
+    }
+  },
+  {
+    "sentence": "The Clinical Pharmacogenetics Implementation Consortium recommends avoiding amitriptyline in patients who are CYP2D6 ultrarapid or poor metabolizers, due to the risk for a lack of efficacy and side effects, respectively.",
+    "entities": {
+      "Clinical Pharmacogenetics Implementation Consortium": "organization-other",
+      "amitriptyline": "other-medical",
+      "CYP2D6": "other-biologything"
+    }
+  },
+  {
+    "sentence": "New York City Council's 2nd district covers the East Village, Alphabet City, Peter Cooper Village, Rose Hill, Kips Bay, Gramercy Park and parts of the Lower East Side.",
+    "entities": {
+      "New York City Council": "organization-government/governmentagency",
+      "East Village": "location-GPE",
+      "Alphabet City": "location-GPE",
+      "Peter Cooper Village": "location-GPE",
+      "Rose Hill": "location-GPE",
+      "Kips Bay": "location-GPE",
+      "Gramercy Park": "location-park",
+      "Lower East Side": "location-other"
+    }
+  },
+  {
+    "sentence": "An exact cognate outside of Hebrew is found in Ugaritic ``ʾlhm '', the family of El, the creator god and chief deity of the Canaanite pantheon, in Biblical Aramaic`` ʼĔlāhā'' and later Syriac ``Alaha ''(`` God''), and in Arabic ``ʾilāh ''(`` god, deity'') (or ``Allah ''as`` The [single] God'').",
+    "entities": {
+      "Hebrew": "other-language",
+      "Ugaritic": "other-language",
+      "El": "other-god",
+      "Aramaic": "other-language",
+      "Syriac": "other-language",
+      "Arabic": "other-language"
+    }
+  },
+  {
+    "sentence": "The grapes are used to make wines including dry, sweet, icewine but is famed for spicy sparkling wines that do not have much of the objectionable foxiness character that other ``V. labrusca`` grapes contribute to their wines.",
+    "entities": {
+      "V. labrusca": "product-food"
+    }
+  },
+  {
+    "sentence": "Grand Central finally started operating in December 2007 using three High Speed Trains.",
+    "entities": {
+      "Grand Central": "organization-company",
+      "High Speed Trains": "product-train"
+    }
+  },
+  {
+    "sentence": "``Production/Reproduction``, A Space, Toronto, Ontario.",
+    "entities": {
+      "Production/Reproduction": "art-painting",
+      "Toronto": "location-GPE",
+      "Ontario": "location-GPE"
+    }
+  },
+  {
+    "sentence": "The Second Barbra Streisand Album is the title of Barbra Streisand's second solo studio album.",
+    "entities": {
+      "The Second Barbra Streisand Album": "art-music",
+      "Barbra Streisand": "person-artist/author"
+    }
+  },
+  {
+    "sentence": "Closing ceremonies and outdoor events (mainly track and field) took place at Centennial Park Stadium.",
+    "entities": {
+      "Centennial Park Stadium": "building-sportsfacility"
+    }
+  },
+  {
+    "sentence": "It is known from the island of Honshū in Japan.",
+    "entities": {
+      "Honshū": "location-island",
+      "Japan": "location-GPE"
+    }
+  },
+  {
+    "sentence": "Marshal Jean-de-Dieu Soult became the new French army commander on 12 July 1813.",
+    "entities": {
+      "Marshal Jean-de-Dieu Soult": "person-soldier",
+      "French": "location-GPE"
+    }
+  },
+  {
+    "sentence": "The Rocket eBook was the first commercial e-reader and several others were introduced around 1998, but did not gain widespread acceptance.",
+    "entities": {
+      "Rocket eBook": "product-other"
+    }
+  },
+  {
+    "sentence": "When Phil Jackson retired as a head coach at the end of the 2010–2011 season, he finished his career with over 1000 victories over the course of his coaching career, regular season and playoff games combined.",
+    "entities": {
+      "Phil Jackson": "person-other"
+    }
+  },
+  {
+    "sentence": "A Close Shave is a 1995 British stop-motion animated comedy film directed by Nick Park and produced by Aardman Animations.",
+    "entities": {
+      "A Close Shave": "art-film",
+      "British": "location-GPE",
+      "Nick Park": "person-director",
+      "Aardman Animations": "organization-company"
+    }
+  },
+  {
+    "sentence": "In January 2014 at the NAMM Show, Charvel officially introduced the Charvel USA Guthrie Govan Signature Model in two versions: one with a Birdseye Maple top and the other with a Flame Maple top, both equipped with custom pickups.",
+    "entities": {
+      "NAMM Show": "event-other",
+      "Charvel": "organization-company",
+      "Charvel USA Guthrie Govan Signature Model": "product-other",
+      "Birdseye Maple top": "product-other",
+      "Flame Maple top": "product-other"
+    }
+  },
+  {
+    "sentence": "Following his term as ABA President, Smith focused his attention on growing Holland & amp; Knight from a regional Florida firm into one with a national presence.",
+    "entities": {
+      "ABA": "organization-other",
+      "Smith": "person-other",
+      "Holland & amp": "organization-company",
+      "Knight": "organization-company",
+      "Florida": "location-GPE"
+    }
+  },
+  {
+    "sentence": "It included barber shops, a 24-hour medical dispensary, a laundry, a post exchange, multiple squadron dayrooms, and a massive consolidated mess hall at its center, and thus was dubbed the ``Hickam Hotel``.",
+    "entities": {
+      "Hickam Hotel": "building-hotel"
+    }
+  },
+  {
+    "sentence": "In 1999, the Mohave Generating Station in Laughlin, Nevada, (75) miles away settled a long-standing lawsuit and agreed to install end-of-point sulfur scrubbers on its smoke stacks.",
+    "entities": {
+      "Mohave Generating Station": "location-other",
+      "Laughlin": "location-GPE",
+      "Nevada": "location-GPE"
+    }
+  },
+  {
+    "sentence": "In 2003, Paramount decided to relocate the roller coaster to Carowinds.",
+    "entities": {
+      "Paramount": "organization-company",
+      "Carowinds": "location-park"
+    }
+  },
+  {
+    "sentence": "Rascon has been nominated for and has received many awards, including two national Edward R. Murrow awards, one for his spot coverage of Hurricane Opal in 1995, and 19 Emmy Awards out of 25 nominations.",
+    "entities": {
+      "Rascon": "person-artist/author",
+      "Edward R. Murrow": "person-other",
+      "Hurricane Opal": "event-disaster",
+      "Emmy Awards": "other-award"
+    }
+  },
+  {
+    "sentence": "Bonifaci VI de Castellana or Castelhana (; fl.",
+    "entities": {
+      "Bonifaci VI de Castellana": "person-politician",
+      "Castelhana": "person-politician"
+    }
+  },
+  {
+    "sentence": "In his ninth season he showed three premieres at the Vienna State Opera: his own choreography ``Sylvia``, a quadruple bill evening with William Forsythe's ``Artifact Suite``, Hans van Manen's ``Trois Gnossiennes`` and ``Solo``, and Jiří Kylián's ``Psalmensymphonie``, and the ``Nureyev Gala 2019``.",
+    "entities": {
+      "Vienna State Opera": "building-theater",
+      "Sylvia": "art-other",
+      "William Forsythe": "person-artist/author",
+      "Artifact Suite": "art-other",
+      "Hans van Manen": "person-artist/author",
+      "Trois Gnossiennes": "art-other",
+      "Solo": "art-other",
+      "Jiří Kylián": "person-artist/author",
+      "Psalmensymphonie": "art-other",
+      "Nureyev Gala 2019": "art-other"
+    }
+  },
+  {
+    "sentence": "In July 2009, Henry was reappointed as the coach of the All Blacks through till the end of 2011.",
+    "entities": {
+      "Henry": "person-athlete",
+      "All Blacks": "organization-sportsteam"
+    }
+  },
+  {
+    "sentence": "Government of Andhra Pradesh is rehabilitating Havelock Bridge and constructing resorts, convention centers, film studios, hotels, recreational places at Pichukalanka and other islands on River Godavari and eco-tourism centre at Kadiyapulanka, Zoological Park.",
+    "entities": {
+      "Government of Andhra Pradesh": "organization-government/governmentagency",
+      "Havelock Bridge": "location-other",
+      "Pichukalanka": "location-GPE",
+      "River Godavari": "location-bodiesofwater",
+      "Kadiyapulanka": "location-GPE"
+    }
+  },
+  {
+    "sentence": "The other Algic languages are the Yurok and Wiyot of northwestern California, which, despite their geographic proximity, are not closely related.",
+    "entities": {
+      "Algic": "other-language",
+      "Yurok": "other-language",
+      "Wiyot": "other-language",
+      "California": "location-GPE"
+    }
+  },
+  {
+    "sentence": "Opponent of the 1913 Bank Act.",
+    "entities": {
+      "1913 Bank Act": "other-law"
+    }
+  },
+  {
+    "sentence": "From Misogyny to Equality ''at The College of William & amp; Mary.",
+    "entities": {
+      "College of William & amp": "organization-education"
+    }
+  },
+  {
+    "sentence": "Sniper rifles used include the L115A3, produced by Accuracy International.",
+    "entities": {
+      "L115A3": "product-weapon",
+      "Accuracy International": "organization-company"
+    }
+  },
+  {
+    "sentence": "3C 273 is visible in May in both the northern and southern hemispheres.",
+    "entities": {
+      "3C 273": "other-astronomything"
+    }
+  },
+  {
+    "sentence": "In 2000, Émerson played for Brazil national team in 3 matches including against Bolivia at 2002 World Cup qualification.",
+    "entities": {
+      "Émerson": "person-athlete",
+      "Brazil": "location-GPE",
+      "Bolivia": "organization-sportsteam",
+      "2002 World Cup": "event-sportsevent"
+    }
+  },
+  {
+    "sentence": "Morchella miyabeana is a species of fungus in the family Morchellaceae.",
+    "entities": {
+      "Morchella miyabeana": "other-livingthing",
+      "Morchellaceae": "other-livingthing"
+    }
+  },
+  {
+    "sentence": "He worked early in his career with the noted architect I. M. Pei, and was the chief architect for the Italian international real estate developer Società Generale Immobiliare (for whom he helped to successfully build the Watergate complex in the United States).",
+    "entities": {
+      "I. M. Pei": "person-other",
+      "Italian": "location-GPE",
+      "Società Generale Immobiliare": "person-other",
+      "Watergate": "building-other",
+      "United States": "location-GPE"
+    }
+  },
+  {
+    "sentence": "The element occurs within a number of mineral deposits, principally rutile and ilmenite, which are widely distributed in the Earth's crust and lithosphere; it is found in almost all living things, as well as bodies of water, rocks, and soils.",
+    "entities": {
+      "rutile": "other-chemicalthing",
+      "ilmenite": "other-chemicalthing"
+    }
+  },
+  {
+    "sentence": "Dog Chocolate's side was entitled ``Or``.",
+    "entities": {
+      "Dog Chocolate": "organization-showorganization",
+      "Or": "art-music"
+    }
+  },
+  {
+    "sentence": "The school is accredited by the National Architectural Accrediting Board (NAAB) and offers Bachelor of Architecture (B.Arch), Master of Architecture (M.Arch).",
+    "entities": {
+      "National Architectural Accrediting Board": "organization-other",
+      "NAAB": "organization-other",
+      "Bachelor of Architecture": "other-educationaldegree",
+      "B.Arch": "other-educationaldegree",
+      "Master of Architecture": "other-educationaldegree",
+      "M.Arch": "other-educationaldegree"
+    }
+  },
+  {
+    "sentence": "Formulations containing high concentrations of aspirin often smell like vinegar because aspirin can decompose through hydrolysis in moist conditions, yielding salicylic and acetic acids.",
+    "entities": {
+      "aspirin": "other-medical",
+      "salicylic": "other-chemicalthing",
+      "acetic acids": "other-chemicalthing"
+    }
+  },
+  {
+    "sentence": "In January 1962, Valley Forge General Hospital was one of four Army general hospitals chosen to offer a six-month supervised clinical training program in psychiatric nursing for Army Nurse Corps officers, qualifying them for award of the psychiatric nurse military occupational specialty upon completion of the course.",
+    "entities": {
+      "Valley Forge General Hospital": "building-hospital",
+      "Army general hospitals": "building-hospital",
+      "Army Nurse Corps officers": "organization-other"
+    }
+  },
+  {
+    "sentence": "Ordered to follow the troops attempting to cut off the enemy retreat, McPherson describes the problems which developed among his section of the Egyptian Camel Transport Corps when the terms of employment were changed and resulting unrest was dealt with.",
+    "entities": {
+      "McPherson": "person-other",
+      "Egyptian Camel Transport Corps": "organization-politicalparty"
+    }
+  },
+  {
+    "sentence": "Some of these mutations are not directly lethal and instead confer resistance to malaria, particularly in Africa where malaria is epidemic.",
+    "entities": {
+      "malaria": "other-disease",
+      "Africa": "location-GPE"
+    }
+  },
+  {
+    "sentence": "After the Mac OS X version was released, Ali used Mixed In Key to help sequence songs for his Global Underground 31 Taipei album.",
+    "entities": {
+      "Mac OS X": "product-software",
+      "Ali": "person-artist/author",
+      "Mixed In Key": "product-software",
+      "Global Underground 31 Taipei": "art-music"
+    }
+  },
+  {
+    "sentence": "Hans Gruber is a fictional character and the main antagonist of the 1988 action film ``Die Hard`` portrayed by Alan Rickman.",
+    "entities": {
+      "Hans Gruber": "person-other",
+      "Die Hard": "art-film",
+      "Alan Rickman": "person-actor"
+    }
+  },
+  {
+    "sentence": "Its C terminal domain seems to inhibit ATP ase activity of the synthase.",
+    "entities": {
+      "ATP": "other-biologything"
+    }
+  },
+  {
+    "sentence": "Vancouver International Airport is one of eight Canadian airports that have US Border Preclearance facilities.",
+    "entities": {
+      "Vancouver International Airport": "building-airport",
+      "Canadian": "location-GPE",
+      "US": "location-GPE"
+    }
+  },
+  {
+    "sentence": "Huitzilopochco was famous for the hummingbird feathers (sacred to Huitzilopochtli) that it sent in tribute to the capital.",
+    "entities": {
+      "Huitzilopochco": "person-scholar",
+      "hummingbird": "other-biologything",
+      "Huitzilopochtli": "person-scholar"
+    }
+  },
+  {
+    "sentence": "He is the maternal grandson of the Fomorian tyrant Balor, whom Lugh kills in the ``Battle of Mag Tuired``.",
+    "entities": {
+      "Fomorian tyrant Balor": "other-god",
+      "Lugh": "other-god",
+      "Battle of Mag Tuired": "event-attack/battle/war/militaryconflict"
+    }
+  },
+  {
+    "sentence": "It lies to the northwest of the intersection of Wisconsin Highway 60 and U.S. Route 45.",
+    "entities": {
+      "Wisconsin Highway 60": "location-road/railway/highway/transit",
+      "U.S. Route 45": "location-road/railway/highway/transit"
+    }
+  },
+  {
+    "sentence": "In September 2015, Caesars Palace agreed to pay the Financial Crimes Enforcement Network an $8 million civil money penalty for violating the Bank Secrecy Act.",
+    "entities": {
+      "Caesars Palace": "building-other",
+      "Financial Crimes Enforcement Network": "organization-other",
+      "$": "other-currency",
+      "Bank Secrecy Act": "other-law"
+    }
+  },
+  {
+    "sentence": "This was the final NFL game for Csonka, as well as the final playoff game for Griese, who completed just 14 of 26 passes for 118 yards and was sacked 8 times before being replaced by Don Strock with 8:55 left in the fourth quarter.",
+    "entities": {
+      "NFL": "organization-sportsleague",
+      "Csonka": "person-athlete",
+      "Griese": "person-athlete",
+      "Don Strock": "person-athlete"
+    }
+  },
+  {
+    "sentence": "The eastern portion of West Georgia features the Theatre District (including Queen Elizabeth Theatre and the Centre in Vancouver for the Performing Arts), Library Square (the central branch of the Vancouver Public Library), Rogers Arena, and BC Place.",
+    "entities": {
+      "West Georgia": "location-road/railway/highway/transit",
+      "Queen Elizabeth Theatre": "building-theater",
+      "Centre in Vancouver for the Performing Arts": "building-other",
+      "Library Square": "building-other",
+      "Vancouver Public Library": "building-library",
+      "Rogers Arena": "building-sportsfacility",
+      "BC Place": "building-sportsfacility"
+    }
+  },
+  {
+    "sentence": "The 1989 WCT Finals was a tennis tournament played on indoor carpet courts.",
+    "entities": {
+      "WCT Finals": "event-sportsevent",
+      "tennis": "product-game"
+    }
+  },
+  {
+    "sentence": "Beer in Belgium varies from pale lager to amber ales, lambic beers, Flemish red ales, sour brown ales, strong ales and stouts.",
+    "entities": {
+      "Belgium": "location-GPE",
+      "pale lager": "product-food",
+      "amber ales": "product-food",
+      "lambic beers": "product-food",
+      "Flemish red ales": "product-food",
+      "sour brown ales": "product-food",
+      "strong ales": "product-food",
+      "stouts": "product-food"
+    }
+  },
+  {
+    "sentence": "Pentecostalism would later birth the Charismatic movement within already established denominations, and it continues to be an important force in Western Christianity.",
+    "entities": {
+      "Pentecostalism": "organization-religion",
+      "Christianity": "organization-religion"
+    }
+  },
+  {
+    "sentence": "An October 2015 report by ``The Economist`` ranked The University of Scranton No.",
+    "entities": {
+      "The Economist": "organization-media/newspaper",
+      "University of Scranton": "organization-education"
+    }
+  },
+  {
+    "sentence": "She also published articles on the Dieppe Raid in World War II, as well as a book on genealogy.",
+    "entities": {
+      "Dieppe Raid": "art-broadcastprogram",
+      "World War II,": "event-attack/battle/war/militaryconflict"
+    }
+  },
+  {
+    "sentence": "Fera is run by Michelin -starred chef Simon Rogan, who previously ran L'Enclume in Cumbria, England.",
+    "entities": {
+      "Fera": "building-restaurant",
+      "Michelin": "building-restaurant",
+      "Simon Rogan": "person-other",
+      "L'Enclume": "building-restaurant",
+      "Cumbria": "location-GPE",
+      "England": "location-GPE"
+    }
+  },
+  {
+    "sentence": "``Shiny Two`` relocated to RAF Celle in June 1945 after the war in Europe was won as part of the British Air Forces of Occupation.",
+    "entities": {
+      "Shiny Two": "product-airplane",
+      "RAF Celle": "building-other",
+      "Europe": "location-GPE",
+      "British Air Forces": "organization-other"
+    }
+  },
+  {
+    "sentence": "It dieselized with many EMD F-units, which were supplemented by SD9s, SD18s and ALCo RSD15s.",
+    "entities": {
+      "SD9s": "product-train",
+      "SD18s": "product-train",
+      "ALCo RSD15s": "product-train"
+    }
+  },
+  {
+    "sentence": "Though rally cars were standard fare, Le Mans and prototype racing models often appeared such as the Porsche LMP and 936.",
+    "entities": {
+      "Le Mans": "product-car",
+      "Porsche LMP": "product-car"
+    }
+  },
+  {
+    "sentence": "They argue that only patrilineal descent can transmit Jewish identity on the grounds that all descent in the Torah went according to the male line.",
+    "entities": {
+      "Torah": "art-writtenart"
+    }
+  },
+  {
+    "sentence": "It was located in Moraga Canyon in the Santa Monica Mountains, in the hilly part of the upscale neighborhood of Bel Air in Los Angeles, California.",
+    "entities": {
+      "Moraga Canyon": "location-mountain",
+      "Santa Monica Mountains": "location-mountain",
+      "Bel Air": "location-GPE",
+      "Los Angeles": "location-GPE",
+      "California": "location-GPE"
+    }
+  },
+  {
+    "sentence": "The ``Centauro`` class is Portuguese-designed and built at the Arsenal do Alfeite (Almada) and Estaleiros Navais do Mondego (Figueira da Foz).",
+    "entities": {
+      "Centauro": "product-ship",
+      "the Arsenal do Alfeite": "location-GPE",
+      "Almada": "location-GPE",
+      "Estaleiros Navais do Mondego": "location-GPE",
+      "Figueira da Foz": "location-GPE"
+    }
+  },
+  {
+    "sentence": "Shot during and in the wake of the Zimbabwean presidential election, 2008 and the country's economic meltdown by an American, Zimbabwean and Jamaican team, the film unfolds against the backdrop of enormous political tension and the daily struggle to find a bank that actually had cash, to buy food although the store shelves were empty, and to navigate streets pocked with wheelchair-mangling potholes.",
+    "entities": {
+      "Zimbabwean presidential election": "event-election",
+      "American": "location-GPE",
+      "Zimbabwean": "location-GPE",
+      "Jamaican": "location-GPE"
+    }
+  },
+  {
+    "sentence": "Just before Mao's death, he tricked his way into a voice training program, and ultimately left China during the Anti-Spiritual Pollution Campaign of the mid-80s, to earn a master's degree at the University of Denver.",
+    "entities": {
+      "Mao": "person-politician",
+      "China": "location-GPE",
+      "Anti-Spiritual Pollution Campaign": "event-protest",
+      "University of Denver": "organization-education"
+    }
+  },
+  {
+    "sentence": "Stephens is credited as the first person to create the ``Cofiwch Dryweryn`` graffiti near Llanrhystyd, Ceredigion.",
+    "entities": {
+      "Stephens": "person-artist/author",
+      "Cofiwch Dryweryn": "art-painting",
+      "Llanrhystyd": "location-GPE",
+      "Ceredigion": "location-GPE"
+    }
+  },
+  {
+    "sentence": "In the discus final, Robert Harting of Germany won gold in front of a home crowd, trowing 69.43 metres.",
+    "entities": {
+      "Robert Harting": "person-athlete",
+      "Germany": "location-GPE"
+    }
+  },
+  {
+    "sentence": "Tokyo Chinese School (TCS) is a Chinese International school in (五番町), Chiyoda, Tokyo, Japan.",
+    "entities": {
+      "Tokyo Chinese School": "organization-education",
+      "TCS": "organization-education",
+      "Chinese": "location-GPE",
+      "五番町": "location-GPE",
+      "Chiyoda": "location-GPE",
+      "Tokyo": "location-GPE",
+      "Japan": "location-GPE"
+    }
+  },
+  {
+    "sentence": "October 2015 he was awarded the Bronze Medal for Merit to Culture – Gloria Artis.",
+    "entities": {
+      "Bronze Medal": "other-award"
+    }
+  },
+  {
+    "sentence": "In 1968, he was elected as a Member of Bihar's legislative council and continued in this role until 1977.",
+    "entities": {
+      "Bihar's legislative council": "organization-government/governmentagency"
+    }
+  },
+  {
+    "sentence": "In 2016 Murphy, along with Steven Page (Barenaked Ladies), Moe Berg (The Pursuit of Happiness) and Craig Northey (Odds), formed the group The Trans-Canada Highwaymen; they performed their first show in Niagara in July that year, and toured across Canada in 2017.",
+    "entities": {
+      "Murphy": "person-artist/author",
+      "Steven Page": "person-artist/author",
+      "Barenaked Ladies": "organization-showorganization",
+      "Moe Berg": "person-artist/author",
+      "The Pursuit of Happiness": "organization-showorganization",
+      "Craig Northey": "person-artist/author",
+      "Odds": "organization-showorganization",
+      "The Trans-Canada Highwaymen": "organization-showorganization",
+      "Niagara": "location-GPE",
+      "Canada": "location-GPE"
+    }
+  },
+  {
+    "sentence": "Blocking CCR5 with Maraviroc (a drug approved for HIV) may enhance recovery after stroke.",
+    "entities": {
+      "CCR5": "other-biologything",
+      "Maraviroc": "other-medical",
+      "HIV": "other-disease"
+    }
+  },
+  {
+    "sentence": "Their main hub is located at Southwest Florida International Airport in Fort Myers, Florida.",
+    "entities": {
+      "Southwest Florida International Airport": "building-airport",
+      "Fort Myers": "location-GPE",
+      "Florida": "location-GPE"
+    }
+  },
+  {
+    "sentence": "He lost in the qualification to Wimbledon 2009 to Jesse Levine 4–6, 7–6, 5–7.",
+    "entities": {
+      "Wimbledon": "event-sportsevent",
+      "Jesse Levine": "person-athlete"
+    }
+  },
+  {
+    "sentence": "In the early 20th century, the area now known as Chaffee Park was a semi-rural area of truck farms interspersed with houses.",
+    "entities": {
+      "Chaffee Park": "location-park"
+    }
+  },
+  {
+    "sentence": "In 2020, we are expected to see him perform with the Moscow State Symphony Orchestra, Polish Baltic Philharmonic, and Colorado Springs Philharmonic, and returns to the Teatro Carlo Felice in Genoa performing Elgar ’ s Violin Concerto.",
+    "entities": {
+      "Moscow State Symphony Orchestra": "organization-showorganization",
+      "Polish Baltic Philharmonic": "organization-showorganization",
+      "Colorado Springs Philharmonic": "organization-showorganization",
+      "Teatro Carlo Felice": "building-theater",
+      "Genoa": "location-GPE",
+      "Elgar": "person-artist/author",
+      "Violin Concerto": "art-music"
+    }
+  },
+  {
+    "sentence": "Changes in EEG can therefore be used to measure the sedative sleep promoting properties of lormetazepam.",
+    "entities": {
+      "lormetazepam": "product-other"
+    }
+  },
+  {
+    "sentence": "On the way the route passes near the scenic Wellington Dam and Ferguson Valley, and travels through the historic coal mining town of Collie.",
+    "entities": {
+      "Wellington Dam": "building-other",
+      "Ferguson Valley": "location-mountain",
+      "Collie": "location-GPE"
+    }
+  },
+  {
+    "sentence": "A/UX's compatibility layer uses some existing Toolbox functions in the computer ’ s ROM, while other function calls are translated into native Unix system calls; and it cooperatively multitasks all Macintosh apps in a single address space by using a token-passing system for their access to the Toolbox.",
+    "entities": {
+      "Unix": "product-software",
+      "Macintosh": "product-software"
+    }
+  },
+  {
+    "sentence": "Peoria's Catholic bishop, John J. Myers, hosted a visit by Blessed Mother Theresa of Calcutta and was named Archbishop of Newark in 2001, shortly after September 11.",
+    "entities": {
+      "Peoria": "location-GPE",
+      "Catholic": "organization-religion",
+      "John J. Myers": "person-other",
+      "Blessed Mother Theresa": "person-other",
+      "Calcutta": "location-GPE",
+      "Newark": "location-GPE"
+    }
+  },
+  {
+    "sentence": "During the Battle of the Philippines he was reassigned to Bataan and then Australia.",
+    "entities": {
+      "Battle of the Philippines": "event-attack/battle/war/militaryconflict",
+      "Bataan": "location-GPE",
+      "Australia": "location-GPE"
+    }
+  },
+  {
+    "sentence": "While, Bequia Easter Regatta sponsored by Sparrow ’ s Premium Rum and highlights a unique blend of local boat racing, yacht racing and Bequia hospitality.",
+    "entities": {
+      "Bequia Easter Regatta": "event-sportsevent",
+      "Sparrow ’ s Premium Rum": "organization-company",
+      "Bequia": "location-island"
+    }
+  },
+  {
+    "sentence": "Other clients included King Ibn Saud of Saudi Arabia, the Ahwahnee Hotel in Yosemite, and the Paramount Theatre in Oakland, California.",
+    "entities": {
+      "Ibn Saud": "person-other",
+      "Saudi Arabia": "location-GPE",
+      "Ahwahnee Hotel": "building-hotel",
+      "Yosemite": "location-GPE",
+      "Paramount Theatre": "building-theater",
+      "Oakland": "location-GPE",
+      "California": "location-GPE"
+    }
+  },
+  {
+    "sentence": "Thor bought the historic Palmer House Hilton Hotel in Chicago's Loop area in 2005 for $230 million and undertook an award-winning $150 million renovation.",
+    "entities": {
+      "Thor": "person-other",
+      "Palmer House Hilton Hotel": "building-hotel",
+      "Chicago": "location-GPE",
+      "Loop": "location-GPE",
+      "$": "other-currency"
+    }
+  },
+  {
+    "sentence": "Guido, a moderate senator from then-remote Río Negro Province, had been elected on Frondizi's's UCRI ticket.",
+    "entities": {
+      "Guido": "person-politician",
+      "Río Negro Province": "location-GPE",
+      "Frondizi": "person-politician",
+      "UCRI": "organization-politicalparty"
+    }
+  },
+  {
+    "sentence": "Born in 1937, Tlemçani played for Espérance Sportive de Tunis and the Tunisian national team.",
+    "entities": {
+      "Tlemçani": "person-athlete",
+      "Espérance Sportive de Tunis": "organization-sportsteam",
+      "Tunisian national team": "organization-sportsteam"
+    }
+  },
+  {
+    "sentence": "Five more actresses including Kiran Rathod, Meghna Naidu and Keerthi Chawla joined the cast thereafter, with a photoshoot being held later in September 2012.",
+    "entities": {
+      "Kiran Rathod": "person-actor",
+      "Meghna Naidu": "person-actor",
+      "Keerthi Chawla": "person-actor"
+    }
+  },
+  {
+    "sentence": "His grandfather Ustad Shake Abdulla Khan was a Sarangi artiste in the courts of Mysore Maharaja and Nawabs of Hyderabad and he used to accompany Abdul Karim Khan and even Bhimsen Joshi used to tell Faiyaz Khan about his grandfather.",
+    "entities": {
+      "Ustad Shake Abdulla Khan": "person-artist/author",
+      "Sarangi": "art-other",
+      "Mysore Maharaja": "person-politician",
+      "Hyderabad": "person-politician",
+      "Abdul Karim Khan": "person-other",
+      "Bhimsen Joshi": "person-other",
+      "Faiyaz Khan": "person-other"
+    }
+  },
+  {
+    "sentence": "On September 22, 2015, Xi Jinping, and his wife, Peng Liyuan, arrived at Paine Field and stepped off an Air China aircraft at about 9:30 am (Pacific Daylight Time).",
+    "entities": {
+      "Xi Jinping": "person-politician",
+      "Peng Liyuan": "person-politician",
+      "Paine Field": "building-airport",
+      "Air China": "organization-company",
+      "Pacific": "location-bodiesofwater"
+    }
+  },
+  {
+    "sentence": "In 1960, 1966 and 1969 Frisch's licensed three Elby's Big Boys in the upper Ohio Valley area of Ohio.",
+    "entities": {
+      "Frisch's": "organization-company",
+      "Elby's Big Boys": "building-restaurant",
+      "Ohio Valley": "location-GPE",
+      "Ohio": "location-GPE"
+    }
+  },
+  {
+    "sentence": "STS-112 was the first shuttle mission to use a camera on the External Tank, providing a live view of the launch to flight controllers and NASA TV viewers.",
+    "entities": {
+      "STS-112": "product-other",
+      "NASA TV": "organization-media/newspaper"
+    }
+  },
+  {
+    "sentence": "When Comet Hale-Bopp arrived in 1997 and when Halley's comet was visible in 1986, he did shows about them.",
+    "entities": {
+      "Hale-Bopp": "other-astronomything",
+      "Halley's comet": "other-astronomything"
+    }
+  },
+  {
+    "sentence": "Lysine plays several roles in humans, most importantly proteinogenesis, but also in the crosslinking of collagen polypeptides, uptake of essential mineral nutrients, and in the production of carnitine, which is key in fatty acid metabolism.",
+    "entities": {
+      "Lysine": "other-chemicalthing",
+      "collagen": "other-biologything",
+      "carnitine": "other-chemicalthing",
+      "fatty acid": "other-chemicalthing"
+    }
+  },
+  {
+    "sentence": "While less powerful than the Cyclone, the M-22 powered aircraft were still superior to the I-5 which it replaced, demonstrating excellent manoeuvrability.",
+    "entities": {
+      "M-22 powered aircraft": "product-airplane",
+      "I-5": "product-airplane"
+    }
+  },
+  {
+    "sentence": "The match, which was played at the Rudolf-Harbig-Stadion in Dresden, was won 2–4 on penalties by Kaiserslautern, following a 1–1 draw after extra time.",
+    "entities": {
+      "Rudolf-Harbig-Stadion": "building-sportsfacility",
+      "Dresden": "location-GPE",
+      "Kaiserslautern": "person-athlete"
+    }
+  },
+  {
+    "sentence": "In 1944, President Franklin Delano Roosevelt proposed a Second Bill of Rights during his State of the Union speech, which included the right to decent housing.",
+    "entities": {
+      "Franklin Delano Roosevelt": "person-politician",
+      "Second Bill of Rights": "other-law"
+    }
+  },
+  {
+    "sentence": "They were designed as a lighter version of the GWR Grange Class, giving them a wider Route Availability.",
+    "entities": {
+      "GWR Grange Class": "product-train"
+    }
+  },
+  {
+    "sentence": "Three years in the making, the Opening Ceremony was hailed a ``triumph ''by`` Time ``magazine and`` The Times ``of London.",
+    "entities": {
+      "Time": "art-writtenart",
+      "The Times": "organization-media/newspaper",
+      "London": "location-GPE"
+    }
+  },
+  {
+    "sentence": "After the war ended, Henry commanded air bases in Dallas, Texas, and Topeka, Kansas, and Westover Field, Massachusetts.",
+    "entities": {
+      "Henry": "person-soldier",
+      "Dallas": "location-GPE",
+      "Texas": "location-GPE",
+      "Topeka": "location-GPE",
+      "Kansas": "location-GPE",
+      "Westover Field": "location-GPE",
+      "Massachusetts": "location-GPE"
+    }
+  },
+  {
+    "sentence": "After winning the WBC and lineal championships from Oscar De La Hoya that year, he moved up in weight and by 2001 had also won titles at junior middleweight and middleweight.",
+    "entities": {
+      "WBC": "organization-other",
+      "Oscar De La Hoya": "person-athlete"
+    }
+  },
+  {
+    "sentence": "The system includes the Denver Central Library, located in the Golden Triangle district of Downtown Denver, as well as 25 branch locations and two bookmobiles.",
+    "entities": {
+      "Denver Central Library": "building-library",
+      "Golden Triangle district": "location-GPE",
+      "Denver": "location-GPE"
+    }
+  },
+  {
+    "sentence": "In 2017, CBC News relaunched its flagship newscast, ``The National``, with four co-anchors based in Toronto, Ottawa and Vancouver.",
+    "entities": {
+      "CBC": "organization-media/newspaper",
+      "The National": "art-broadcastprogram",
+      "Toronto": "location-GPE",
+      "Ottawa": "location-GPE",
+      "Vancouver": "location-GPE"
+    }
+  },
+  {
+    "sentence": "The United Liberal National Party (, ``Miatsyal Azatakan Azgayin Kusaktsutyun``), also known by its Armenian initials (, ``MIAK``), is an Armenian national liberal political party established in 2007 and headquartered in Yerevan, Armenia.",
+    "entities": {
+      "United Liberal National Party": "organization-politicalparty",
+      "Miatsyal Azatakan Azgayin Kusaktsutyun": "organization-politicalparty",
+      "Armenian": "other-language",
+      "MIAK": "organization-politicalparty",
+      "Armenian national liberal political party": "organization-politicalparty",
+      "Yerevan": "location-GPE",
+      "Armenia": "location-GPE"
+    }
+  },
+  {
+    "sentence": "On June 30, 1898, the first passenger train arrived in Port aux Basques, and ``Bruce`` departed for North Sydney shortly afterward.",
+    "entities": {
+      "Port aux Basques": "location-other",
+      "Bruce": "product-ship",
+      "Sydney": "location-GPE"
+    }
+  },
+  {
+    "sentence": "Most Mentos packages describe the mints as ``chewy dragées. ''",
+    "entities": {
+      "Mentos": "product-food",
+      "chewy dragées": "product-food"
+    }
+  },
+  {
+    "sentence": "In early 2012, a faded print of the original ending sequence was found in the Saul Bass Collection at the Academy Film Archive in a preview version of the film, which was originally shown to test audiences in 1973.",
+    "entities": {
+      "Saul Bass": "person-director",
+      "Academy Film Archive": "building-other"
+    }
+  },
+  {
+    "sentence": "He has taught in various capacities at the University of Hawai ‘ i at Mānoa, Chaminade University, Kapiolani Community College, West Virginia University, University of Toledo, and Antioch College's Buddhist Studies Program in London, England and Bodhgaya, India.",
+    "entities": {
+      "University of Hawai ‘ i at Mānoa": "organization-education",
+      "Chaminade University": "organization-education",
+      "Kapiolani Community College": "organization-education",
+      "West Virginia University": "organization-education",
+      "University of Toledo": "organization-education",
+      "Antioch College": "organization-education",
+      "Buddhist Studies Program": "event-other",
+      "London": "location-GPE",
+      "England": "location-GPE",
+      "Bodhgaya": "location-GPE",
+      "India": "location-GPE"
+    }
+  },
+  {
+    "sentence": "He graduated from the University of Melbourne, Australia, with a First Class Honours degree in Economics and from Boston University with a Masters in Economic Development.",
+    "entities": {
+      "University of Melbourne": "organization-education",
+      "Australia": "location-GPE",
+      "First Class Honours degree in Economics": "other-educationaldegree",
+      "Boston University": "organization-education",
+      "Masters in Economic Development": "other-educationaldegree"
+    }
+  },
+  {
+    "sentence": "In the fourth installment, ``Blood Money``, he is now able to climb certain edifices (such as fencing, vines, loose bricks, crates etc.)",
+    "entities": {
+      "Blood Money": "product-game"
+    }
+  },
+  {
+    "sentence": "Although 50,000 MAS-44 rifles were ordered in January 1945, only 6,200 were delivered to the Marine Nationale.",
+    "entities": {
+      "MAS-44": "product-weapon",
+      "Marine Nationale": "organization-other"
+    }
+  },
+  {
+    "sentence": "In 1988, during the administration of Corazon Aquino, the North main line was closed, with trains unable to reach various provinces in the country.",
+    "entities": {
+      "Corazon Aquino": "person-politician",
+      "North": "location-road/railway/highway/transit"
+    }
+  },
+  {
+    "sentence": "The first International Prize for Biology was awarded to E. J. H. Corner, who was a prominent scientist in the field of systematic biology, because Emperor Shōwa was interested in and worked on this field for long time.",
+    "entities": {
+      "International Prize for Biology": "other-award",
+      "E. J. H. Corner": "person-scholar",
+      "Shōwa": "person-politician"
+    }
+  },
+  {
+    "sentence": "The 1979 Maryland Terrapins football team represented the University of Maryland in the 1979 NCAA Division I-A football season.",
+    "entities": {
+      "Maryland Terrapins football team": "organization-sportsteam",
+      "University of Maryland": "location-GPE",
+      "NCAA": "organization-sportsleague",
+      "I-A football season": "organization-sportsleague"
+    }
+  },
+  {
+    "sentence": "Juan Pablo Montoya finished second in a Williams car, and Kimi Räikkönen third driving for McLaren.",
+    "entities": {
+      "Juan Pablo Montoya": "person-athlete",
+      "Williams": "product-car",
+      "Kimi Räikkönen": "person-athlete",
+      "McLaren": "product-car"
+    }
+  },
+  {
+    "sentence": "PCBS decided not to contest the Sabah state election, 1985 and instead supported Joseph Pairin Kitingan's Parti Bersatu Sabah (PBS) in the elections.",
+    "entities": {
+      "PCBS": "organization-politicalparty",
+      "Sabah state election": "event-election",
+      "Joseph Pairin Kitingan": "person-politician",
+      "Parti Bersatu Sabah": "organization-politicalparty",
+      "PBS": "organization-politicalparty"
+    }
+  },
+  {
+    "sentence": "Before the Pueblo Revolt of 1680, the Zuni lived in six different villages.",
+    "entities": {
+      "Pueblo Revolt": "event-protest",
+      "Zuni": "organization-other"
+    }
+  },
+  {
+    "sentence": "Male and female northern tree-dwelling funnel-web spiders rear up and display their fangs when confronted, drops of venom appearing on the ends of their fangs.",
+    "entities": {
+      "northern tree-dwelling funnel-web spiders": "other-livingthing"
+    }
+  },
+  {
+    "sentence": "An untitled ``Queen of Babble`` movie is currently ``in development ''.",
+    "entities": {
+      "Queen of Babble": "art-film"
+    }
+  },
+  {
+    "sentence": "MMC also is just one of 48 hospitals out of 4,500 nationwide and the only hospital in Maine that was recognized as “high performing ” in all nine procedures and conditions included in the 2017-2018 survey of U.S. hospitals: Abdominal Aortic Aneurysm Repair, Aortic Valve Surgery, Colon Cancer Surgery, Chronic Obstructive Pulmonary Disease (COPD), Heart, Bypass Surgery, Congestive Heart Failure, Hip Replacement, Knee Replacement, and Lung Cancer Surgery.",
+    "entities": {
+      "MMC": "building-hospital",
+      "Maine": "location-GPE"
+    }
+  },
+  {
+    "sentence": "Paramatma as ``Vasudeva``, his Vyuha as ``Samkarshana``, Yogamaya as ``Subhadra``, and his Vibhava as ``Sudarsana``.",
+    "entities": {
+      "Paramatma": "other-god",
+      "Vasudeva": "other-god",
+      "Vyuha": "other-god",
+      "Samkarshana": "other-god",
+      "Yogamaya": "other-god",
+      "Subhadra": "other-god",
+      "Vibhava": "other-god",
+      "Sudarsana": "other-god"
+    }
+  },
+  {
+    "sentence": "Father Brian has collected donations from the Western Australian community to support humanitarian efforts for Australian disasters like Cyclone Tracy, 2003 Canberra bushfires and the 2009 Victorian Bushfires.",
+    "entities": {
+      "Father Brian": "person-other",
+      "Western Australian": "location-GPE",
+      "Australian": "location-GPE",
+      "Cyclone Tracy": "event-disaster",
+      "2003 Canberra bushfires": "event-disaster",
+      "2009 Victorian Bushfires": "event-disaster"
+    }
+  },
+  {
+    "sentence": "In addition to these Sony collaboration lenses, Zeiss offers Touit (APS-C format), Loxia (35mm format) and Batis (35mm format) lenses for E-mount.",
+    "entities": {
+      "Sony": "organization-company",
+      "Zeiss": "person-other",
+      "Touit": "art-painting",
+      "Loxia": "art-painting",
+      "Batis": "art-painting",
+      "E-mount": "product-other"
+    }
+  },
+  {
+    "sentence": "Chemical synthesis was supplanted by the aerobic fermentation of sugars and ammonia in the 1950s, with the organism ``Corynebacterium glutamicum`` (also known as ``Brevibacterium flavum``) being the most widely used for production.",
+    "entities": {
+      "Corynebacterium glutamicum": "other-biologything",
+      "Brevibacterium flavum": "other-biologything"
+    }
+  },
+  {
+    "sentence": "As the freeway runs eastward, it passes the area of Grand Rapids known as the ``Medical Mile``, a district anchored by the Van Andel Institute, Helen DeVos Children's Hospital, a campus of the Michigan State University College of Human Medicine and the Butterworth Hospital campus of Spectrum Health.",
+    "entities": {
+      "Grand Rapids": "location-GPE",
+      "Medical Mile": "location-other",
+      "Van Andel Institute": "organization-other",
+      "Helen DeVos Children's Hospital": "building-hospital",
+      "Michigan State University College of Human Medicine": "organization-education",
+      "Butterworth Hospital": "building-hospital"
+    }
+  },
+  {
+    "sentence": "She fled Tibet to India in response to the 1959 Tibetan uprising alongside her brother and other prominent Tibetans with he support of the Central Intelligence Agency's Special Activities Center.",
+    "entities": {
+      "Tibet": "location-GPE",
+      "India": "location-GPE",
+      "Tibetan": "location-GPE",
+      "Central Intelligence Agency": "organization-government/governmentagency",
+      "Special Activities Center": "organization-other"
+    }
+  },
+  {
+    "sentence": "A life member of the Actors Studio, Harris received a Tony Award nomination in 1962 for Outstanding Featured Actress in a Musical for her Broadway debut in the original musical revue production ``From the Second City``, which ran at the Royale Theatre from September 26, 1961 to December 9, 1961.",
+    "entities": {
+      "Actors Studio": "organization-other",
+      "Harris": "person-actor",
+      "Tony Award": "other-award",
+      "Outstanding Featured Actress": "other-award",
+      "Broadway": "building-theater",
+      "From the Second City": "art-music",
+      "Royale Theatre": "building-other"
+    }
+  },
+  {
+    "sentence": "Examples of currency unions are the Eurozone, CFA and CFP franc zones.",
+    "entities": {
+      "Eurozone": "other-currency",
+      "CFA": "other-currency",
+      "CFP franc": "other-currency"
+    }
+  },
+  {
+    "sentence": "Akiva Goldsman and Mark Verheiden were writing it.",
+    "entities": {
+      "Akiva Goldsman": "person-artist/author",
+      "Mark Verheiden": "person-artist/author"
+    }
+  },
+  {
+    "sentence": "Born to a working-class family, Pendragon served in the British Army's Royal Hampshire Regiment before being discharged following an injury.",
+    "entities": {
+      "Pendragon": "person-other",
+      "British Army's Royal Hampshire Regiment": "organization-other"
+    }
+  },
+  {
+    "sentence": "In December, the team acquired Armen Gilliam from the Phoenix Suns.",
+    "entities": {
+      "Armen Gilliam": "person-athlete",
+      "Phoenix Suns": "organization-sportsteam"
+    }
+  },
+  {
+    "sentence": "In life he counted among his friends a wide circle, including Yazoo City childhood friends, well-known writers like Winston Groom (``Forrest Gump``), William Styron (``Sophie's Choice``), John Knowles (``A Separate Peace``), James Dickey (``Deliverance``) and Irwin Shaw (``Rich Man, Poor Man``), and Larry L. King (``The Best Little Whorehouse in Texas``).",
+    "entities": {
+      "Yazoo City": "location-GPE",
+      "Winston Groom": "person-artist/author",
+      "Forrest Gump": "art-writtenart",
+      "William Styron": "person-artist/author",
+      "Sophie's Choice": "art-writtenart",
+      "John Knowles": "person-artist/author",
+      "A Separate Peace": "art-writtenart",
+      "James Dickey": "person-artist/author",
+      "Deliverance": "art-writtenart",
+      "Irwin Shaw": "person-artist/author",
+      "Rich Man, Poor Man": "art-writtenart",
+      "Larry L. King": "person-artist/author",
+      "The Best Little Whorehouse in Texas": "art-writtenart"
+    }
+  },
+  {
+    "sentence": "Major music festivals in Hawaii include the Merrie Monarch Hula Festival, which brings together hula groups from across the world, as well as a number of slack-key and steel guitar festivals: Big Island Slack Key Guitar Festival, Steel Guitar Association Festival and the Gabby Pahinui/Atta Isaacs Slack Key Festival.",
+    "entities": {
+      "Hawaii": "location-GPE",
+      "Merrie Monarch Hula Festival": "event-other",
+      "Big Island Slack Key Guitar Festival": "event-other",
+      "Steel Guitar Association Festival": "event-other",
+      "Gabby Pahinui/Atta Isaacs Slack Key Festival": "event-other"
+    }
+  },
+  {
+    "sentence": "On 12 October 2016, Lungu inaugurated the 2016/17 season of the Teatro Regio Turin as Mimì in a new production of ``La bohème``.",
+    "entities": {
+      "Lungu": "person-artist/author",
+      "Teatro Regio Turin": "building-theater",
+      "Mimì": "person-other",
+      "La bohème": "art-other"
+    }
+  },
+  {
+    "sentence": "Newtonairds (NX877801) was one of the principal stations on the now closed Cairn Valley Light Railway branch from Dumfries.",
+    "entities": {
+      "Newtonairds": "building-other",
+      "Cairn Valley Light Railway": "location-road/railway/highway/transit",
+      "Dumfries": "location-GPE"
+    }
+  },
+  {
+    "sentence": "With McAdoo as president of the Hudson and Manhattan Railroad Company, two passenger tubes were completed and opened in 1908.",
+    "entities": {
+      "McAdoo": "person-other",
+      "Hudson and Manhattan Railroad Company": "organization-company"
+    }
+  },
+  {
+    "sentence": "In 1999 NASA visited 433 Eros with the NEAR spacecraft which entered its orbit in 2000, closely imaging the asteroid with various instruments at that time.",
+    "entities": {
+      "NASA": "organization-government/governmentagency",
+      "433 Eros": "other-astronomything",
+      "NEAR": "product-other"
+    }
+  },
+  {
+    "sentence": "She also took a role in the thriller ``Underground`` at Toronto's Royal Alexandra Theatre and London's Prince of Wales Theatre in 1983, as well as a 1997 episode of ``The Bill``.",
+    "entities": {
+      "Underground": "art-other",
+      "Toronto": "location-GPE",
+      "Royal Alexandra Theatre": "building-theater",
+      "London": "location-GPE",
+      "Prince of Wales Theatre": "building-theater",
+      "The Bill": "art-broadcastprogram"
+    }
+  },
+  {
+    "sentence": "Jack Carl Greenburg (January 4, 1909 – c. 1990) was a Los Angeles attorney who served as Chief Clerk of the California Assembly from 1939 to 1941.",
+    "entities": {
+      "Jack Carl Greenburg": "person-politician",
+      "Los Angeles": "location-GPE",
+      "California Assembly": "organization-government/governmentagency"
+    }
+  },
+  {
+    "sentence": "The 2009 Giro d'Italia Femminile, or Giro Donne, was the 20th running of the Giro d'Italia Femminile, one of the premier events of the women's road cycling calendar.",
+    "entities": {
+      "Giro d'Italia Femminile": "event-sportsevent",
+      "Giro Donne": "event-sportsevent"
+    }
+  },
+  {
+    "sentence": "He became the host of ``That Other Pregame Show`` on CBS Sports Network in September 2013.",
+    "entities": {
+      "That Other Pregame Show": "art-broadcastprogram",
+      "CBS Sports Network": "organization-media/newspaper"
+    }
+  },
+  {
+    "sentence": "The first locomotive to be the subject of a rescue appeal was GWR 4300 Class 5322, which eventually did leave Barry in March of 1969, becoming the third locomotive to leave, but the first to be bought and actually moved from the yard was Midland Railway 3835 Class No.",
+    "entities": {
+      "GWR 4300 Class 5322": "product-car",
+      "Barry": "person-other"
+    }
+  },
+  {
+    "sentence": "The mountain range in the Berner Oberland south of the Aare and north of the Rhône are collectively called the Bernese Alps.",
+    "entities": {
+      "the Berner Oberland": "location-mountain",
+      "the Aare": "location-bodiesofwater",
+      "the Rhône": "location-bodiesofwater",
+      "the Bernese Alps": "location-mountain"
+    }
+  },
+  {
+    "sentence": "In 1953, Matson demolished the Moana's bungalows across the street and, two years later, opened the new Princess Kaiulani Hotel on the site.",
+    "entities": {
+      "Matson": "person-other",
+      "Moana": "location-GPE",
+      "Princess Kaiulani Hotel": "building-hotel"
+    }
+  },
+  {
+    "sentence": "The Women's Doubles competition at the 1994 Australian Open was held between 17 January and 30 January 1994 on outdoor hard courts at the National Tennis Centre at Flinders Park in Melbourne, Australia.",
+    "entities": {
+      "Australian Open": "event-sportsevent",
+      "National Tennis Centre": "building-sportsfacility",
+      "Flinders Park": "location-park",
+      "Melbourne": "location-GPE",
+      "Australia": "location-GPE"
+    }
+  },
+  {
+    "sentence": "Beginning in 1996 after ESPN ’ s consolidation of Creative Sports (which ESPN owned since 1994) and OCC Sports (acquired from Ohlmeyer Communication Company), ESPN Plus (also known as ESPN Regional Television) assumed syndication rights to Big 12 Conference men ’ s basketball games after the Big 8 Conference and the Southwest Conference merged to create the Big 12.",
+    "entities": {
+      "ESPN": "organization-media/newspaper",
+      "Creative Sports": "organization-sportsteam",
+      "OCC Sports": "organization-sportsteam",
+      "Ohlmeyer Communication Company": "organization-company",
+      "ESPN Plus": "art-broadcastprogram",
+      "ESPN Regional Television": "art-broadcastprogram",
+      "Big 12 Conference": "organization-sportsleague",
+      "Big 8 Conference": "organization-sportsleague",
+      "Southwest Conference": "organization-sportsleague",
+      "Big 12": "organization-sportsleague"
+    }
+  },
+  {
+    "sentence": "Ruby on Rails is intended to emphasize ``Convention over Configuration`` (CoC), and the ``Do n't Repeat Yourself`` (DRY) principle.",
+    "entities": {
+      "Ruby on Rails": "product-software",
+      "Convention over Configuration": "product-other",
+      "CoC": "product-other",
+      "Do n't Repeat Yourself": "product-other",
+      "DRY": "product-other"
+    }
+  },
+  {
+    "sentence": "On the morning of February 16, 1997, Reid entered a Captain D's on Lebanon Road in the Donelson neighborhood of Nashville, Tennessee before opening, under the guise of applying for a job.",
+    "entities": {
+      "Reid": "person-other",
+      "Captain D's": "building-restaurant",
+      "Lebanon Road": "location-road/railway/highway/transit",
+      "Donelson": "location-GPE",
+      "Nashville": "location-GPE"
+    }
+  },
+  {
+    "sentence": "Coronet Books was established in 1966 as the paperback imprint of Hodder & amp; Stoughton.",
+    "entities": {
+      "Coronet Books": "art-writtenart",
+      "Hodder & amp; Stoughton": "building-library"
+    }
+  },
+  {
+    "sentence": "In 1838, he was entrusted with the command of a gunboat at the attack on Kedah in the Malay Peninsula, and was present at the Battle of Canton in 1841, and at the Battle of Woosung in 1842.",
+    "entities": {
+      "Kedah": "location-GPE",
+      "Malay Peninsula": "location-GPE",
+      "Battle of Canton": "event-attack/battle/war/militaryconflict",
+      "Battle of Woosung": "event-attack/battle/war/militaryconflict"
+    }
+  },
+  {
+    "sentence": "Secord moved on, to attend the Naval War College in August 1971.",
+    "entities": {
+      "Secord": "person-soldier",
+      "Naval War College": "organization-education"
+    }
+  },
+  {
+    "sentence": "Although the art film bent of the Film Finance Corporation was criticised during a 1976 Committee on Public Undertakings investigation which accused the corporation of not doing enough to encourage commercial cinema, the decade saw the rise of commercial cinema with films such as ``Sholay`` (1975) which consolidated Amitabh Bachchan's position as a star.",
+    "entities": {
+      "Sholay": "art-film"
+    }
+  },
+  {
+    "sentence": "Finally, on 12 June 1993, the ``Independent Organization of Communists`` of Bar, the ``Alliance of Reform forces of Yugoslavia for Montenegro`` and the ``Party of National Tolerance`` merged into it, forming the Social Democratic Party of Montenegro and uniting the forces that opposed the policies of the Milošević regime during the Yugoslav wars.",
+    "entities": {
+      "Independent Organization of Communists": "organization-politicalparty",
+      "Alliance of Reform forces of Yugoslavia for Montenegro": "organization-politicalparty",
+      "Party of National Tolerance": "organization-politicalparty",
+      "Social Democratic Party of Montenegro": "organization-politicalparty",
+      "Milošević": "person-other",
+      "Yugoslav wars": "event-attack/battle/war/militaryconflict"
+    }
+  },
+  {
+    "sentence": "In the middle 1960s, the American actor Brett King and his wife, Sharon, established the Coral Sands Hotel in Harbour Island.",
+    "entities": {
+      "American": "location-GPE",
+      "Brett King": "person-actor",
+      "Sharon": "person-other",
+      "Coral Sands Hotel": "building-other",
+      "Harbour Island": "location-island"
+    }
+  },
+  {
+    "sentence": "is a 2015 Japanese revenge thriller film directed by Tomoyuki Takimoto and starring Toma Ikuta, Tadanobu Asano and Hey!",
+    "entities": {
+      "Tomoyuki Takimoto": "person-director",
+      "Toma Ikuta": "person-actor",
+      "Tadanobu Asano": "person-actor"
+    }
+  },
+  {
+    "sentence": "The de Havilland Comet was put into service in 1952 as the eagerly anticipated first commercial jet airliner, twice as fast as previous alternatives and a source of British national pride.",
+    "entities": {
+      "de Havilland Comet": "product-airplane",
+      "British": "location-GPE"
+    }
+  },
+  {
+    "sentence": "Pilots flying to Midway Airport make a course correction over Lake Calumet which is known as the Coffey Fix.",
+    "entities": {
+      "Midway Airport": "building-airport",
+      "Lake Calumet": "location-bodiesofwater",
+      "Coffey Fix": "event-other"
+    }
+  },
+  {
+    "sentence": "When the First Air Fleet was formed on 10 April 1941, ``Ryūjō`` became flagship of the Fourth Carrier Division.",
+    "entities": {
+      "Ryūjō": "product-ship",
+      "Fourth Carrier Division": "organization-other"
+    }
+  },
+  {
+    "sentence": "In the Rigveda, Rudra is praised as the'mightiest of the mighty '.",
+    "entities": {
+      "Rigveda": "other-god",
+      "Rudra": "other-god"
+    }
+  },
+  {
+    "sentence": "Sylvie Faucheux (born 29 May 1960 in Paris) is a French professor, specializing in the economy of the natural environment and sustainable development.",
+    "entities": {
+      "Sylvie Faucheux": "person-scholar",
+      "French": "location-GPE"
+    }
+  },
+  {
+    "sentence": "Atkinson coined the genus name ``Suciacarpa`` as a combination of ``Sucia`` after the type locality and ``carpa`` meaning ``fruit ''.",
+    "entities": {
+      "Suciacarpa": "other-livingthing",
+      "``Sucia": "other-livingthing",
+      "carpa": "other-livingthing"
+    }
+  },
+  {
+    "sentence": "Today Cortese is most widely associated with the DOCG wine ``Cortese di Gavi`` produced in the Gavi region of Alessandria.",
+    "entities": {
+      "Cortese": "location-GPE",
+      "DOCG": "product-food",
+      "Cortese di Gavi": "product-food",
+      "Gavi region of Alessandria": "location-GPE"
+    }
+  },
+  {
+    "sentence": "Halo of Flies stopped recording in the early 1990s but Hazelmyer kept Amphetamine Reptile Records in business for 20 years by releasing music by Boss Hog, Helmet, The Melvins, Cows, God Bullies, Helios Creed and Unsane.",
+    "entities": {
+      "Halo of Flies": "art-music",
+      "Hazelmyer": "person-other",
+      "Amphetamine Reptile Records": "organization-company",
+      "Boss Hog": "organization-showorganization",
+      "Helmet": "organization-showorganization",
+      "The Melvins": "organization-showorganization",
+      "Cows": "organization-showorganization",
+      "God Bullies": "organization-showorganization",
+      "Helios Creed": "organization-showorganization",
+      "Unsane": "organization-showorganization"
+    }
+  },
+  {
+    "sentence": "During Typhoon Nina in 1975 Banqiao Dam failed in Southern China when more than a year's worth of rain fell within 24 hours.",
+    "entities": {
+      "Typhoon Nina": "event-disaster",
+      "Banqiao Dam": "building-other",
+      "Southern China": "location-other"
+    }
+  },
+  {
+    "sentence": "When cooled to 0 °C, the fast and highly exothermic reaction produces 11-bromoundecanoic acid in 95% yield - the Markownikov product 10-bromoundecanoic acid is produced in small quantities as a by-product.",
+    "entities": {
+      "11-bromoundecanoic acid": "other-chemicalthing",
+      "Markownikov": "person-scholar",
+      "10-bromoundecanoic acid": "other-chemicalthing"
+    }
+  },
+  {
+    "sentence": "The Legislative Branch of Government in Colombia is one of the three branches of the government of Colombia under the Constitutional provision of separation of powers.",
+    "entities": {
+      "Legislative Branch of Government": "organization-government/governmentagency",
+      "Colombia": "location-GPE",
+      "Constitutional": "other-law"
+    }
+  },
+  {
+    "sentence": "5-ARIs are sometimes used as antiandrogens in feminizing hormone therapy for transgender women to help reduce body hair growth and scalp hair loss.",
+    "entities": {
+      "5-ARIs": "other-medical"
+    }
+  },
+  {
+    "sentence": "In 2008, Koge Donbo * finished working on the sequel (ending with chapter 26) of the Kamichama Karin series, named Kamichama Karin Chu.",
+    "entities": {
+      "Koge Donbo": "person-artist/author",
+      "Kamichama Karin": "art-painting",
+      "Kamichama Karin Chu": "art-painting"
+    }
+  },
+  {
+    "sentence": "In the game, players around the world use a range of media, including the Young Bond books themselves and the internet, to complete the missions and influence the outcome of the game.",
+    "entities": {
+      "Young Bond": "product-game"
+    }
+  },
+  {
+    "sentence": "Dati survived two bouts of Bubonic plague that struck his family, and would go on to outlive three of his wives and 19 of his children.",
+    "entities": {
+      "Dati": "person-other",
+      "Bubonic plague": "other-disease"
+    }
+  },
+  {
+    "sentence": "The basic syllable form of Gbe languages is commonly rendered (C1) (C2) V (C3), meaning that there at least has to be a nucleus V, and that there are various possible configurations of consonants (C1-3).",
+    "entities": {
+      "Gbe": "other-language"
+    }
+  },
+  {
+    "sentence": "Brewer withdrew form the election during the February 23, 2013 Michigan Democratic Party Convention held at Cobo Hall in Detroit, Michigan.",
+    "entities": {
+      "Brewer": "person-politician",
+      "Michigan Democratic Party Convention": "event-election",
+      "Cobo Hall": "building-other",
+      "Detroit": "location-GPE",
+      "Michigan": "location-GPE"
+    }
+  },
+  {
+    "sentence": "This pressure was brought to bear by the developer of the KV-1 tank which was in competition with the T-34.",
+    "entities": {
+      "KV-1 tank": "product-weapon",
+      "T-34": "product-weapon"
+    }
+  },
+  {
+    "sentence": "Class 450s have also deputised for the usual 455s on occasions.",
+    "entities": {
+      "Class 450s": "product-train",
+      "455s": "product-train"
+    }
+  },
+  {
+    "sentence": "The Th.D, like the ecclesiastical Doctor of Sacred Theology (STD), is an advanced research degree equivalent to the Doctor of Philosophy.",
+    "entities": {
+      "Th.D": "other-educationaldegree",
+      "Doctor of Sacred Theology": "other-educationaldegree",
+      "STD": "other-educationaldegree",
+      "Doctor of Philosophy": "other-educationaldegree"
+    }
+  },
+  {
+    "sentence": "He believes that Tasawwuf (which he defines as the seeking of perfection through the love for and longing towards meeting Allah) needs to be revived in the Islamic Ummah and restored as an Islamic science.",
+    "entities": {
+      "Tasawwuf": "organization-religion",
+      "Allah": "other-god",
+      "Islamic Ummah": "organization-religion",
+      "Islamic": "organization-religion"
+    }
+  },
+  {
+    "sentence": "This movement became known as the Flemish Movement, but was more intellectual than social, with contributors such as the poets Guido Gezelle,, and Albrecht Rodenbach.",
+    "entities": {
+      "Flemish Movement": "event-protest",
+      "Guido Gezelle": "person-scholar",
+      "Albrecht Rodenbach": "person-scholar"
+    }
+  },
+  {
+    "sentence": "125), located at Dosoram Hermitage, is one of three major Ksitigarbha Bodhisattva prayer sites in Korea.",
+    "entities": {
+      "Dosoram Hermitage": "location-GPE",
+      "Korea": "location-GPE"
+    }
+  },
+  {
+    "sentence": "In Alabama alone, 238 tornado-related deaths were confirmed by the Storm Prediction Center (SPC) and the state's Emergency Management Agency.",
+    "entities": {
+      "Alabama": "location-GPE",
+      "Storm Prediction Center": "organization-government/governmentagency",
+      "SPC": "organization-government/governmentagency",
+      "Emergency Management Agency": "organization-government/governmentagency"
+    }
+  },
+  {
+    "sentence": "Black died in Chelsea and Westminster Hospital in 2006.",
+    "entities": {
+      "Black": "person-other",
+      "Chelsea and Westminster Hospital": "building-hospital"
+    }
+  },
+  {
+    "sentence": "275 P and 330 P cars were actively and successfully raced by Scuderia Ferrari, NART and Maranello Concessionaires during 1964 and 1965 seasons.",
+    "entities": {
+      "275 P": "product-car",
+      "330 P cars": "product-car",
+      "Scuderia Ferrari": "product-car",
+      "NART": "product-car",
+      "Maranello Concessionaires": "product-car"
+    }
+  },
+  {
+    "sentence": "The film also starred Brenton Thwaites, Jeff Bridges, Meryl Streep, Katie Holmes, Alexander Skarsgård and Taylor Swift.",
+    "entities": {
+      "Brenton Thwaites": "person-actor",
+      "Jeff Bridges": "person-actor",
+      "Meryl Streep": "person-actor",
+      "Katie Holmes": "person-actor",
+      "Alexander Skarsgård": "person-actor",
+      "Taylor Swift": "person-actor"
+    }
+  },
+  {
+    "sentence": "This was the second time in the decade after 1986 that the Canadiens and Flames met in the Finals.",
+    "entities": {
+      "Canadiens": "organization-sportsteam",
+      "Flames": "organization-sportsteam"
+    }
+  },
+  {
+    "sentence": "Honor societies include the Alpha Lambda Delta Honor Society for first year students with a GPA of 3.5 or higher, Epsilon Delta Lambda for online students, the National Honor Society for Leadership and Success (Sigma Alpha Pi) and Alpha Psi Omega, the National Theatre Honor Society.",
+    "entities": {
+      "Alpha Lambda Delta Honor Society": "organization-other",
+      "Epsilon Delta Lambda": "organization-other",
+      "National Honor Society for Leadership and Success": "organization-other",
+      "Sigma Alpha Pi": "organization-other",
+      "Alpha Psi Omega, the National Theatre Honor Society": "organization-other"
+    }
+  },
+  {
+    "sentence": "Ixora ooumuensis is a species of flowering plant in the family Rubiaceae.",
+    "entities": {
+      "Ixora ooumuensis": "other-livingthing",
+      "Rubiaceae": "other-biologything"
+    }
+  },
+  {
+    "sentence": "The park is also home to the Arizona League Dodgers, who moved to Camelback Ranch with the Major League team in 2009.",
+    "entities": {
+      "Arizona League Dodgers": "organization-sportsteam",
+      "Camelback Ranch": "building-other"
+    }
+  },
+  {
+    "sentence": "He also worked as a railroad officer as President of the Louisville Southern Railroad, author.",
+    "entities": {
+      "Louisville Southern Railroad": "location-road/railway/highway/transit"
+    }
+  },
+  {
+    "sentence": "Camp Rockmont for Boys is an American Camp Association accredited Christian residential boys' summer camp in Black Mountain, North Carolina.",
+    "entities": {
+      "Camp Rockmont for Boys": "organization-other",
+      "American Camp Association": "organization-other",
+      "Christian": "organization-religion",
+      "Black Mountain": "location-mountain",
+      "North Carolina": "location-GPE"
+    }
+  },
+  {
+    "sentence": "As autumn draws to a close, and the first gentle blanket of snow covers the great brown forest, Barney Bear happily prepares for his nice long winter's hibernation.",
+    "entities": {
+      "Barney Bear": "art-broadcastprogram"
+    }
+  },
+  {
+    "sentence": "It originally aired on television in 1993 as a two-parter, and hence is alternately titled as a double-set of ``Fantaghirò 5`` and ``Fantaghirò 6`` in certain releases.",
+    "entities": {
+      "Fantaghirò 5": "art-film",
+      "Fantaghirò 6": "art-film"
+    }
+  },
+  {
+    "sentence": "Financial problems nearly prevented the game from happening before Tim Hortons stepped in and provided the money needed to pay both teams' wages for the game.",
+    "entities": {
+      "Tim Hortons": "person-athlete"
+    }
+  },
+  {
+    "sentence": "Plans for the addition of a new floor, the infill of the light well and a major seismic retrofit were considered, with costs estimated in 2011 to be between $176 million and $220 million.",
+    "entities": {
+      "$": "other-currency"
+    }
+  },
+  {
+    "sentence": "Her work at JDP with Bojan Stupica and their subsequent marriage had a seminal influence on Mira ’ s maturity as an actress.",
+    "entities": {
+      "JDP": "building-theater",
+      "Bojan Stupica": "person-actor",
+      "Mira": "person-actor"
+    }
+  },
+  {
+    "sentence": "This pack also includes a version of Sideswipe painted in red.",
+    "entities": {
+      "Sideswipe": "product-game"
+    }
+  },
+  {
+    "sentence": "Before the release of the album, the name was changed to ``The Solution``.",
+    "entities": {
+      "The Solution": "art-music"
+    }
+  },
+  {
+    "sentence": "In 2010, Molina starred opposite Dawn French in the six-part BBC sitcom ``Roger & amp; Val Have Just Got In``, with a second series in 2012.",
+    "entities": {
+      "Molina": "person-actor",
+      "Dawn French": "person-other",
+      "BBC": "organization-company",
+      "Roger & amp; Val Have Just Got In": "art-broadcastprogram"
+    }
+  },
+  {
+    "sentence": "Picnic is a television talk show from the Mexican TV network Telehit, hosted by Barbara Islas and Alexia Imaz.",
+    "entities": {
+      "Picnic": "art-broadcastprogram",
+      "Mexican TV": "organization-media/newspaper",
+      "Telehit": "organization-media/newspaper",
+      "Barbara Islas": "person-other",
+      "Alexia Imaz": "person-other"
+    }
+  },
+  {
+    "sentence": "Shortly after the Clinton campaign suspended in 2008, Cummings and Terakeet were selected to advise the Obama digital team on its content, blogging, and SEO strategies.",
+    "entities": {
+      "Clinton campaign": "event-election",
+      "Cummings": "person-other",
+      "Terakeet": "person-other",
+      "Obama": "person-politician",
+      "blogging": "product-software"
+    }
+  },
+  {
+    "sentence": "The same protections provided in the Treaty of Guadalupe Hidalgo still apply to the residents in this newly added tract of land.",
+    "entities": {
+      "Treaty of Guadalupe Hidalgo": "other-law"
+    }
+  },
+  {
+    "sentence": "As with the three spot-hire units from Porterbrook, these seventeen units had first-class accommodation, which was declassified.",
+    "entities": {
+      "Porterbrook": "location-bodiesofwater"
+    }
+  },
+  {
+    "sentence": "Meanwhile, the 31-km New Klang Valley Expressway (NKVE) E1 was opened on 11 January 1993, connecting major cities in the Klang Valley with the North–South Expressway northern route.",
+    "entities": {
+      "New Klang Valley Expressway": "location-road/railway/highway/transit",
+      "NKVE": "location-road/railway/highway/transit",
+      "E1": "location-road/railway/highway/transit",
+      "Klang Valley": "location-other",
+      "North–South Expressway": "location-road/railway/highway/transit"
+    }
+  },
+  {
+    "sentence": "Her Donizetti roles include Norina (``Don Pasquale``) performed with Riccardo Muti at the Ravenna Festival, at Théâtre des Champs-Elysées in Paris, in Liège, Cologne, Como, Moscow and Saint Petersburg, and in further performances in Santiago de Chile, Treviso, at [[Teatro Massimo Bellini]] in Catania, and in Ferrara; Adina (``[[L'elisir d'amore]] '') in Las Palmas, Tel Aviv, Maribor and Oderzo; Marie (`` [[La fille du régiment]]'') at [[Teatro Massimo]] in Palermo, in Lecce, and on a tour with [[Teatro Comunale di Bologna]] at the [[Savonlinna Opera Festival]]; and Betly (``[[Betly]] '') at [[Konzerthaus Berlin | Konzerthaus]] in [[Berlin]].",
+    "entities": {
+      "Donizetti": "person-artist/author",
+      "Norina": "person-actor",
+      "Don Pasquale": "art-other",
+      "Riccardo Muti": "person-actor",
+      "Ravenna Festival": "event-other",
+      "Théâtre des Champs-Elysées": "building-theater",
+      "Paris": "location-GPE",
+      "Liège": "location-GPE",
+      "Cologne": "location-GPE",
+      "Como": "location-GPE",
+      "Moscow": "location-GPE",
+      "Saint Petersburg": "location-GPE",
+      "Santiago de Chile": "location-GPE",
+      "Treviso": "location-GPE",
+      "Teatro Massimo Bellini": "building-theater",
+      "Catania": "location-GPE",
+      "Ferrara": "location-GPE",
+      "Adina": "person-actor",
+      "L'elisir d'amore": "art-other",
+      "Las Palmas": "location-GPE",
+      "Tel Aviv": "location-GPE",
+      "Maribor": "person-actor",
+      "Oderzo": "person-actor",
+      "Marie": "person-actor",
+      "La fille du régiment": "art-other",
+      "Teatro Massimo": "building-theater",
+      "Palermo": "location-GPE",
+      "Lecce": "location-GPE",
+      "Teatro Comunale di Bologna": "building-theater",
+      "Savonlinna Opera Festival": "event-other",
+      "Betly": "art-other",
+      "Konzerthaus Berlin": "art-other",
+      "Konzerthaus": "art-other",
+      "Berlin": "location-GPE"
+    }
+  },
+  {
+    "sentence": "Chaney Leonard White (April 15, 1894 – February 23, 1967), nicknamed ``Reindeer``, was an outfielder in Negro League baseball between 1920 and 1936.",
+    "entities": {
+      "Chaney Leonard White": "person-other",
+      "Reindeer": "person-other",
+      "Negro League baseball": "organization-sportsleague"
+    }
+  },
+  {
+    "sentence": "At the time, it was planned that the ESPN Zone restaurant would increase promotional efforts with the two sports teams.",
+    "entities": {
+      "ESPN Zone restaurant": "building-restaurant"
+    }
+  },
+  {
+    "sentence": "Of several that have been preserved; the ``Recension II`` version derives from an older version derived from oral tradition, whereas another variant at the Leiden University Library MS. Or.",
+    "entities": {
+      "Recension II": "art-writtenart",
+      "Leiden University Library": "building-library"
+    }
+  },
+  {
+    "sentence": "In February Daniel Petrie, best known for his work on television including adaptations of ``Wuthering Heights``, signed to direct.",
+    "entities": {
+      "Daniel Petrie": "person-director",
+      "Wuthering Heights": "art-film"
+    }
+  },
+  {
+    "sentence": "The agency subsidizes a methadone maintenance treatment program in Taiwan.",
+    "entities": {
+      "methadone": "other-medical",
+      "Taiwan": "location-GPE"
+    }
+  },
+  {
+    "sentence": "On this topic, the animal psychologist James McConnell said “... nobody cares…much about habituation ”).",
+    "entities": {
+      "James McConnell": "person-scholar"
+    }
+  },
+  {
+    "sentence": "Most subsequent prototypes were known by 'M' codes, as the later prototypes of the Heinkel He 162 were.",
+    "entities": {
+      "M": "product-airplane",
+      "Heinkel He 162": "product-airplane"
+    }
+  },
+  {
+    "sentence": "He has been a nominee for the Roberto Clemente Award, and has continued to support the community through various programs, including the Kansas City FCA chapter, Children's Mercy Hospital and the Boys and Girls Club of Kansas City.",
+    "entities": {
+      "Roberto Clemente Award": "other-award",
+      "Kansas City FCA chapter": "organization-other",
+      "Children's Mercy Hospital": "building-hospital",
+      "Boys and Girls Club of Kansas City": "organization-other"
+    }
+  },
+  {
+    "sentence": "English is the language most widely used in education and business.",
+    "entities": {
+      "English": "other-language"
+    }
+  },
+  {
+    "sentence": "It was originally known as the New iMac, while the existing iMac G3 continued to be sold for several months.",
+    "entities": {
+      "New iMac": "product-other",
+      "iMac G3": "product-other"
+    }
+  },
+  {
+    "sentence": "The Descendents' initial lineup of Frank Navetta (guitar), Tony Lombardo (bass guitar), and Bill Stevenson (drums) released the band's first single, ``Ride the Wild`` / ``It's a Hectic World`` in 1979.",
+    "entities": {
+      "The Descendents": "organization-showorganization",
+      "Frank Navetta": "person-artist/author",
+      "Tony Lombardo": "person-artist/author",
+      "Bill Stevenson": "person-artist/author",
+      "Ride the Wild": "art-music",
+      "It's a Hectic World": "art-music"
+    }
+  },
+  {
+    "sentence": "After the two governments settled asset claims dating from the Korean War in 1950, Congress temporarily granted China most favored nation status in 1980.",
+    "entities": {
+      "Korean War": "event-attack/battle/war/militaryconflict",
+      "China": "location-GPE"
+    }
+  },
+  {
+    "sentence": "In 1836, Te Puoho led a 100-person war party, armed with muskets, down the West Coast and over the Haast Pass: they fell on the Ngāi Tahu encampment between Lake Wanaka and Lake Hawea, capturing 10 people and killing and eating two children.",
+    "entities": {
+      "Te Puoho": "person-other",
+      "West Coast": "location-bodiesofwater",
+      "Haast Pass": "location-island",
+      "Ngāi Tahu": "organization-other",
+      "Lake Wanaka": "location-bodiesofwater",
+      "Lake Hawea": "location-bodiesofwater"
+    }
+  },
+  {
+    "sentence": "when sick with tuberculosis in December 1839, he died untimely three months later",
+    "entities": {
+      "tuberculosis": "other-disease"
+    }
+  },
+  {
+    "sentence": "He was a member of the United Labour Party National Executive 1912-13 and an Independent Labour candidate for Auckland East in 1911.",
+    "entities": {
+      "United Labour Party": "organization-politicalparty",
+      "Independent Labour": "organization-politicalparty",
+      "Auckland East": "location-GPE"
+    }
+  },
+  {
+    "sentence": "After finishing 15th during the regular season, OHL was forced to play the Relegation Playoff together with Mons.",
+    "entities": {
+      "OHL": "organization-sportsteam",
+      "Relegation Playoff": "event-sportsevent",
+      "Mons": "organization-sportsteam"
+    }
+  },
+  {
+    "sentence": "In Chinese, (), meaning ``Rooftop (asterism) '', refers to an asterism consisting of Epsilon Pegasi, Alpha Aquarii and Theta Pegasi.",
+    "entities": {
+      "Chinese": "other-language",
+      "Rooftop": "other-astronomything",
+      "asterism": "other-astronomything",
+      "Epsilon Pegasi": "other-astronomything",
+      "Alpha Aquarii": "other-astronomything",
+      "Theta Pegasi": "other-astronomything"
+    }
+  },
+  {
+    "sentence": "After graduating from Whampoa Military Academy, he enlisted in the National Revolutionary Army.",
+    "entities": {
+      "Whampoa Military Academy": "organization-education",
+      "National Revolutionary Army": "organization-politicalparty"
+    }
+  },
+  {
+    "sentence": "The main cannon is a M68A1 105 mm cannon, which can fire ammunition such as Armour-piercing fin-stabilized discarding-sabot (APFSDS) Round.",
+    "entities": {
+      "M68A1 105 mm": "product-weapon",
+      "Armour-piercing fin-stabilized discarding-sabot (APFSDS) Round": "product-weapon"
+    }
+  },
+  {
+    "sentence": "Some sources state that Ambrosia, the foster mother of Dionysus, was among those imprisoned.",
+    "entities": {
+      "Ambrosia": "other-god",
+      "Dionysus": "other-god"
+    }
+  },
+  {
+    "sentence": "He began treating his patients with small diluted doses of nitroglycerin in 1878, and this treatment was soon adopted into widespread use after Murrell published his results in the journal ``The Lancet`` in 1879.",
+    "entities": {
+      "nitroglycerin": "other-chemicalthing",
+      "Murrell": "person-other",
+      "The Lancet": "art-writtenart"
+    }
+  },
+  {
+    "sentence": "He also presents Eurosport's coverage of the annual Dakar Rally, and has commentated on the Race of Champions, including doing the in-stadium commentary at Wembley Stadium.",
+    "entities": {
+      "Eurosport": "organization-media/newspaper",
+      "Dakar Rally": "event-sportsevent",
+      "Race of Champions": "event-sportsevent",
+      "Wembley Stadium": "building-sportsfacility"
+    }
+  },
+  {
+    "sentence": "YARTS provides scheduled service into popular locations within Merced, Mariposa, Mono, Tuolumne, Madera, and Fresno counties, including Yosemite National Park and Fresno Yosemite International Airport.",
+    "entities": {
+      "YARTS": "location-road/railway/highway/transit",
+      "Merced": "location-GPE",
+      "Mariposa": "location-GPE",
+      "Mono": "location-GPE",
+      "Tuolumne": "location-GPE",
+      "Madera": "location-GPE",
+      "Fresno": "location-GPE",
+      "Yosemite National Park": "location-park",
+      "Fresno Yosemite International Airport": "building-airport"
+    }
+  },
+  {
+    "sentence": "Combined degree programs include: Doctor of Philosophy (PhD), Master of Science, Master of Business Administration, and Master of Public Health (MPH).",
+    "entities": {
+      "Doctor of Philosophy": "other-educationaldegree",
+      "PhD": "other-educationaldegree",
+      "Master of Science": "other-educationaldegree",
+      "Master of Business Administration": "other-educationaldegree",
+      "Master of Public Health": "other-educationaldegree",
+      "MPH": "other-educationaldegree"
+    }
+  },
+  {
+    "sentence": "In late March 2011, ``Liverpool`` was ordered to the Mediterranean to relieve Type 22 frigate as the Royal Navy's contribution to Operation Unified Protector, NATO's naval blockade of Libya during the country's civil war.",
+    "entities": {
+      "Liverpool": "product-ship",
+      "Mediterranean": "location-bodiesofwater",
+      "Type 22 frigate": "product-ship",
+      "Royal Navy": "organization-other",
+      "Operation Unified Protector": "event-other",
+      "NATO": "organization-other",
+      "Libya": "location-GPE"
+    }
+  },
+  {
+    "sentence": "This saw the remaining 4-car Class 222 units receive an extra vehicle to become 5-car sets.",
+    "entities": {
+      "Class 222": "product-train"
+    }
+  },
+  {
+    "sentence": "Historical documents show that in the 13th and 14th centuries, Parmigiano was already very similar to that produced today, which suggests its origins can be traced to far earlier.",
+    "entities": {
+      "Parmigiano": "product-food"
+    }
+  },
+  {
+    "sentence": "In 992, a Karakhanid, Harun Bughra Khan, grandson of the paramount tribal chief of the Karluk confederation Sultan Satuq Bughra Khan, captured Bukhara, the Samanid capital.",
+    "entities": {
+      "Karakhanid": "organization-other",
+      "Harun Bughra Khan": "person-soldier",
+      "Karluk": "organization-other",
+      "Sultan Satuq Bughra Khan": "person-other",
+      "Bukhara": "location-GPE",
+      "Samanid": "location-GPE"
+    }
+  },
+  {
+    "sentence": "In 1912, the Xinhai Revolution toppled the Qing dynasty and its explicit prohibition of ``ji jian ''was abolished by the succeeding states.",
+    "entities": {
+      "Xinhai Revolution": "event-protest"
+    }
+  },
+  {
+    "sentence": "Younes died from wounds sustained in the Canal Hotel bombing on August 19, 2003, along with de Mello and 21 other members of his office staff.",
+    "entities": {
+      "Younes": "person-other",
+      "Canal Hotel bombing": "event-disaster"
+    }
+  },
+  {
+    "sentence": "The Sacrament of the Last Supper is a painting by Salvador Dalí.",
+    "entities": {
+      "The Sacrament of the Last Supper": "art-painting",
+      "Salvador Dalí": "person-artist/author"
+    }
+  },
+  {
+    "sentence": "Caesars Palace is a casino and luxury hotel in the Las Vegas Strip of Paradise, Nevada.",
+    "entities": {
+      "Caesars Palace": "building-hotel",
+      "Las Vegas Strip": "location-road/railway/highway/transit",
+      "Paradise": "location-GPE",
+      "Nevada": "location-GPE"
+    }
+  },
+  {
+    "sentence": "In June 2020, economic analyst Jim Cramer said that the response to the COVID-19 recession has led to the biggest transfer of wealth to the ultra-wealthy in modern history.",
+    "entities": {
+      "Jim Cramer": "person-other"
+    }
+  },
+  {
+    "sentence": "Unseeded Juan Carlos Ferrero won the singles title.",
+    "entities": {
+      "Juan Carlos Ferrero": "person-athlete"
+    }
+  },
+  {
+    "sentence": "The New Mexicans put up no organized resistance until the Taos Revolt in early 1847, although in the month prior, a December, 1846 planned revolt in Santa Fe, involving many leading Mexican loyalists, was discovered and disrupted by General Sterling Price, after being informed of the plot by Donaciano Vigil, before it could be carried out.",
+    "entities": {
+      "Taos Revolt": "event-other",
+      "Santa Fe": "location-GPE",
+      "Mexican": "location-GPE",
+      "Sterling Price": "person-soldier",
+      "Donaciano Vigil": "person-other"
+    }
+  },
+  {
+    "sentence": "Barbara Lapchick was one of the original Ford models and graduated from Barnard College.",
+    "entities": {
+      "Barbara Lapchick": "person-other",
+      "Ford": "organization-company",
+      "Barnard College": "organization-education"
+    }
+  },
+  {
+    "sentence": "Hassaniya Arabic is spoken in the southern part of the country.",
+    "entities": {
+      "Hassaniya Arabic": "other-language"
+    }
+  },
+  {
+    "sentence": "In August 1992, Bruce Lee biographer John Little asked Brandon Lee what his philosophy in life was, and he replied, ``Eat—or die! ''",
+    "entities": {
+      "Bruce Lee": "person-other",
+      "John Little": "person-artist/author",
+      "Brandon Lee": "person-other"
+    }
+  },
+  {
+    "sentence": "Kristen Bell and Idina Menzel performed both songs together at the Vibrato Grill Jazz Club in Los Angeles to celebrate the film.",
+    "entities": {
+      "Kristen Bell": "person-artist/author",
+      "Idina Menzel": "person-artist/author",
+      "Vibrato Grill Jazz Club": "building-other",
+      "Los Angeles": "location-GPE"
+    }
+  },
+  {
+    "sentence": "He taught himself how to play the piano on the family instrument at 30 Florida Street in Bootle.",
+    "entities": {
+      "30 Florida Street": "location-road/railway/highway/transit",
+      "Bootle": "location-GPE"
+    }
+  },
+  {
+    "sentence": "The nearest local Accident & amp; Emergency department is at the William Harvey Hospital, in Willesborough near Ashford.",
+    "entities": {
+      "Accident & amp; Emergency department": "organization-other",
+      "William Harvey Hospital": "building-hospital",
+      "Willesborough": "location-GPE",
+      "Ashford": "location-GPE"
+    }
+  },
+  {
+    "sentence": "Together these components compose the glutathione system.",
+    "entities": {
+      "glutathione": "other-chemicalthing"
+    }
+  },
+  {
+    "sentence": "The 1986 Skate America was held at the Cumberland County Civic Center in Portland, Maine.",
+    "entities": {
+      "Skate America": "event-sportsevent",
+      "Cumberland County Civic Center": "building-other",
+      "Portland": "location-GPE",
+      "Maine": "location-GPE"
+    }
+  },
+  {
+    "sentence": "In addition to all the features of the earlier X-Plorer (Xbox 360) and SG (PS2) guitar controllers, the Les Paul controller features a detachable neck for easier storage and replacement, and customizable faceplates.",
+    "entities": {
+      "X-Plorer (Xbox 360)": "product-other",
+      "SG (PS2)": "product-other",
+      "Les Paul": "product-other"
+    }
+  },
+  {
+    "sentence": "This forum was built on the order of the emperor Trajan with the spoils of war from the conquest of Dacia, which ended in 106.",
+    "entities": {
+      "Trajan": "person-politician",
+      "Dacia": "location-GPE"
+    }
+  },
+  {
+    "sentence": "The Chaser and its platform sisters are considered a class below the Crown, allowing Toyota to offer a sedan with similar levels of luxury content, yet offering buyers lower tax liability and a more sporty image with a slightly smaller body length.",
+    "entities": {
+      "Chaser": "product-car",
+      "Crown": "product-car",
+      "Toyota": "organization-company"
+    }
+  },
+  {
+    "sentence": "Lipoprotein lipase on the endothelial surfaces of the capillaries, especially in adipose tissue, but to a lesser extent also in other tissues, partially digests the chylomicrons into free fatty acids, glycerol and chylomicron remnants.",
+    "entities": {
+      "Lipoprotein": "other-biologything",
+      "chylomicrons": "other-biologything",
+      "free fatty acids": "other-biologything",
+      "glycerol": "other-biologything",
+      "chylomicron": "other-biologything"
+    }
+  },
+  {
+    "sentence": "Considering his views at that time, a Jewish - German student was surprised that Rothfels was forced to leave Germany in the first place.",
+    "entities": {
+      "Jewish": "location-GPE",
+      "German": "location-GPE",
+      "Rothfels": "person-scholar",
+      "Germany": "location-GPE"
+    }
+  },
+  {
+    "sentence": "In May 2010, Stage Door Records released a compilation of unreleased Newley recordings entitled ``Newley Discovered``.",
+    "entities": {
+      "Stage Door Records": "organization-company",
+      "Newley": "person-artist/author",
+      "Newley Discovered": "art-music"
+    }
+  },
+  {
+    "sentence": "The Rigvedic god Pushan is believed to be a cognate of Pan.",
+    "entities": {
+      "Pushan": "other-god",
+      "Pan": "other-god"
+    }
+  },
+  {
+    "sentence": "He attended the United Nations International School in the city, where he was a stand-out cello player, and graduated from Northern Valley Regional High School at Old Tappan after his family moved to Harrington Park, New Jersey.",
+    "entities": {
+      "the United Nations International School": "organization-education",
+      "Northern Valley Regional High School": "organization-education",
+      "Old Tappan": "location-GPE",
+      "Harrington Park": "location-park",
+      "New Jersey": "location-GPE"
+    }
+  },
+  {
+    "sentence": "Roth and co-writer Jeff Rendell won a 2007 Spike TV Scream Award for best ``screamplay ''for their work in`` Grindhouse,'' sharing the honor with Tarantino, Robert Rodriguez, Rob Zombie, and Edgar Wright.",
+    "entities": {
+      "Roth": "person-director",
+      "Jeff Rendell": "person-director",
+      "2007 Spike TV Scream Award": "other-award",
+      "Grindhouse": "art-film",
+      "Tarantino": "person-director",
+      "Robert Rodriguez": "person-director",
+      "Rob Zombie": "person-director",
+      "Edgar Wright": "person-director"
+    }
+  },
+  {
+    "sentence": "He was a captain in the Massachusetts militia during the American Revolutionary War.",
+    "entities": {
+      "Massachusetts militia": "organization-other",
+      "American Revolutionary War": "event-attack/battle/war/militaryconflict"
+    }
+  },
+  {
+    "sentence": "was written during SS501's activities in Japan in 2007, as well as the lyrics for his part of ``완.두.콩. ''",
+    "entities": {
+      "SS501": "organization-showorganization",
+      "Japan": "location-GPE",
+      "완.두.콩": "art-music"
+    }
+  },
+  {
+    "sentence": "This was the view of Nichiren, and of some modern Nichiren Buddhist schools.",
+    "entities": {
+      "Nichiren": "organization-religion",
+      "modern Nichiren Buddhist schools": "organization-religion"
+    }
+  },
+  {
+    "sentence": "He entered the Paris Opera Ballet School in 2004, and the Paris Opera Ballet in 2010.",
+    "entities": {
+      "Paris Opera Ballet School": "organization-education",
+      "Paris Opera Ballet": "building-theater"
+    }
+  },
+  {
+    "sentence": "By that point, she was managing a $40 million business.",
+    "entities": {
+      "$": "other-currency"
+    }
+  },
+  {
+    "sentence": "Besides having a large permanent collection of microfilms, and access to the entire Family History Library collection, the library also houses the HBLL Library's academic microforms collection.",
+    "entities": {
+      "Family History Library": "building-library",
+      "HBLL Library": "building-library"
+    }
+  },
+  {
+    "sentence": "Cellphone bugs can be created by disabling the ringing feature on a mobile phone, allowing a caller to call a phone to access its microphone and listening.",
+    "entities": {
+      "Cellphone bugs": "product-software"
+    }
+  },
+  {
+    "sentence": "The engine room on a bulk carrier is usually near the stern, under the superstructure.",
+    "entities": {
+      "bulk carrier": "product-ship"
+    }
+  },
+  {
+    "sentence": "Photographic Reconnaissance Unit (PRU) Blue was devised by the RAF during WW II as a low visibility camouflage colour for its high-flying Spitfire and Mosquito reconnaissance aircraft.",
+    "entities": {
+      "Photographic Reconnaissance Unit (PRU": "organization-other",
+      "RAF": "organization-other",
+      "WW II": "event-attack/battle/war/militaryconflict",
+      "Mosquito reconnaissance aircraft": "product-airplane"
+    }
+  },
+  {
+    "sentence": "Eighteen teams competed in Serie C1/A and Parma won the championship.",
+    "entities": {
+      "Serie C1/A": "event-sportsevent",
+      "Parma": "organization-sportsteam"
+    }
+  },
+  {
+    "sentence": "Indian Telly Award for Best Anchor is an award given by Indiantelevision.com as part of its annual Indian Telly Awards for TV serials, to recognize a person who has hosted a television reality show and been appreciated by the Indian audience.",
+    "entities": {
+      "Indian Telly Award for Best Anchor": "other-award",
+      "Indiantelevision.com": "organization-media/newspaper",
+      "Indian Telly Awards for TV serials": "other-award",
+      "Indian": "location-GPE"
+    }
+  },
+  {
+    "sentence": "Philip King began his career on his sixteenth birthday as an actor with a small touring company in the North of England, graduating to the Repertory Company at the Opera House, Harrogate.",
+    "entities": {
+      "Philip King": "person-actor",
+      "North of England": "location-GPE",
+      "Repertory Company": "organization-company",
+      "Opera House": "building-other",
+      "Harrogate": "location-GPE"
+    }
+  },
+  {
+    "sentence": "Six of these were not delivered pending the outcome of the Russian Revolution of 1917 before being purchased by the United States Navy on 20 May 1918.",
+    "entities": {
+      "Russian Revolution": "event-attack/battle/war/militaryconflict",
+      "United States Navy": "organization-politicalparty"
+    }
+  },
+  {
+    "sentence": "People with this form of agnosia have difficulty in determining and identifying the motivational and emotional significance of external social events, and may appear emotionless or agnostic (uncertainty or general indecisiveness about a particular thing).",
+    "entities": {
+      "agnosia": "other-disease"
+    }
+  },
+  {
+    "sentence": "On 23 June 1948, the '(``German bank of issue and giro centre '') of the Soviet occupation zone (which later formed East Germany) followed suit, issuing its own (colloquially referred to as the East German mark or'), later officially called '(1964–1967) and then' (1968–1990).",
+    "entities": {
+      "German": "location-GPE",
+      "Soviet": "location-GPE",
+      "East Germany": "location-mountain",
+      "East German": "location-GPE"
+    }
+  },
+  {
+    "sentence": "He has a bachelor's degree in business from Baker College and a master's degree in political science from Miami University.",
+    "entities": {
+      "bachelor's degree": "other-educationaldegree",
+      "Baker College": "organization-education",
+      "master's degree": "other-educationaldegree",
+      "Miami University": "organization-education"
+    }
+  },
+  {
+    "sentence": "He was also actively engaged in writing articles on Urdu and Pashto literature published in Pashto and Urdu newspapers and literary magazines, including ``T atara``, a monthly Pashto language newspaper of that time.",
+    "entities": {
+      "Urdu": "other-language",
+      "Pashto": "other-language",
+      "atara": "art-writtenart"
+    }
+  },
+  {
+    "sentence": "Panhellenic Macedonian Front gathered 1.3% of the valid votes in Greece at the 2009 European Parliament elections, failing to cross the threshold needed for a seat.",
+    "entities": {
+      "Panhellenic Macedonian Front": "organization-politicalparty",
+      "Greece": "location-GPE",
+      "European Parliament elections": "event-election"
+    }
+  },
+  {
+    "sentence": "Archaeological investigations in the Yukon valley have not been well-documented.",
+    "entities": {
+      "Yukon": "location-bodiesofwater"
+    }
+  },
+  {
+    "sentence": "92 Squadron RAF moved to RAF Gutersloh.",
+    "entities": {
+      "RAF Gutersloh": "location-other"
+    }
+  },
+  {
+    "sentence": "Thomas Lewis Crabtree (born November 4, 1985) is a former American football tight end in the National Football League (NFL).",
+    "entities": {
+      "Thomas Lewis Crabtree": "person-athlete",
+      "American": "location-GPE",
+      "National Football League": "organization-sportsleague",
+      "NFL": "organization-sportsleague"
+    }
+  },
+  {
+    "sentence": "Frieda is the owner of the Osea Island in the estuary of the River Blackwater, Essex, England, most of which he bought in 2000 for £6 million.",
+    "entities": {
+      "Frieda": "person-other",
+      "Osea Island": "location-island",
+      "River Blackwater": "location-road/railway/highway/transit",
+      "Essex": "location-GPE",
+      "England": "location-GPE",
+      "£": "other-currency"
+    }
+  },
+  {
+    "sentence": "In 2001, Merck commenced the APPROVe (Adenomatous Polyp PRevention On Vioxx) study, a three-year trial with the primary aim of evaluating the efficacy of rofecoxib for the prophylaxis of colorectal polyps.",
+    "entities": {
+      "Adenomatous Polyp": "other-disease",
+      "Vioxx": "other-medical",
+      "rofecoxib": "other-medical",
+      "colorectal polyps": "other-disease"
+    }
+  },
+  {
+    "sentence": "In 1953, South Korea and the United States signed a Mutual Defense Treaty.",
+    "entities": {
+      "South Korea": "location-GPE",
+      "United States": "location-GPE",
+      "Mutual Defense Treaty": "other-law"
+    }
+  },
+  {
+    "sentence": "In August 1998, a Real IRA bomb in Omagh killed 29 civilians, the most by a single bomb during the Troubles.",
+    "entities": {
+      "IRA": "product-weapon",
+      "Omagh": "location-GPE"
+    }
+  },
+  {
+    "sentence": "60008 ``Dwight D Eisenhower ''is an LNER Class A4 steam locomotive named after Dwight D. Eisenhower, the United States General of the Army.",
+    "entities": {
+      "60008 ``Dwight D Eisenhower ''": "product-train",
+      "LNER Class A4": "product-train",
+      "Dwight D. Eisenhower": "person-soldier",
+      "United States": "location-GPE"
+    }
+  },
+  {
+    "sentence": "Stanford Stadium is one of two venues (the Rose Bowl being the other) to host a Super Bowl without previously serving as the home stadium of a National Football League (NFL) or American Football League (AFL) team.",
+    "entities": {
+      "Stanford Stadium": "building-sportsfacility",
+      "Rose Bowl": "building-sportsfacility",
+      "Super Bowl": "event-sportsevent",
+      "National Football League": "organization-sportsleague",
+      "NFL": "organization-sportsleague",
+      "American Football League": "organization-sportsleague",
+      "AFL": "organization-sportsleague"
+    }
+  },
+  {
+    "sentence": "Hurricane Diana formed on August 16 And reached hurricane strength on August 17 where it moved northwestward.",
+    "entities": {
+      "Hurricane Diana": "event-disaster"
+    }
+  },
+  {
+    "sentence": "The Grey and Bell by-election 1858 was a by-election held in the electorate during the 2nd New Zealand Parliament, on 17 May 1858, and was, the second by-election in the electorate.",
+    "entities": {
+      "Grey and Bell": "event-election",
+      "2nd New Zealand Parliament": "organization-government/governmentagency"
+    }
+  },
+  {
+    "sentence": "The Joli Fou Formation was previously referred to as the Pelican Shale, but renamed in 1949 to avoid confusion with the overlying Pelican Sandstone beds.",
+    "entities": {
+      "Pelican": "other-livingthing"
+    }
+  },
+  {
+    "sentence": "This tons of Pure Ghee is donated by the millions of people who come to this small village to visit the Palli and take blessings of Mata Vardayini.",
+    "entities": {
+      "Pure Ghee": "product-food",
+      "Mata Vardayini": "person-other"
+    }
+  },
+  {
+    "sentence": "Roadtrip Nation is an educational production company based out of Costa Mesa, California that produces the eponymous public television documentary series ``Roadtrip Nation.``",
+    "entities": {
+      "Roadtrip Nation": "organization-company",
+      "Costa Mesa": "location-GPE",
+      "California": "location-GPE",
+      "Roadtrip Nation.": "art-broadcastprogram"
+    }
+  },
+  {
+    "sentence": "She was a graduate of the Moscow State Choreographic Academy in 2002 and after it joined the Kremlin Ballet Theater where she plays such roles as Odette-Odile in ``Swan Lake``, Kitri in ``Don Quixote``, Marie in ``the Nutcracker``, and Emmy Lawrence in ``Tom Sawyer``.",
+    "entities": {
+      "Moscow State Choreographic Academy": "organization-education",
+      "Kremlin Ballet Theater": "building-theater",
+      "Odette-Odile": "person-other",
+      "Swan Lake": "art-other",
+      "Kitri": "person-other",
+      "Don Quixote": "art-other",
+      "Marie": "person-other",
+      "the Nutcracker": "art-other",
+      "Emmy Lawrence": "person-other",
+      "Tom Sawyer": "art-other"
+    }
+  },
+  {
+    "sentence": "His favorite restaurant is Bueno Nacho and he is the creator of the ``Naco``, which is a combination of nachos and a taco.",
+    "entities": {
+      "Bueno Nacho": "building-restaurant",
+      "Naco": "product-food",
+      "nachos": "product-food",
+      "taco": "product-food"
+    }
+  },
+  {
+    "sentence": "The barracks were built in response to the Jacobite uprising of 1745.",
+    "entities": {
+      "Jacobite uprising": "event-protest"
+    }
+  },
+  {
+    "sentence": "Luboš Kohoutek (, born 29 January 1935) is a Czech astronomer and a discoverer of minor planets and comets, including Comet Kohoutek which was visible to the naked eye in 1973.",
+    "entities": {
+      "Luboš Kohoutek": "person-scholar",
+      "Czech": "location-GPE",
+      "Comet Kohoutek": "other-astronomything"
+    }
+  },
+  {
+    "sentence": "The first license for video games based upon the ``Dungeons & amp; Dragons`` rules was awarded to Strategic Simulations, Inc. (SSI) in 1987 after ten companies had applied.",
+    "entities": {
+      "Dungeons & amp; Dragons": "product-game",
+      "Strategic Simulations, Inc.": "organization-company",
+      "SSI": "organization-company"
+    }
+  },
+  {
+    "sentence": "Unterterzen has a train station, where (as of 2016) the S4 (circling around the Säntis mountain range) and (on weekends) the S2 (Zurich Main Station & amp; Airport) stop.",
+    "entities": {
+      "Unterterzen": "location-GPE",
+      "S4": "location-road/railway/highway/transit",
+      "Säntis": "location-mountain",
+      "S2": "location-road/railway/highway/transit",
+      "Zurich Main Station & amp; Airport": "building-airport"
+    }
+  },
+  {
+    "sentence": "She was most active during the Depression and World War II, and designed many religious triptychs, which were used as portable altars for the armed forces.",
+    "entities": {
+      "Depression": "event-other",
+      "World War II": "event-attack/battle/war/militaryconflict",
+      "religious triptychs": "art-painting",
+      "armed forces": "organization-other"
+    }
+  },
+  {
+    "sentence": "Nichols' girlfriend Ruth (Margot Kidder), whom he meets after his return to town, is a barmaid at Salter's Hotel.",
+    "entities": {
+      "Nichols": "person-other",
+      "Ruth": "person-other",
+      "Margot Kidder": "person-actor",
+      "Salter's Hotel": "building-hotel"
+    }
+  },
+  {
+    "sentence": "Luckily, unofficial ``pirate ''recordings have preserved several of her live performances: the Spoleto Lucia di Lammermoor, the Scala I Capuleti e i Montecchi and Linda di Chamounix, the RAI Le Prophète, a 1967 Rigoletto from Turin, and the 1978 Norma from Florence.",
+    "entities": {
+      "Spoleto Lucia di Lammermoor": "art-other",
+      "Scala I Capuleti e i Montecchi and Linda di Chamounix": "art-other",
+      "RAI Le Prophète": "art-other",
+      "1967 Rigoletto": "art-other",
+      "Turin": "location-GPE",
+      "1978 Norma": "art-other",
+      "Florence": "location-GPE"
+    }
+  },
+  {
+    "sentence": "In the UK, like in the United States and Canada, most professional engineers are trained in universities, but some can start in a technical apprenticeship and either enroll in a university engineering degree later, or enroll in one of the Engineering Council UK programmes (level 6 – bachelor's and 7 – master's) administered by the City and Guilds of London Institute.",
+    "entities": {
+      "UK": "location-GPE",
+      "United States": "location-GPE",
+      "Canada": "location-GPE",
+      "City and Guilds of London Institute": "organization-other"
+    }
+  },
+  {
+    "sentence": "In 1962 he was posthumously awarded the Gold Medal of Comenius.",
+    "entities": {
+      "Gold Medal of Comenius": "other-award"
+    }
+  },
+  {
+    "sentence": "In 1998 in Uganda, 3,433 tetanus cases were recorded in newborn babies; of these, 2,403 died.",
+    "entities": {
+      "Uganda": "location-GPE",
+      "tetanus": "other-disease"
+    }
+  },
+  {
+    "sentence": "Red Bird Transit Center is a small bus-only station located on Highway 67 and Hampton Rd.",
+    "entities": {
+      "Red Bird Transit Center": "building-theater",
+      "Highway 67": "location-road/railway/highway/transit"
+    }
+  },
+  {
+    "sentence": "He returned to the Prague Marathon in 2010 but could not repeat his past performances and finished in 2:10:53 for seventh place.",
+    "entities": {
+      "Prague Marathon": "event-sportsevent"
+    }
+  },
+  {
+    "sentence": "Big Tujunga Reservoir can hold of water.",
+    "entities": {
+      "Big Tujunga Reservoir": "location-bodiesofwater"
+    }
+  },
+  {
+    "sentence": "The site was created during the lead-up to the 2004 U.S. Presidential election to predict the winner.",
+    "entities": {
+      "2004 U.S. Presidential election": "event-election"
+    }
+  },
+  {
+    "sentence": "The organization in its current form dates back to 1982, when the University combined the administration of its libraries for the Graduate Schools of Business, Public and International Affairs, and the School of Library and Information Sciences with that of the Hillman Library and its branches.",
+    "entities": {
+      "Graduate Schools of Business, Public and International Affairs": "organization-education",
+      "School of Library and Information Sciences": "organization-education",
+      "Hillman Library": "building-library"
+    }
+  },
+  {
+    "sentence": "In 1967, Gott performed at Midem, the music industry trade fair in Cannes, France, where the applause was measured during every concert.",
+    "entities": {
+      "Gott": "person-artist/author",
+      "Midem": "event-other",
+      "Cannes": "location-GPE",
+      "France": "location-GPE"
+    }
+  },
+  {
+    "sentence": "Just outside the city, the Dunnellon/Marion County Airport can be found along CR 484.",
+    "entities": {
+      "Dunnellon/Marion County Airport": "building-airport"
+    }
+  },
+  {
+    "sentence": "Mega Man X, known as in Japan, with his name usually abbreviated to ``, is the main protagonist of Capcom's`` Mega Man X ``video game series originating in the 1993 Super Nintendo video game`` Mega Man X. ''",
+    "entities": {
+      "Mega Man X": "product-game",
+      "Japan": "location-GPE",
+      "Capcom": "organization-company",
+      "Super Nintendo": "organization-company"
+    }
+  },
+  {
+    "sentence": "Jari-Matti Latvala was the first non-Frenchman and thus foreign driver to win the rally, and it was also his first win on asphalt.",
+    "entities": {
+      "Jari-Matti Latvala": "person-athlete"
+    }
+  },
+  {
+    "sentence": "In 1983, Mimiko served as the Publicity Secretary of the Ondo local government chapter of the UPN.",
+    "entities": {
+      "Mimiko": "person-politician",
+      "the UPN": "organization-politicalparty"
+    }
+  },
+  {
+    "sentence": "She edited ``Ours: A Holiday Quarterly`` and contributed regularly to ``All the Year Round``, Frank Leslie's ``Popular Monthly``, and other magazines in Britain and the United States between 1876 and 1884.",
+    "entities": {
+      "Ours: A Holiday Quarterly": "art-writtenart",
+      "All the Year Round": "art-writtenart",
+      "Frank Leslie": "person-artist/author",
+      "Popular Monthly": "art-writtenart",
+      "Britain": "location-GPE",
+      "United States": "location-GPE"
+    }
+  },
+  {
+    "sentence": "For over 400 years, Georges Bank supported lucrative fisheries for Atlantic cod and halibut.",
+    "entities": {
+      "Georges Bank": "location-other",
+      "Atlantic cod": "other-livingthing",
+      "halibut": "other-livingthing"
+    }
+  },
+  {
+    "sentence": "RB 32 is operated by Abellio Rail NRW hourly on weekdays and every two hours on Saturday afternoons and on Sundays.",
+    "entities": {
+      "RB 32": "product-train",
+      "Abellio Rail NRW": "organization-other"
+    }
+  },
+  {
+    "sentence": "In 1993 he was appointed to the Board of Trustees at the Henry Ford Hospital.",
+    "entities": {
+      "Henry Ford Hospital": "building-hospital"
+    }
+  },
+  {
+    "sentence": "Until 2015 all known mammalian prion diseases were considered to be caused by the prion protein, PrP; in 2015 multiple system atrophy was found to be transmissible and was hypothesized to be caused by a new prion, the misfolded form of a protein called alpha-synuclein.",
+    "entities": {
+      "prion": "other-biologything",
+      "prion protein": "other-biologything",
+      "PrP": "other-biologything",
+      "protein": "other-biologything",
+      "alpha-synuclein": "other-biologything"
+    }
+  },
+  {
+    "sentence": "This ``WinObjC`` project is open source on GitHub.",
+    "entities": {
+      "WinObjC": "product-other"
+    }
+  },
+  {
+    "sentence": "The soundtrack of ``Police`` was composed by Hemant Kumar and the lyrics were penned by Majrooh Sultanpuri.",
+    "entities": {
+      "Police": "art-music",
+      "Hemant Kumar": "person-artist/author",
+      "Majrooh Sultanpuri": "person-artist/author"
+    }
+  },
+  {
+    "sentence": "The Trio's seven-year contract with Capitol ended in February 1964 with one album due.",
+    "entities": {
+      "Trio": "organization-showorganization",
+      "Capitol": "organization-company"
+    }
+  },
+  {
+    "sentence": "Trick 'r Treat is a 2007 American anthology horror comedy film written and directed by Michael Dougherty and produced by Bryan Singer.",
+    "entities": {
+      "Trick 'r Treat": "art-film",
+      "American": "location-GPE",
+      "Michael Dougherty": "person-artist/author",
+      "Bryan Singer": "person-other"
+    }
+  },
+  {
+    "sentence": "The highest point of the range is on the east and is Razak (6758 ft): other peaks are Mughal Pabb (5979 ft) and Choto-e-Jik (5874 ft); westward the range decreases in height to about 5000 ft.",
+    "entities": {
+      "Razak": "location-mountain",
+      "Mughal Pabb": "location-mountain",
+      "Choto-e-Jik": "location-mountain"
+    }
+  },
+  {
+    "sentence": "IGRA mandates that all Class III gaming operations can only be conducted on Tribal land held in trust for the tribe by the Bureau of Indian Affairs.",
+    "entities": {
+      "IGRA": "other-law",
+      "Bureau of Indian Affairs": "organization-government/governmentagency"
+    }
+  },
+  {
+    "sentence": "He is interred in the Hollywood Forever Cemetery.",
+    "entities": {
+      "Hollywood Forever Cemetery": "building-other"
+    }
+  },
+  {
+    "sentence": "Lady Elliot Island is located southeast of Bramble Cay as the crow flies.",
+    "entities": {
+      "Lady Elliot Island": "location-island",
+      "Bramble Cay": "location-other"
+    }
+  },
+  {
+    "sentence": "Three ships of the United States Navy have been named USS ``Santee``, after the Santee River of South Carolina.",
+    "entities": {
+      "United States Navy": "organization-other",
+      "Santee": "product-ship",
+      "the Santee River": "location-bodiesofwater",
+      "Carolina": "location-GPE"
+    }
+  },
+  {
+    "sentence": "Now, PGU owns 10 helicopters AS355 F2 and N series, 6 CE 208 Caravan, 5 Pilatus PC-6 Porter, 4 Cessna 172Sp, and 5 Beechcraft KingAir 350 (KingAir 350 is an advanced aircraft with latest Proline-21 avionics system).",
+    "entities": {
+      "PGU": "organization-company",
+      "AS355 F2": "product-airplane",
+      "N series,": "product-airplane",
+      "CE 208 Caravan": "product-airplane",
+      "Pilatus PC-6 Porter,": "product-airplane",
+      "Cessna 172Sp": "product-airplane",
+      "Beechcraft KingAir 350": "product-airplane",
+      "KingAir 350": "product-airplane",
+      "Proline-21 avionics": "product-airplane"
+    }
+  },
+  {
+    "sentence": "Dwarf planets, such as Ceres, Pluto and Eris, are similar to terrestrial planets in that they have a solid surface, but are composed of ice and rock rather than of rock and metal.",
+    "entities": {
+      "Ceres": "other-astronomything",
+      "Pluto": "other-astronomything",
+      "Eris": "other-astronomything"
+    }
+  },
+  {
+    "sentence": "Cuyahoga Valley also differs from the other national parks in America in that it is adjacent to two large urban areas and it includes a dense road network, small towns, four reservations of the Cleveland Metroparks, eleven parks of the Summit Metro Parks, and public and private attractions.",
+    "entities": {
+      "Cuyahoga Valley": "location-mountain",
+      "America": "location-GPE",
+      "Cleveland Metroparks": "location-other",
+      "Summit Metro Parks": "location-park"
+    }
+  },
+  {
+    "sentence": "Tajima-Peña's transmedia curriculum project is ``Building History 3.0``, an interactive exploration of the incarceration of Japanese Americans during World War II using the online video game ``Minecraft. ''",
+    "entities": {
+      "Tajima-Peña": "person-other",
+      "Building History 3.0": "product-other",
+      "World War II": "event-attack/battle/war/militaryconflict",
+      "Minecraft": "product-game"
+    }
+  },
+  {
+    "sentence": "In 2001, the team moved into the new $100 million, 11,500-seat Ralph Engelstad Arena, replacing the aging 6,000-seat Old Ralph Engelstad Arena that served as the home for UND hockey since 1972.",
+    "entities": {
+      "$": "other-currency",
+      "Ralph Engelstad Arena": "building-sportsfacility",
+      "Old Ralph Engelstad Arena": "building-sportsfacility",
+      "UND": "organization-sportsteam"
+    }
+  },
+  {
+    "sentence": "Then again disputed the 24 Hours of Le Mans with Aston Martin DB9 of Modena, reaching delayed in the 30th overall position.",
+    "entities": {
+      "Le Mans": "event-sportsevent",
+      "Aston Martin DB9": "product-car",
+      "Modena": "location-GPE"
+    }
+  },
+  {
+    "sentence": "Cinemax has since announced that it is working with Frank Spotnitz to reboot the show, describing the current incarnation as ``too expensive ''to continue without BBC support.",
+    "entities": {
+      "Cinemax": "organization-media/newspaper",
+      "Frank Spotnitz": "person-other",
+      "BBC": "organization-media/newspaper"
+    }
+  },
+  {
+    "sentence": "Co-director Rob Minkoff also claimed he was unfamiliar with ``Kimba ''.",
+    "entities": {
+      "Rob Minkoff": "person-director"
+    }
+  },
+  {
+    "sentence": "The picnic has been controversial at times as, until 2015, it included the annual CHIN bikini contest which began as a separate event held on Captain John's Harbour Boat Restaurant in 1976 and 1977 before becoming part of the picnic in 1978.",
+    "entities": {
+      "CHIN bikini": "event-sportsevent",
+      "Captain John's Harbour Boat Restaurant": "building-restaurant"
+    }
+  },
+  {
+    "sentence": "This was overturned in 1926, resulting in the ``pronunciation of the educated natives of Beijing`` officially adopted as the basis for the phonology of Standard Chinese (Guoyu) in 1926.",
+    "entities": {
+      "Beijing": "location-GPE",
+      "Chinese": "other-language",
+      "Guoyu": "other-language"
+    }
+  },
+  {
+    "sentence": "In 1998, film composer Trevor Jones asked Kelsey to perform on the soundtrack to sci-fi cult film ``Dark City``.",
+    "entities": {
+      "Trevor Jones": "person-artist/author",
+      "Kelsey": "person-actor",
+      "``Dark City": "art-film"
+    }
+  },
+  {
+    "sentence": "Podcast Capture was introduced with Mac OS X 10.5 (Leopard), and allows users to record and distribute podcasts.",
+    "entities": {
+      "Podcast Capture": "product-software",
+      "Mac OS X 10.5": "product-other",
+      "Leopard": "product-other"
+    }
+  },
+  {
+    "sentence": "These shifts are dependent on the amount of π-back bonding allowed by the newly associated ligands.",
+    "entities": {
+      "π-back": "other-chemicalthing"
+    }
+  },
+  {
+    "sentence": "The vehicle was produced in the 1950s to up-gun units of the Royal Armoured Corps continuing to use the Cromwell tank during the early phases of the Cold War.",
+    "entities": {
+      "Royal Armoured Corps": "organization-other",
+      "Cromwell tank": "product-weapon",
+      "Cold War": "event-attack/battle/war/militaryconflict"
+    }
+  },
+  {
+    "sentence": "In 1993 he moved from Le Bernardin to Daniel Boulud's first restaurant, Daniel, at the Surrey Hotel.",
+    "entities": {
+      "Le Bernardin": "location-GPE",
+      "Daniel Boulud": "person-other",
+      "Daniel": "person-other",
+      "Surrey Hotel": "building-hotel"
+    }
+  },
+  {
+    "sentence": "In her early career, Holman held appointments at the Elizabeth Garrett Anderson Hospital, Great Ormond Street Hospital, and Mill Hill Emergency Hospital.",
+    "entities": {
+      "Holman": "person-scholar",
+      "Elizabeth Garrett Anderson Hospital": "building-hospital",
+      "Great Ormond Street Hospital": "building-hospital",
+      "Mill Hill Emergency Hospital": "building-hospital"
+    }
+  },
+  {
+    "sentence": "More significantly, Wellington refused to order his army to move into France until Pamplona had fallen.",
+    "entities": {
+      "Wellington": "person-soldier",
+      "France": "location-GPE",
+      "Pamplona": "location-GPE"
+    }
+  },
+  {
+    "sentence": "It is also known as the Bachelor of Veterinary Medicine and Surgery at some universities (BVMS).",
+    "entities": {
+      "Bachelor of Veterinary Medicine and Surgery": "other-educationaldegree",
+      "BVMS": "other-educationaldegree"
+    }
+  },
+  {
+    "sentence": "The Attic vase-painters showed the draped torso of Nereus issuing from a long coiling scaly fishlike tail.",
+    "entities": {
+      "Nereus": "other-god"
+    }
+  },
+  {
+    "sentence": "These secondary ingredients are not mainstream in the United States, where nonoxynol-9 alone is typical.",
+    "entities": {
+      "United States": "location-GPE",
+      "nonoxynol-9": "other-medical"
+    }
+  },
+  {
+    "sentence": "Cristaldo played two seasons for Melbourne Croatia in the National Soccer League.",
+    "entities": {
+      "Cristaldo": "person-athlete",
+      "Melbourne Croatia": "organization-sportsteam",
+      "National Soccer League": "organization-sportsleague"
+    }
+  },
+  {
+    "sentence": "Like Webb's ``Dragnet``, it was based on real Los Angeles Police Department procedures and cases.",
+    "entities": {
+      "Dragnet": "art-broadcastprogram",
+      "Los Angeles Police Department": "organization-other"
+    }
+  },
+  {
+    "sentence": "The church later evolved into the Saint George Albanian Orthodox Cathedral, today the seat of the Albanian Archdiocese of the Orthodox Church in America.",
+    "entities": {
+      "Saint George Albanian Orthodox Cathedral": "building-other",
+      "Albanian Archdiocese of the Orthodox Church": "organization-religion",
+      "America": "location-GPE"
+    }
+  },
+  {
+    "sentence": "The Poor People's Campaign was a multiracial effort—including African Americans, white Americans, Asian Americans, Hispanic Americans, and Native Americans —aimed at alleviating poverty regardless of race.",
+    "entities": {
+      "Poor People's Campaign": "event-protest",
+      "African Americans": "location-GPE",
+      "Americans": "location-GPE",
+      "Asian Americans": "location-GPE",
+      "Hispanic Americans": "location-GPE"
+    }
+  },
+  {
+    "sentence": "Historically, Honey Nut Cheerios has participated in much the same promotional advertising as the original brand, while collaborating with the field of NASCAR and especially driver Bill Lester, in promoting healthy diets.",
+    "entities": {
+      "Honey Nut Cheerios": "product-food",
+      "NASCAR": "organization-other",
+      "Bill Lester": "person-other"
+    }
+  },
+  {
+    "sentence": "A notable example was ``MB 84 Memorandum`` (1984) an image of a black cross that served as a way to advertise Laibach's appearances during a period in the 1980s when the government of Yugoslavia banned the name ``Laibach``.",
+    "entities": {
+      "MB 84 Memorandum": "art-painting",
+      "Laibach": "organization-showorganization",
+      "Yugoslavia": "location-GPE"
+    }
+  },
+  {
+    "sentence": "However, lack of job opportunities and the 2005 Kashmir earthquake has also caused a large-scale migration from the Hazara division to Karachi.",
+    "entities": {
+      "Kashmir earthquake": "event-disaster",
+      "Hazara": "location-GPE"
+    }
+  },
+  {
+    "sentence": "The group transitioned to North American P-51 Mustangs in early 1944.",
+    "entities": {
+      "North American P-51 Mustangs": "organization-other"
+    }
+  },
+  {
+    "sentence": "The film premiered at Fantastic Fest in Austin, Texas, in September 2007.",
+    "entities": {
+      "Fantastic Fest": "event-other",
+      "Austin": "location-GPE",
+      "Texas": "location-GPE"
+    }
+  },
+  {
+    "sentence": "In 1964 she appeared as Elizabeth in the musical ``Robert and Elizabeth`` at the Lyric Theatre, London alongside Keith Michell as Robert Browning, a show she took to Australia in 1966.",
+    "entities": {
+      "Elizabeth": "person-other",
+      "Robert and Elizabeth": "art-music",
+      "Lyric Theatre": "building-theater",
+      "London": "location-GPE",
+      "Keith Michell": "person-artist/author",
+      "Robert Browning": "person-other",
+      "Australia": "location-GPE"
+    }
+  },
+  {
+    "sentence": "The digitised versions are since then available for use in the reading rooms of the German National Library in Leipzig and Frankfurt am Main only, which caused partly harsh criticism.",
+    "entities": {
+      "German National Library": "building-library",
+      "Leipzig": "location-GPE",
+      "Frankfurt am Main only": "location-GPE"
+    }
+  },
+  {
+    "sentence": "A two-year spell at Somerset Park saw him play over sixty games before winding down his career with Dumbarton.",
+    "entities": {
+      "Somerset Park": "organization-sportsteam",
+      "Dumbarton": "organization-sportsteam"
+    }
+  },
+  {
+    "sentence": "A similar problem arose at East End Park, home to Dunfermline Athletic F.C., the introduction of greyhound racing saved the club from going bankrupt.",
+    "entities": {
+      "East End Park": "building-sportsfacility",
+      "Dunfermline Athletic F.C.": "organization-sportsteam"
+    }
+  },
+  {
+    "sentence": "Up until January, Ki would rarely feature on the team sheet, moreover illness and a knock sustained in training in December furthered hindered his chances to play.",
+    "entities": {
+      "Ki": "person-athlete"
+    }
+  },
+  {
+    "sentence": "RNA thermometers and riboswitches are thought to be evolutionarily ancient due to their wide-scale distribution in distantly-related organisms.",
+    "entities": {
+      "RNA": "other-biologything"
+    }
+  },
+  {
+    "sentence": "Growth hormone deficiency (GHD) is a medical condition in which the body produces insufficient growth hormone.",
+    "entities": {
+      "Growth hormone deficiency": "other-disease",
+      "GHD": "other-disease"
+    }
+  },
+  {
+    "sentence": "Miller is the recipient of the Illinois Broadcasters Association's First Place Silver Dome Awards for best television weather segment.",
+    "entities": {
+      "Miller": "person-other",
+      "Illinois Broadcasters Association": "organization-other",
+      "First Place Silver Dome Awards": "other-award"
+    }
+  },
+  {
+    "sentence": "The US Geological Survey produces the National Elevation Dataset, a seamless DEM for the United States, Hawaii and Puerto Rico based on 7.5 'topographic mapping.",
+    "entities": {
+      "The US Geological Survey": "organization-other",
+      "the National Elevation Dataset": "product-other",
+      "United States": "location-GPE",
+      "Hawaii": "location-GPE",
+      "Puerto Rico": "location-GPE"
+    }
+  },
+  {
+    "sentence": "The 2013 Decathlon took place in California instead of Washington.",
+    "entities": {
+      "Decathlon": "event-sportsevent",
+      "California": "location-GPE",
+      "Washington": "location-GPE"
+    }
+  },
+  {
+    "sentence": "Verbs are conjugated according to person and number and nouns have four cases, like Modern Icelandic and German.",
+    "entities": {
+      "Icelandic": "other-language",
+      "German": "other-language"
+    }
+  },
+  {
+    "sentence": "The large-scale migration is corroborated by the data collected during the Bulgarian occupation of northeastern Greece during World War II.",
+    "entities": {
+      "Bulgarian": "location-GPE",
+      "Greece": "location-GPE",
+      "World War II": "event-attack/battle/war/militaryconflict"
+    }
+  },
+  {
+    "sentence": "Serpens Caput is bordered by Libra to the south, Virgo and Boötes to the east, Corona Borealis to the north, and Ophiuchus and Hercules to the west; Serpens Cauda is bordered by Sagittarius to the south, Scutum and Aquila to the east, and Ophiuchus to the north and west.",
+    "entities": {
+      "Serpens Caput": "other-astronomything",
+      "Libra": "other-astronomything",
+      "Virgo": "other-astronomything",
+      "Boötes": "other-astronomything",
+      "Corona Borealis": "other-astronomything",
+      "Ophiuchus": "other-astronomything",
+      "Hercules": "other-astronomything",
+      "Serpens Cauda": "other-astronomything",
+      "Sagittarius": "other-astronomything",
+      "Scutum": "other-astronomything",
+      "Aquila": "other-astronomything"
+    }
+  },
+  {
+    "sentence": "The aircraft ``CF-IHA`` was a Canadian -built variant of the Consolidated Catalina built by Canadian - Vickers in 1944.",
+    "entities": {
+      "CF-IHA": "product-airplane",
+      "Canadian": "location-GPE",
+      "Consolidated Catalina": "product-airplane",
+      "Vickers": "organization-company"
+    }
+  },
+  {
+    "sentence": "Nabonga is a 1944 PRC film starring Buster Crabb e and Julie London (in her film debut).",
+    "entities": {
+      "Nabonga": "art-film",
+      "Buster Crabb": "person-actor",
+      "Julie London": "person-actor"
+    }
+  },
+  {
+    "sentence": "Vickie D. McDonald (born May 26, 1947) was Nebraska state senator from St. Paul, Nebraska in the Nebraska Legislature and account executive.",
+    "entities": {
+      "Vickie D. McDonald": "person-other",
+      "Nebraska": "location-GPE",
+      "St. Paul": "location-GPE",
+      "Nebraska Legislature": "organization-government/governmentagency"
+    }
+  },
+  {
+    "sentence": "At the time, Raymore Drive went from Scarlett Road, mostly along the Humber River, passing Brownlea Avenue, Waterton Road, Tilden Crescent, and Gilhaven Avenue.",
+    "entities": {
+      "Raymore Drive": "location-GPE",
+      "Scarlett Road": "location-road/railway/highway/transit",
+      "Humber River": "location-bodiesofwater",
+      "Brownlea Avenue": "location-road/railway/highway/transit",
+      "Waterton Road": "location-road/railway/highway/transit",
+      "Tilden Crescent": "location-road/railway/highway/transit",
+      "Gilhaven Avenue": "location-road/railway/highway/transit"
+    }
+  },
+  {
+    "sentence": "Shanley died from heart failure on November 15, 1996, aged 86, at Saint John's Health Center in Santa Monica.",
+    "entities": {
+      "Shanley": "person-other",
+      "Saint John's Health Center": "building-hospital",
+      "Santa Monica": "location-GPE"
+    }
+  },
+  {
+    "sentence": "Other notable Allegheny highpoints include Thorny Flat on Cheat Mountain (4,848 ft/1478 m), Bald Knob on Back Allegheny Mountain (4,842 ft/1476 m), and Mount Porte Crayon (4,770 ft/1,454 m), all in West Virginia; Dans Mountain (2,898 ft/883m) in Maryland, Backbone Mountain (3360 ft/1024 m), the highest point in Maryland; Mount Davis (3,213 ft/979 m), the highest point in Pennsylvania, and the second highest, Blue Knob (3,146 ft/959 m).",
+    "entities": {
+      "Allegheny": "location-mountain",
+      "Thorny Flat on Cheat Mountain": "location-mountain",
+      "Bald Knob on Back Allegheny Mountain": "location-mountain",
+      "Mount Porte Crayon": "location-GPE",
+      "West Virginia": "location-GPE",
+      "Dans Mountain": "location-mountain",
+      "Maryland": "location-GPE",
+      "Backbone Mountain": "location-mountain",
+      "Mount Davis": "location-mountain",
+      "Pennsylvania": "location-GPE",
+      "Blue Knob": "location-mountain"
+    }
+  },
+  {
+    "sentence": "The 1915–16 Missouri Tigers men's basketball team represented University of Missouri in the 1915–16 college basketball season.",
+    "entities": {
+      "Missouri Tigers": "organization-sportsteam",
+      "University of Missouri": "organization-education"
+    }
+  },
+  {
+    "sentence": "IPA is an International Baccalaureate World School offering the International Baccalaureate Diploma Programme (DP) for Grades 11-12.",
+    "entities": {
+      "IPA": "organization-education",
+      "International Baccalaureate": "other-educationaldegree"
+    }
+  },
+  {
+    "sentence": "In 1907, Mears acquired the business of the Thames Electric & amp; Motor Launch Co at Eel Pie Island and he went on to build up a large fleet of passenger launches on the Thames.",
+    "entities": {
+      "Mears": "person-other",
+      "Thames Electric": "organization-company",
+      "Motor Launch Co": "organization-company",
+      "Eel Pie Island": "location-island",
+      "Thames": "location-bodiesofwater"
+    }
+  },
+  {
+    "sentence": "He was active in the reign of Justinian I (r. 527-565).",
+    "entities": {
+      "Justinian I": "person-politician"
+    }
+  },
+  {
+    "sentence": "Princes Wharf was opened 12 May 1929 by Earl Jellicoe, having been planned and built between 1919 and 1920., the then-largest battlecruiser of the Royal Navy, berthed at the wharf for the commissioning, showing the strategic importance the British Empire attributed to the naval facilities of its colonies.",
+    "entities": {
+      "Princes Wharf": "location-other",
+      "Earl Jellicoe": "person-other",
+      "the Royal Navy": "organization-other",
+      "British Empire": "location-GPE"
+    }
+  },
+  {
+    "sentence": "The idea of making the IPA was first suggested by Otto Jespersen in a letter to Paul Passy.",
+    "entities": {
+      "IPA": "organization-other",
+      "Otto Jespersen": "person-scholar",
+      "Paul Passy": "person-scholar"
+    }
+  },
+  {
+    "sentence": "The island was discovered and charted from the USS ``Glacier`` on February 5, 1962, and was named by the Advisory Committee on Antarctic Names after Lieutenant Commander John J. Forrester, U.S. Navy, Executive Officer aboard the ``Glacier`` at the time of discovery.",
+    "entities": {
+      "USS": "organization-government/governmentagency",
+      "Glacier": "product-ship",
+      "Advisory Committee": "organization-other",
+      "Antarctic": "location-GPE",
+      "John J. Forrester": "person-soldier",
+      "U.S. Navy": "organization-government/governmentagency"
+    }
+  },
+  {
+    "sentence": "With Suharto's resignation in 1998, ``the structure that repressed religion and society collapsed. ''",
+    "entities": {
+      "Suharto's": "organization-politicalparty"
+    }
+  },
+  {
+    "sentence": "He arrived at Fort Jefferson on October 8, 1865.",
+    "entities": {
+      "Fort Jefferson": "building-other"
+    }
+  },
+  {
+    "sentence": "Even when the Lira was legitimate currency, 500 Lira was only worth €0.26.",
+    "entities": {
+      "Lira": "other-currency",
+      "€": "other-currency"
+    }
+  },
+  {
+    "sentence": "It also holds a separate membership in the Baptist World Alliance.",
+    "entities": {
+      "Baptist World Alliance": "organization-religion"
+    }
+  },
+  {
+    "sentence": "He also was the USBWA College Player of the Year and James Naismith Award winner in 1980, and a 2 time member of ``The Sporting News`` 'All- America first team.",
+    "entities": {
+      "USBWA College Player of the Year": "other-award",
+      "James Naismith Award": "other-award",
+      "The Sporting News": "organization-media/newspaper",
+      "America": "location-GPE"
+    }
+  },
+  {
+    "sentence": "The Mothership Reconnection Tour, which began in New York's Central Park, required a reconstruction of the 1970s Mothership, and the concerts included the landing of the Mothership, albeit on a smaller scale.",
+    "entities": {
+      "Mothership": "product-ship",
+      "New York": "location-GPE",
+      "Central Park": "location-park"
+    }
+  },
+  {
+    "sentence": "Her most successful work is ``'', also published as`` Paris 1919: Six Months That Changed the World.''",
+    "entities": {
+      "Paris 1919: Six Months That Changed the World": "art-writtenart"
+    }
+  },
+  {
+    "sentence": "Hippocrates' legendary genealogy traces his paternal heritage directly to Asklepius and his maternal ancestry to Heracles.",
+    "entities": {
+      "Hippocrates": "person-other",
+      "Asklepius": "other-god",
+      "Heracles": "other-god"
+    }
+  },
+  {
+    "sentence": "In 1975, President Gerald Ford signed the Indochina Migration and Refugee Assistance Act, budgeting roughly 415 million dollars in the effort of providing transportation, healthcare, and accommodations to the 130,000 Vietnamese, Cambodian, and Laos refugees.",
+    "entities": {
+      "Gerald Ford": "person-politician",
+      "Indochina Migration and Refugee Assistance Act": "other-law",
+      "dollars": "other-currency",
+      "Cambodian": "location-GPE",
+      "Laos": "location-GPE"
+    }
+  },
+  {
+    "sentence": "Apart from this show, Lewis also helped to launch ``The Jackie Gleason Show``, ``The Dinah Shore Show`` and ``The Phil Silvers Show``.",
+    "entities": {
+      "Lewis": "person-actor",
+      "The Jackie Gleason Show": "art-broadcastprogram",
+      "The Dinah Shore Show": "art-broadcastprogram",
+      "The Phil Silvers Show": "art-broadcastprogram"
+    }
+  },
+  {
+    "sentence": "Professional wrestler Chris Jericho's band, Fozzy, did their own cover of the song ``Balls to the Wall``.",
+    "entities": {
+      "Chris Jericho": "person-artist/author",
+      "Fozzy": "organization-showorganization",
+      "Balls to the Wall": "art-music"
+    }
+  },
+  {
+    "sentence": "The play was revived Off-Broadway at the Equity Library Theatre In October 1979, directed by Jamie Brown.",
+    "entities": {
+      "Off-Broadway": "location-road/railway/highway/transit",
+      "Equity Library Theatre": "building-theater",
+      "Jamie Brown": "person-director"
+    }
+  },
+  {
+    "sentence": "The locomotives were built to the specifications of LMS CME W.A.",
+    "entities": {
+      "LMS CME W.A": "product-train"
+    }
+  },
+  {
+    "sentence": "It tells the story of Elliott, a boy who befriends an extraterrestrial, dubbed E.T., who is stranded on Earth.",
+    "entities": {
+      "Elliott": "person-other",
+      "E.T": "other-livingthing",
+      "Earth": "other-astronomything"
+    }
+  },
+  {
+    "sentence": "The ``Separation of Light from Darkness`` is based on verses 3–5 from the first chapter of the Book of Genesis:",
+    "entities": {
+      "Separation of Light from Darkness": "art-painting",
+      "Book of Genesis": "art-writtenart"
+    }
+  },
+  {
+    "sentence": "However, some 300 Dutch farmers still produce ``boerenkaas`` (“farmer's cheese ”) which is a protected form of Gouda made in the traditional manner, using unpasteurized milk.",
+    "entities": {
+      "Dutch": "location-GPE",
+      "boerenkaas": "product-food",
+      "Gouda": "product-food",
+      "milk": "product-food"
+    }
+  },
+  {
+    "sentence": "Atria Software Inc. was a software company that developed ClearCase in the early 1990s.",
+    "entities": {
+      "Atria Software Inc.": "organization-company",
+      "ClearCase": "product-software"
+    }
+  },
+  {
+    "sentence": "During the 2006 and 2007 season Borman also played for the Rhode Island Stingrays in the USL Premier Development League.",
+    "entities": {
+      "Borman": "person-athlete",
+      "Rhode Island Stingrays": "organization-sportsteam",
+      "USL Premier Development League": "organization-sportsleague"
+    }
+  },
+  {
+    "sentence": "It begins near the North Grand Island Bridge at an interchange with Interstate 190 (I-190) in Niagara Falls and ends just south of the Niagara Falls International Airport at Williams Road (NY 952V) in Wheatfield.",
+    "entities": {
+      "North Grand Island Bridge": "building-other",
+      "Interstate 190": "location-road/railway/highway/transit",
+      "Niagara Falls": "location-other",
+      "Niagara Falls International Airport": "building-airport",
+      "Williams Road": "location-road/railway/highway/transit",
+      "NY 952V": "location-road/railway/highway/transit",
+      "Wheatfield": "location-GPE"
+    }
+  },
+  {
+    "sentence": "The setting of Earthdawn is the same world as ``Shadowrun`` (i.e.",
+    "entities": {
+      "Earthdawn": "product-game",
+      "Shadowrun": "product-game"
+    }
+  },
+  {
+    "sentence": "He also coordinated Hurricane Gilbert relief efforts and scholarship programs.",
+    "entities": {
+      "Hurricane Gilbert": "event-disaster"
+    }
+  },
+  {
+    "sentence": "He was Chairman of Coutts from 1993–99, and of the Savoy Hotel Group 1994-98.",
+    "entities": {
+      "Coutts": "building-other",
+      "Savoy Hotel Group": "building-hotel"
+    }
+  },
+  {
+    "sentence": "At one point, the AJ 37 Viggen was under consideration as a carrier of both a Swedish nuclear weapon and chemical weapons, although no nuclear or chemical weapons were ultimately adopted by Sweden.",
+    "entities": {
+      "AJ 37 Viggen": "product-weapon",
+      "Swedish": "location-GPE",
+      "Sweden": "location-GPE"
+    }
+  },
+  {
+    "sentence": "Recommended antibiotics in those who are young and sexually active are ceftriaxone and doxycycline.",
+    "entities": {
+      "ceftriaxone": "other-medical",
+      "doxycycline": "other-medical"
+    }
+  },
+  {
+    "sentence": "A TET enzyme is an alpha-ketoglutarate (α-KG) dependent dioxygenase that catalyses an oxidation reaction by incorporating a single oxygen atom from molecular oxygen (O2) into its substrate, 5-methylcytosine in DNA (5mC), to produce the product 5-hydroxymethylcytosine in DNA.",
+    "entities": {
+      "TET enzyme": "other-biologything",
+      "alpha-ketoglutarate": "other-chemicalthing",
+      "α-KG": "other-chemicalthing",
+      "dioxygenase": "other-biologything",
+      "oxygen": "other-chemicalthing",
+      "O2": "other-chemicalthing",
+      "5-methylcytosine": "other-chemicalthing",
+      "DNA": "other-biologything",
+      "5mC": "other-chemicalthing",
+      "5-hydroxymethylcytosine": "other-chemicalthing"
+    }
+  },
+  {
+    "sentence": "It won seven seats in the 2014 General Election, with the elected MPs being Ivan Collendavelloo, Sangeet Fowdar, Anil Gayan, Ravi Rutna, Anwar Husnoo, Eddy Boissezon and Toolsyraj Benydin.",
+    "entities": {
+      "2014 General Election": "event-election",
+      "Ivan Collendavelloo": "person-politician",
+      "Sangeet Fowdar": "person-politician",
+      "Anil Gayan": "person-politician",
+      "Anwar Husnoo": "person-politician",
+      "Eddy Boissezon": "person-politician",
+      "Toolsyraj Benydin": "person-politician"
+    }
+  },
+  {
+    "sentence": "The car was designed to slot between the smaller Nissan Primera and the larger Nissan Cedric, yet it shared a market position with the Nissan Cefiro and the Nissan Laurel, sold at different Nissan Japan sales channels.",
+    "entities": {
+      "Nissan Primera": "product-car",
+      "Nissan Cedric": "product-car",
+      "Nissan Cefiro": "product-car",
+      "Nissan Laurel": "product-car"
+    }
+  },
+  {
+    "sentence": "The second collection, called ``Villionaire``, premiered at New York's Hammerstein Ballroom with runway appearances by Johnny Weir and MTV's JWoww.",
+    "entities": {
+      "Villionaire": "art-other",
+      "New York's Hammerstein Ballroom": "building-other",
+      "Johnny Weir": "person-other",
+      "MTV": "organization-media/newspaper",
+      "JWoww": "person-other"
+    }
+  },
+  {
+    "sentence": "Reasons given are financial problems, and royal anger at his sloth in opposing Kett's Rebellion (which may have amounted to sympathy).",
+    "entities": {
+      "Kett's Rebellion": "event-protest"
+    }
+  },
+  {
+    "sentence": "Over the years, the chain has had numerous New York City competitors, including Gray's Papaya and Papaya Dog.",
+    "entities": {
+      "New York City": "location-GPE",
+      "Gray's Papaya": "building-restaurant",
+      "Papaya Dog": "building-restaurant"
+    }
+  },
+  {
+    "sentence": "Southeast Library and 14 other libraries of Minneapolis Public Library were merged into the combined urban/suburban Hennepin County Library in 2008.",
+    "entities": {
+      "Southeast Library": "building-library",
+      "Minneapolis Public Library": "organization-other",
+      "Hennepin County Library": "building-library"
+    }
+  },
+  {
+    "sentence": "Up to eight players can participate via DS Download Play.",
+    "entities": {
+      "DS Download Play": "product-other"
+    }
+  },
+  {
+    "sentence": "Anas was born on 5 December 1980 (Hijri Calendar: 27th of Muharram 1401AH) at the Nether Edge Hospital, Sheffield, England as the first child of ten siblings.",
+    "entities": {
+      "Anas": "person-other",
+      "Nether Edge Hospital": "building-hospital",
+      "Sheffield": "location-GPE",
+      "England": "location-GPE"
+    }
+  },
+  {
+    "sentence": "The hydroxyaluminate or hydrated aluminate can be precipitated and then calcined to produce anhydrous aluminates.",
+    "entities": {
+      "hydroxyaluminate": "other-chemicalthing",
+      "hydrated aluminate": "other-chemicalthing",
+      "anhydrous aluminates": "other-chemicalthing"
+    }
+  },
+  {
+    "sentence": "He finished fifth in long jump at the 2001 World Indoor Championships.",
+    "entities": {
+      "2001 World Indoor Championships": "event-sportsevent"
+    }
+  },
+  {
+    "sentence": "The ``Broadway Limited`` continued operating after the formation of Penn Central (PC) in February 1968, one of the few long-distance trains to do so.",
+    "entities": {
+      "Broadway Limited": "product-train",
+      "Penn Central": "organization-company",
+      "PC": "organization-company"
+    }
+  },
+  {
+    "sentence": "Spielberg was so displeased by the film that he publicly complained it had been ``turned into a really sick film.",
+    "entities": {
+      "Spielberg": "person-director"
+    }
+  },
+  {
+    "sentence": "After working unmasked for about a year Palomeque was given a new ring persona the following year, Abismo Negro (``The Black Abyss``), a ``rudo ''character that was the opposite of everything that Winners was.",
+    "entities": {
+      "Palomeque": "person-athlete",
+      "Abismo Negro": "person-other",
+      "The Black Abyss": "art-music",
+      "Winners": "person-athlete"
+    }
+  },
+  {
+    "sentence": "Gordon then collaborated with his son, playwright Ain Gordon, on ``The Family Business``, which premiered at Dance Theater Workshop in New York City in February 1994, received an Obie Award, and was presented at New York Theatre Workshop and at the Mark Taper Forum in Los Angeles in 1995.",
+    "entities": {
+      "Gordon": "person-director",
+      "Ain Gordon,": "person-artist/author",
+      "The Family Business": "art-other",
+      "Dance Theater Workshop": "building-theater",
+      "New York City": "location-GPE",
+      "Obie Award": "other-award",
+      "New York Theatre Workshop": "building-theater",
+      "Mark Taper Forum": "event-other",
+      "Los Angeles": "location-GPE"
+    }
+  },
+  {
+    "sentence": "Alternatively, it might be that as the church is dedicated to Saint Anne, the village took its name from the church - ``St Anne's croft``.",
+    "entities": {
+      "Saint Anne": "person-other",
+      "St Anne's croft": "building-other"
+    }
+  },
+  {
+    "sentence": "The Municipality of Metropolitan Toronto Act established the modern day ``Toronto Transit Commission`` from the ``Toronto Transportation Commission`` in 1954.",
+    "entities": {
+      "The Municipality of Metropolitan Toronto Act": "other-law",
+      "Toronto Transit Commission": "organization-other",
+      "Toronto Transportation Commission": "organization-other"
+    }
+  },
+  {
+    "sentence": "is a Shinto shrine traditionally believed to have been established during the reign of Emperor Keikō (71-130) located in Atsuta-ku, Nagoya, Aichi Prefecture in Japan.",
+    "entities": {
+      "Keikō": "person-politician",
+      "Atsuta-ku": "location-GPE",
+      "Nagoya": "location-GPE",
+      "Aichi": "location-GPE",
+      "Japan": "location-GPE"
+    }
+  },
+  {
+    "sentence": "September 25 saw the New Orleans Saints return to the Louisiana Superdome for the first time since Hurricane Katrina.",
+    "entities": {
+      "New Orleans Saints": "organization-sportsteam",
+      "Louisiana Superdome": "building-sportsfacility"
+    }
+  },
+  {
+    "sentence": "In the transitional period between 1 January 2005 and 31 December 2008, the second Turkish lira was officially called ``new Turkish lira`` in Turkey.",
+    "entities": {
+      "Turkish lira": "other-currency",
+      "Turkey": "location-GPE"
+    }
+  },
+  {
+    "sentence": "It is located in the former chapel of the Royal Dockyard and now houses a replica Sunderland cockpit with working controls that allow for a simulated flight over Milford Haven's estuary.",
+    "entities": {
+      "Royal Dockyard": "building-other",
+      "Sunderland": "location-GPE",
+      "Milford Haven": "location-other"
+    }
+  },
+  {
+    "sentence": "``Beastly`` was one of the first feature films to be produced and distributed by CBS Films; it had a budget of $17 million for filming and marketing.",
+    "entities": {
+      "Beastly": "art-film",
+      "CBS": "organization-company",
+      "$": "other-currency"
+    }
+  },
+  {
+    "sentence": "Cadmus goes to war with the forces of Lex Luthor in a Superman story called ``The Fall of Metropolis``.",
+    "entities": {
+      "Cadmus": "person-other",
+      "Lex Luthor": "person-other",
+      "The Fall of Metropolis": "art-writtenart"
+    }
+  },
+  {
+    "sentence": "The Eerie Midnight Horror Show (; also known as Enter the Devil, The Sexorcist and The Devil Obsession) is a 1974 Italian horror film directed by Mario Gariazzo and starring Stella Carnacina and Chris Avram.",
+    "entities": {
+      "Eerie Midnight Horror Show": "art-broadcastprogram",
+      "Enter the Devil": "art-broadcastprogram",
+      "Sexorcist": "art-broadcastprogram",
+      "Devil Obsession": "art-broadcastprogram",
+      "Italian": "location-GPE",
+      "Mario Gariazzo": "person-director",
+      "Stella Carnacina": "person-actor",
+      "Chris Avram": "person-actor"
+    }
+  },
+  {
+    "sentence": "The cultivated Moringa oleifera leaves are an excellent source of vitamins, minerals and protein.",
+    "entities": {
+      "Moringa oleifera": "other-livingthing",
+      "vitamins": "other-biologything",
+      "minerals": "other-biologything",
+      "protein": "other-biologything"
+    }
+  },
+  {
+    "sentence": "Moken is an Austronesian language spoken in southern Thailand and in the Mergui Archipelago of southern Myanmar.",
+    "entities": {
+      "Moken": "other-language",
+      "Austronesian": "location-GPE",
+      "Thailand": "location-GPE",
+      "Mergui Archipelago": "location-island",
+      "Myanmar": "location-GPE"
+    }
+  },
+  {
+    "sentence": "In the 1930s, his father Leddell Davis and uncles sang the ``brother duets ''music style (a forerunner of bluegrass music), and Davis's uncle Cleo Davis was a member of the first incarnation of Bill Monroe's Blue Grass Boys.",
+    "entities": {
+      "Leddell Davis": "person-artist/author",
+      "Davis": "person-other",
+      "Cleo Davis": "person-artist/author",
+      "Bill Monroe": "person-artist/author",
+      "Blue Grass Boys": "organization-showorganization"
+    }
+  },
+  {
+    "sentence": "Chinak Kurmi () is a Nepalese politician, belonging to the Communist Party of Nepal (Maoist) and a leader of the Madhesi Rastriya Mukti Morcha.",
+    "entities": {
+      "Chinak Kurmi": "person-politician",
+      "Nepalese": "location-GPE",
+      "Communist Party of Nepal": "organization-politicalparty",
+      "Madhesi Rastriya Mukti Morcha": "organization-politicalparty"
+    }
+  },
+  {
+    "sentence": "He had access to Charles II of England, and made petitions on behalf of Baptist beliefs.",
+    "entities": {
+      "Charles II of England": "organization-religion",
+      "Baptist": "organization-religion"
+    }
+  },
+  {
+    "sentence": "The evacuation of Hamas offices from Damascus may be the principal reason for the Doha ratification agreement signed by Mahmud Abbas and Khaled Mashal, but it was also suggested that this was done due to a rift between Hamas Government in Gaza and the external Hamas office, led by Khaled Mashal.",
+    "entities": {
+      "Hamas": "organization-government/governmentagency",
+      "Damascus": "location-GPE",
+      "Doha": "location-GPE",
+      "Mahmud Abbas": "person-politician",
+      "Khaled Mashal": "person-politician",
+      "Hamas Government": "organization-government/governmentagency",
+      "Gaza": "location-GPE"
+    }
+  },
+  {
+    "sentence": "He served as a pilot in the Royal Canadian Air Force during World War II.",
+    "entities": {
+      "Royal Canadian Air Force": "organization-other",
+      "World War II": "event-attack/battle/war/militaryconflict"
+    }
+  },
+  {
+    "sentence": "The full-day tours depart from Manapouri by boat to travel across Lake Manapouri, followed by a bus ride over Wilmot Pass, and return the same way after the boat tour in Doubtful Sound.",
+    "entities": {
+      "Manapouri": "location-GPE",
+      "Lake Manapouri": "location-bodiesofwater",
+      "Wilmot Pass": "location-other",
+      "Doubtful Sound": "location-other"
+    }
+  },
+  {
+    "sentence": "Parking lots are available for visitors-spectators arriving via the Mercer University Drive exit off of Interstate 75.",
+    "entities": {
+      "Mercer University Drive": "organization-education"
+    }
+  },
+  {
+    "sentence": "In the 1990s and 2000s, ``The Sun`` began cutting back its foreign coverage.",
+    "entities": {
+      "The Sun": "organization-media/newspaper"
+    }
+  },
+  {
+    "sentence": "Its river frontage runs from Chelsea Bridge along the Chelsea Embankment, Cheyne Walk, Lots Road and Chelsea Harbour.",
+    "entities": {
+      "Chelsea Bridge": "building-other",
+      "Chelsea": "location-GPE",
+      "Cheyne Walk": "location-road/railway/highway/transit",
+      "Lots Road": "location-road/railway/highway/transit",
+      "Chelsea Harbour": "location-other"
+    }
+  },
+  {
+    "sentence": "Powder works wharf demolition begun in 1883 was completed before construction of the Neptune Casino at the Santa Cruz Beach Boardwalk in 1904.Upon the breakup of DuPont's control of explosives manufacturing in the United States, the manufacture of blasting explosives was assigned to Atlas Powder Company, while California Powder Works double-base smokeless powder patents were assigned to Hercules Powder Company's smokeless powder manufacturing facility at Kenvil, New Jersey.",
+    "entities": {
+      "Powder": "organization-company",
+      "Neptune Casino": "location-other",
+      "Santa Cruz Beach Boardwalk": "location-park",
+      "DuPont": "organization-company",
+      "United States": "location-GPE",
+      "Atlas Powder Company": "organization-company",
+      "California Powder Works": "organization-company",
+      "Hercules Powder Company": "organization-company",
+      "Kenvil": "location-GPE",
+      "New Jersey": "location-GPE"
+    }
+  },
+  {
+    "sentence": "Portola is a crew change site on the Western Pacific Railroad (now Union Pacific Railroad) Feather River Route over the Sierra Nevada mountains.",
+    "entities": {
+      "Portola": "building-other",
+      "Western Pacific Railroad": "location-road/railway/highway/transit",
+      "Union Pacific Railroad": "location-road/railway/highway/transit",
+      "Feather River Route": "location-road/railway/highway/transit",
+      "Sierra Nevada": "location-mountain"
+    }
+  },
+  {
+    "sentence": "Outside of being worshiped as a sun goddess, some have argued that Amaterasu was once related to snakes.",
+    "entities": {
+      "Amaterasu": "other-god",
+      "snakes": "other-livingthing"
+    }
+  },
+  {
+    "sentence": "The Pride, led by fourth-year head coach Joe Mihalich, played their home games at Hofstra Arena as members of the Colonial Athletic Association.",
+    "entities": {
+      "Pride": "organization-sportsteam",
+      "Joe Mihalich": "person-other",
+      "Hofstra Arena": "building-sportsfacility",
+      "Colonial Athletic Association": "organization-sportsleague"
+    }
+  },
+  {
+    "sentence": "Müller-Thurgau (usually labelled Rivaner when vinified dry), the prime ingredient in Liebfraumilch, is no longer the most grown with 15.6% of the area, has decreased significantly.",
+    "entities": {
+      "Müller-Thurgau": "product-food",
+      "Rivaner": "product-food"
+    }
+  },
+  {
+    "sentence": "Li Jing and Li Shiji are considered the two most prominent early Tang generals.",
+    "entities": {
+      "Li Jing": "person-soldier",
+      "Li Shiji": "person-soldier"
+    }
+  },
+  {
+    "sentence": "Strabismus may also be classified based on time of onset, either congenital, acquired, or secondary to another pathological process.",
+    "entities": {
+      "Strabismus": "other-disease"
+    }
+  },
+  {
+    "sentence": "The designers have applied their skills to commercial applications, such as the lobby at the Lombardy Hotel in 1996 and Etoile Restaurant which is located in the hotel several years earlier.",
+    "entities": {
+      "Lombardy Hotel": "building-hotel",
+      "Etoile Restaurant": "building-restaurant"
+    }
+  },
+  {
+    "sentence": "Alpha Centauri remained the nearest known star until the discovery of Proxima Centauri in 1915 by Robert T. A. Innes.",
+    "entities": {
+      "Alpha Centauri": "other-astronomything",
+      "Proxima Centauri": "other-astronomything",
+      "Robert T. A. Innes": "person-other"
+    }
+  },
+  {
+    "sentence": "LaGuardia Airport (LGA) is in Flushing, Queens and John F. Kennedy Airport (JFK) is on Jamaica Bay in Queens.",
+    "entities": {
+      "LaGuardia Airport": "building-airport",
+      "LGA": "building-airport",
+      "Flushing": "location-GPE",
+      "Queens": "location-GPE",
+      "John F. Kennedy Airport": "building-airport",
+      "JFK": "building-airport",
+      "Jamaica Bay": "location-other"
+    }
+  },
+  {
+    "sentence": "Windows Mobile 2003 was Jawbreaker's first inclusion into a packaged handheld operating system.",
+    "entities": {
+      "Windows Mobile 2003": "product-software",
+      "Jawbreaker": "person-other"
+    }
+  },
+  {
+    "sentence": "Edward Anson and Waldemar Heckel consider this satrap to be the same Orontes who fought for Darius III in the Battle of Gaugamela; the authors state that Mithrenes may have perished in an unsuccessful attempt to wrest Armenia from Orontes.",
+    "entities": {
+      "Edward Anson": "person-scholar",
+      "Waldemar Heckel": "person-scholar",
+      "Orontes": "person-soldier",
+      "Darius III": "person-other",
+      "Battle of Gaugamela": "event-attack/battle/war/militaryconflict",
+      "Mithrenes": "person-soldier",
+      "Armenia": "location-GPE"
+    }
+  },
+  {
+    "sentence": "Hurric ane Hattie had set the nation back decades since its arrival onshore on 30 October 1961, and started the trend of migration by Belizeans to the United States and elsewhere to find work and educational opportunities, occasionally sending money home to those left behind.",
+    "entities": {
+      "Hurric": "event-disaster",
+      "Hattie": "event-disaster",
+      "Belizeans": "location-GPE",
+      "United States": "location-GPE"
+    }
+  },
+  {
+    "sentence": "He also designed the LEC CRP1 F1 car for David Purley, which competed in the 1977 Formula One season.",
+    "entities": {
+      "LEC CRP1 F1": "product-car",
+      "David Purley": "person-other",
+      "1977 Formula One season": "event-sportsevent"
+    }
+  },
+  {
+    "sentence": "The North American Mustang Mk.X North American Mustang Mk.X (as in ``Mark.10``; also known as the ``Rolls-Royce Mustang``) was a British variant of the US North American P-51 Mustang using a Rolls-Royce Merlin engine in an experimental program undertaken by the Rolls-Royce company in 1942.",
+    "entities": {
+      "North American Mustang Mk.X North American Mustang Mk.X": "product-airplane",
+      "Mark.10": "product-airplane",
+      "Rolls-Royce Mustang": "product-airplane",
+      "British": "location-GPE",
+      "US North American P-51 Mustang": "product-airplane",
+      "Rolls-Royce Merlin engine": "product-other",
+      "Rolls-Royce company": "organization-company"
+    }
+  },
+  {
+    "sentence": "This design is superior to the M998 with a larger, more powerful turbocharged engine, air conditioning, and a strengthened suspension system.",
+    "entities": {
+      "M998": "product-weapon"
+    }
+  },
+  {
+    "sentence": "The following month saw him star with the Royal Liverpool Philharmonic Orchestra at the Royal Court Theatr e, Liverpool to celebrate the birthday of the flagship Cunard liner RMS Queen Mary 2.",
+    "entities": {
+      "Royal Liverpool Philharmonic Orchestra": "organization-showorganization",
+      "Royal Court Theatr": "building-theater",
+      "Liverpool": "location-GPE",
+      "Cunard liner RMS Queen Mary 2": "product-ship"
+    }
+  },
+  {
+    "sentence": "While chloroform has no known environmental hazards, large amounts of exposure to chloroform can cause alterations in the mind, such as depression and irritability.",
+    "entities": {
+      "chloroform": "other-chemicalthing",
+      "depression": "other-medical",
+      "irritability": "other-medical"
+    }
+  },
+  {
+    "sentence": "Lone Wolf books rely on a combination of thought and luck.",
+    "entities": {
+      "Lone Wolf books": "product-game"
+    }
+  },
+  {
+    "sentence": "RSIS Master of Science programme offers advanced education to professionals from both the private and public sectors in Singapore and overseas in four specializations: the Master of Science in Strategic Studies, the Master of Science in International Relations, the Master of Science in International Political Economy and the Master of Science in Asian Studies.",
+    "entities": {
+      "RSIS Master of Science": "other-educationaldegree",
+      "Singapore": "location-GPE",
+      "Master of Science in Strategic Studies": "other-educationaldegree",
+      "Master of Science in International Relations": "other-educationaldegree",
+      "Master of Science in International Political Economy": "other-educationaldegree",
+      "Master of Science in Asian Studies": "other-educationaldegree"
+    }
+  },
+  {
+    "sentence": "He was first elected at the Irish Irish local elections, 1991 and retained his seat until he lost his seat at the 2009 elections.",
+    "entities": {
+      "Irish Irish local elections": "event-election"
+    }
+  },
+  {
+    "sentence": "Tadashi ’ s most famous work is ``Aquarius``, a 36-foot circular mosaic on the floor of the atrium of the Hawaii State Capitol.",
+    "entities": {
+      "Tadashi": "person-artist/author",
+      "Aquarius": "art-painting",
+      "Hawaii State Capitol": "building-other"
+    }
+  },
+  {
+    "sentence": "Another argument against the data used in the book tables is that they often refer to the period between 1648 and 1667, and thus additionally account for population loss caused by the Khmelnytsky Uprising of 1648-1654 and not associated with the Russian invasion.",
+    "entities": {
+      "Khmelnytsky Uprising": "event-protest",
+      "Russian": "location-GPE"
+    }
+  },
+  {
+    "sentence": "HUD USER is an information source containing reports and reference documents for the U.S. Department of Housing and Urban Development (HUD).",
+    "entities": {
+      "HUD USER": "organization-other",
+      "U.S. Department of Housing and Urban Development": "organization-government/governmentagency",
+      "HUD": "organization-government/governmentagency"
+    }
+  },
+  {
+    "sentence": "IWI US offers the rifle in semi-automatic only configuration as the ‘ Tavor X95 ’.",
+    "entities": {
+      "IWI US": "location-GPE",
+      "Tavor X95": "product-weapon"
+    }
+  },
+  {
+    "sentence": "Glutathione or its homologues, e.g.",
+    "entities": {
+      "Glutathione": "other-chemicalthing"
+    }
+  },
+  {
+    "sentence": "The area was named Banff in 1884 by George Stephen, president of the Canadian Pacific Railway, recalling his birthplace in Banff, Scotland.",
+    "entities": {
+      "Banff": "location-GPE",
+      "George Stephen": "person-politician",
+      "Canadian Pacific Railway": "organization-company",
+      "Scotland": "location-GPE"
+    }
+  },
+  {
+    "sentence": "He was educated at St. John's College, Jaffna (1932–42) and Jaffna College (1942-50).",
+    "entities": {
+      "St. John's College": "organization-education",
+      "Jaffna": "location-GPE",
+      "Jaffna College": "organization-education"
+    }
+  },
+  {
+    "sentence": "Canadian painter Carl Schaefer, then a member of the Royal Canadian Air Force as a war artist, depicted No.",
+    "entities": {
+      "Canadian": "location-GPE",
+      "Carl Schaefer": "person-artist/author",
+      "Royal Canadian Air Force": "organization-government/governmentagency"
+    }
+  },
+  {
+    "sentence": "Bona later took over full control of the casino project but experienced financial difficulties and filed Chapter 11 bankruptcy in August 1985.",
+    "entities": {
+      "Bona": "person-other"
+    }
+  },
+  {
+    "sentence": "Hallmark Channel aired the series in 2005 as part of its slate of Saturday afternoon Westerns but dropped it after only a few weeks.",
+    "entities": {
+      "Hallmark Channel": "organization-media/newspaper",
+      "Westerns": "art-broadcastprogram"
+    }
+  },
+  {
+    "sentence": "In 1958, he began working as a cardiothoracic surgeon at Papworth Hospital in Cambridgeshire, where he conducted numerous pioneering surgeries, including Britain's first open-heart surgery.",
+    "entities": {
+      "Papworth Hospital": "building-other",
+      "Cambridgeshire": "location-GPE",
+      "Britain": "location-GPE"
+    }
+  },
+  {
+    "sentence": "However, CommunityAmerica Ballpark had dirt sliding pits just around the three bases, homeplate, and the pitchers mound.",
+    "entities": {
+      "CommunityAmerica Ballpark": "building-sportsfacility"
+    }
+  },
+  {
+    "sentence": "Bredsdorff was a Commander of the Order of Dannebrog and of the Legion of Honour, was decorated with the Defence Medal 1940–1945 with Star, the St. Olav's Medal with Oak Branch, the Haakon VII 70th Anniversary Medal and the Haakon VII Jubilee Medal 1905-1955.",
+    "entities": {
+      "Bredsdorff": "person-soldier",
+      "Defence Medal": "other-award",
+      "Haakon VII 70th Anniversary Medal": "other-award",
+      "Haakon VII Jubilee Medal": "other-award"
+    }
+  },
+  {
+    "sentence": "In 2009 he made the documentary – ``Angel of the Aboriginals: Dr Verrier Elwin``.",
+    "entities": {
+      "Angel of the Aboriginals: Dr Verrier Elwin": "art-other"
+    }
+  },
+  {
+    "sentence": "The procedure of preparing Sunga Pitha is almost the same as for Sunga Saul.",
+    "entities": {
+      "Sunga Pitha": "product-food",
+      "Sunga Saul": "product-food"
+    }
+  },
+  {
+    "sentence": "Barbra Streisand recorded it in 1969 for her album ``What About Today?``.",
+    "entities": {
+      "Barbra Streisand": "person-artist/author",
+      "What About Today?": "art-music"
+    }
+  },
+  {
+    "sentence": "It was built with Sioux Quartzite from a local quarry.",
+    "entities": {
+      "Sioux Quartzite": "product-other"
+    }
+  },
+  {
+    "sentence": "This information is based on an 1835 study by the Swedish historian A.M. Strinnholm as well as the 1815 study by the Russian historian Nikolay Karamzin.",
+    "entities": {
+      "A.M. Strinnholm": "person-scholar",
+      "Nikolay Karamzin": "person-scholar"
+    }
+  },
+  {
+    "sentence": "In December 2011, ST GP9 # 52 was repainted using MEC's 1950s-era ``Pine Tree Route`` green and gold livery.",
+    "entities": {
+      "ST GP9 # 52": "product-train",
+      "MEC": "product-train",
+      "Pine Tree Route": "location-road/railway/highway/transit"
+    }
+  },
+  {
+    "sentence": "In 1981–82 the Islanders won a then-record 15 straight games en route to a franchise-record 118 points, while Mike Bossy set a scoring record for right wingers with 147 points in an 80-game schedule.",
+    "entities": {
+      "Islanders": "organization-sportsteam",
+      "Mike Bossy": "person-athlete"
+    }
+  },
+  {
+    "sentence": "Jankowski is an expert in reflux esophagitis, Barrett's esophagus, acute medicine and clinical trials as well as in cancer prevention and health promotion.",
+    "entities": {
+      "Jankowski": "person-scholar",
+      "reflux esophagitis": "other-disease",
+      "Barrett's esophagus": "other-disease"
+    }
+  },
+  {
+    "sentence": "The 2012 Blossom Kite festival took place on the Washington Monument grounds on Saturday, March 31.",
+    "entities": {
+      "Washington Monument": "location-park"
+    }
+  },
+  {
+    "sentence": "After a war with the Sarmatians and Trajan's Dacian Wars (101–106 AD), the legion was moved to Carnuntum, where it stayed for three centuries.",
+    "entities": {
+      "Sarmatians and Trajan's Dacian Wars": "event-attack/battle/war/militaryconflict",
+      "Carnuntum": "location-GPE"
+    }
+  },
+  {
+    "sentence": "In 1905 there were six public Imperial Theatres in Russia (Alexandrinsky, Mariinsky, Mikhailovsky and Maly in Saint Petersburg, Maly and Bolshoi in Moscow) plus court Hermitage Theatre and used during the summer.",
+    "entities": {
+      "Imperial Theatres": "building-theater",
+      "Russia": "location-GPE",
+      "Alexandrinsky": "building-theater",
+      "Mariinsky": "building-theater",
+      "Mikhailovsky": "building-theater",
+      "Maly": "building-theater",
+      "Saint Petersburg": "location-GPE",
+      "Bolshoi": "building-theater",
+      "Moscow": "location-GPE",
+      "Hermitage Theatre": "building-theater"
+    }
+  },
+  {
+    "sentence": "Early Byzantine depictions such as that in the Rabbula Gospels often show Christ flanked by Longinus and Stephaton with their spear and pole with vinegar.",
+    "entities": {
+      "Byzantine": "location-GPE",
+      "Rabbula Gospels": "art-writtenart",
+      "Christ": "other-god",
+      "Longinus": "person-other",
+      "Stephaton": "person-other"
+    }
+  },
+  {
+    "sentence": "Vidal Valley is a 20-mile (32 km) long valley in the far eastern Colorado Desert bordering the Colorado River.",
+    "entities": {
+      "Vidal Valley": "location-mountain",
+      "Colorado Desert": "location-other",
+      "Colorado River": "location-bodiesofwater"
+    }
+  },
+  {
+    "sentence": "Built on graphics primitives like QuickDraw that Bill Atkinson had originally developed for the Apple Lisa computer, MacPublisher included WYSIWYG layout for multi-column text and graphics.",
+    "entities": {
+      "QuickDraw": "product-software",
+      "Bill Atkinson": "person-other",
+      "Apple Lisa": "product-other",
+      "MacPublisher": "organization-company",
+      "WYSIWYG": "product-software"
+    }
+  },
+  {
+    "sentence": "Evans was hired in November 2009 as the first manager and director of player personnel for the newly-organized Victoria Seals of the GBL.",
+    "entities": {
+      "Evans": "person-director",
+      "Victoria Seals": "organization-sportsteam",
+      "GBL": "organization-sportsleague"
+    }
+  },
+  {
+    "sentence": "Hawi was briefly expelled from the LCP in 1967 for calling for more independence from the policies of the Soviet Union.",
+    "entities": {
+      "Hawi": "person-other",
+      "LCP": "organization-politicalparty",
+      "Soviet Union": "organization-government/governmentagency"
+    }
+  },
+  {
+    "sentence": "The People of Freedom was the largest party in Sardinia with 42.4%, while the Democratic Party came second with 36.2%.",
+    "entities": {
+      "People of Freedom": "organization-politicalparty",
+      "Sardinia": "location-island",
+      "Democratic Party": "organization-politicalparty"
+    }
+  },
+  {
+    "sentence": "The studio shared the facility in the Hotel Pennsylvania with ``The People's Court`` until the show relocated studios in 1998, and ``The Sally Jessy Raphael Show`` until its cancellation in 2002.",
+    "entities": {
+      "Hotel Pennsylvania": "building-hotel",
+      "The People's Court": "art-broadcastprogram",
+      "The Sally Jessy Raphael Show": "art-broadcastprogram"
+    }
+  },
+  {
+    "sentence": "He was also a panelist at an event titled ``Young, Black and Ready to Vote`` in St. Louis, Missouri, sponsored by the Center for American Progress ’ s campus outreach group, Campus Progress, and held prior to the 2008 United States vice-presidential debate.",
+    "entities": {
+      "Young, Black and Ready to Vote": "event-other",
+      "St. Louis": "location-GPE",
+      "Missouri": "location-GPE",
+      "Center for American Progress": "organization-other",
+      "Campus Progress": "organization-other",
+      "United States vice-presidential debate": "product-other"
+    }
+  },
+  {
+    "sentence": "Picker produced ``The Saint of Fort Washington`` for Warner Bros. in 1993 and ``The Crucible`` for Twentieth Century Fox in 1996.",
+    "entities": {
+      "Picker": "person-other",
+      "The Saint of Fort Washington": "art-film",
+      "Warner Bros": "organization-company",
+      "The Crucible": "art-film",
+      "Twentieth Century Fox": "organization-company"
+    }
+  },
+  {
+    "sentence": "She studied at the Minneapolis College of Art and Design (MCAD), earning a Bachelor of Fine Arts degree in 1993.",
+    "entities": {
+      "Minneapolis College of Art and Design": "organization-education",
+      "MCAD": "organization-education",
+      "Bachelor of Fine Arts": "other-educationaldegree"
+    }
+  },
+  {
+    "sentence": "This includes providing methadone for addicts as well as providing psychiatrists, nurses, and case works, additionally the program ``also provides educational programs for specific patients who were under conditions of deferred prosecution. ''",
+    "entities": {
+      "methadone": "other-medical"
+    }
+  },
+  {
+    "sentence": "East Linton is home to some of the offices of 4J Studios, most often known for developing Minecraft Console Edition.",
+    "entities": {
+      "East Linton": "location-GPE",
+      "4J Studios": "organization-company",
+      "Minecraft Console Edition": "product-game"
+    }
+  },
+  {
+    "sentence": "She became an expert on the fossils to be found in the Blue Lias around the town and discovered the first complete Ichthyosaur skeleton at The Spittles.",
+    "entities": {
+      "Ichthyosaur": "other-livingthing",
+      "The Spittles": "location-other"
+    }
+  },
+  {
+    "sentence": "RGS9 -deficient mice exhibit some motor and cognitive difficulties however, so inhibition of this protein is likely to cause similar side effects.",
+    "entities": {
+      "RGS9": "other-biologything",
+      "mice": "other-livingthing"
+    }
+  },
+  {
+    "sentence": "The Giro, along with the season's other Grand Tours (the Tour de France and the Vuelta a España), was one of several events run in 2007 as a UCI ProTour event but without a ProTour license.",
+    "entities": {
+      "Giro": "event-sportsevent",
+      "Tour de France": "event-sportsevent",
+      "Vuelta a España": "event-sportsevent",
+      "UCI ProTour": "event-sportsevent"
+    }
+  },
+  {
+    "sentence": "Religious disputes between the Crypto-Calvinists, Philippists, Sacramentarians, Ubiquitarians, and the Gnesio-Lutherans raged within Lutheranism during a series of controversies",
+    "entities": {
+      "Crypto-Calvinists": "organization-religion",
+      "Philippists": "organization-religion",
+      "Sacramentarians": "organization-religion",
+      "Ubiquitarians": "organization-religion",
+      "Gnesio-Lutherans": "organization-religion",
+      "Lutheranism": "organization-religion"
+    }
+  },
+  {
+    "sentence": "It was founded by Hooters of America restaurant owner Robert Brooks, who acquired Pace Airlines in December 2002.",
+    "entities": {
+      "Hooters": "building-restaurant",
+      "Robert Brooks": "person-other",
+      "Pace Airlines": "organization-company"
+    }
+  },
+  {
+    "sentence": "The film does have several celebrity cameo appearances by people such as Tony Parker, Zinedine Zidane and Michael Schumacher.",
+    "entities": {
+      "Tony Parker": "person-actor",
+      "Zinedine Zidane": "person-actor",
+      "Michael Schumacher": "person-other"
+    }
+  },
+  {
+    "sentence": "Osterwa travelled extensively in the 1920s with his Reduta troupe.",
+    "entities": {
+      "Osterwa": "person-actor",
+      "Reduta troupe": "organization-showorganization"
+    }
+  },
+  {
+    "sentence": "P 10,000.00 x 30 months = P 300,000.00), moral damages of PhP 100,000.00 and exemplary damages of PhP 50,000.00.",
+    "entities": {
+      "P": "other-currency",
+      "PhP": "other-currency"
+    }
+  },
+  {
+    "sentence": "JDP2 regulates 12-O-tetradecanoylphorbol -13-acetate (TPA) response element (TRE) - and cAMP -responsive element (CRE) -dependent transcription.",
+    "entities": {
+      "JDP2": "other-biologything",
+      "12-O-tetradecanoylphorbol": "other-biologything",
+      "TPA": "other-biologything",
+      "cAMP": "other-astronomything"
+    }
+  },
+  {
+    "sentence": "The type however did not have a very long career, as it was quickly made obsolete by more modern and much faster airliners such as the Bloch MB.220 and the Dewoitine D.338.",
+    "entities": {
+      "Bloch MB.220": "product-airplane",
+      "Dewoitine D.338": "product-airplane"
+    }
+  },
+  {
+    "sentence": "Shortly after leaving the White House, Rove was hired to write about the 2008 Presidential Election for ``Newsweek``.",
+    "entities": {
+      "White House": "organization-government/governmentagency",
+      "Rove": "person-artist/author",
+      "Presidential Election": "event-election",
+      "Newsweek": "organization-media/newspaper"
+    }
+  },
+  {
+    "sentence": "Tung Wah Group of Hospitals Mrs. Wu York Yu Memorial College (Chinese: 東華三院伍若瑜夫人紀念中學) is a co-educational secondary school established by the Tung Wah Group of Hospitals in 1977.",
+    "entities": {
+      "Tung Wah Group of Hospitals Mrs. Wu York Yu Memorial College": "organization-education",
+      "Chinese": "other-language",
+      "Tung Wah Group of Hospitals": "building-hospital"
+    }
+  },
+  {
+    "sentence": "The Brighton hotel bombing was a Provisional Irish Republican Army (IRA) assassination attempt against the top tier of the British government that occurred on 12 October 1984 at the Grand Brighton Hotel in Brighton, England.",
+    "entities": {
+      "Brighton hotel bombing": "event-disaster",
+      "Provisional Irish Republican Army": "organization-other",
+      "IRA": "organization-other",
+      "British": "building-restaurant",
+      "Grand Brighton Hotel": "building-hotel",
+      "Brighton": "location-GPE",
+      "England": "location-GPE"
+    }
+  },
+  {
+    "sentence": "The General Campus of the Ottawa Hospital, and The Children's Hospital of Eastern Ontario are located just on the north side of Smyth Road, in Riverview, while the Riverside Campus of the Ottawa Hospital is located at Smyth and Riverside Drive.",
+    "entities": {
+      "General Campus of the Ottawa Hospital": "building-hospital",
+      "Children's Hospital of Eastern Ontario": "building-library",
+      "Smyth Road": "location-road/railway/highway/transit",
+      "Riverview": "location-GPE",
+      "Riverside Campus of the Ottawa Hospital": "building-hospital",
+      "Smyth": "location-GPE",
+      "Riverside Drive": "location-GPE"
+    }
+  },
+  {
+    "sentence": "Åre Östersund Airport and Trondheim Airport, Værnes, are the closest international airports.",
+    "entities": {
+      "Åre Östersund Airport": "building-airport",
+      "Trondheim Airport": "building-airport",
+      "Værnes": "location-GPE"
+    }
+  },
+  {
+    "sentence": "Fitzpatrick's brainchild, the JOA would ensure the continuation of the ``News`` while keeping the dominant position of the ``Tribune`` in the state.",
+    "entities": {
+      "Fitzpatrick": "person-other",
+      "JOA": "other-law",
+      "News": "organization-media/newspaper",
+      "Tribune": "organization-media/newspaper"
+    }
+  },
+  {
+    "sentence": "The second-generation (2001-2003) Oldsmobile Aurora came very well equipped from the factory, as was expected of a luxury vehicle.",
+    "entities": {
+      "Oldsmobile Aurora": "product-car"
+    }
+  },
+  {
+    "sentence": "Although the company had abandoned its original Hawaiian sugar routes, ``Dakotan`` continued inter-coastal service through the Panama Canal in a relatively uneventful manner over the next twenty years.",
+    "entities": {
+      "Hawaiian": "location-GPE",
+      "Dakotan": "product-ship",
+      "Panama Canal": "location-other"
+    }
+  },
+  {
+    "sentence": "In 1814, his disciples and friends found the Sociedad Filantrópica (Philanthropic Society) to spread the American revolution with clear anti-monarchist tendency.",
+    "entities": {
+      "Sociedad Filantrópica": "organization-other",
+      "Philanthropic Society": "organization-other",
+      "American revolution": "event-protest"
+    }
+  },
+  {
+    "sentence": "The Boston Public Library possessed six paintings of a ``Cross station``.",
+    "entities": {
+      "Boston Public Library": "building-library",
+      "Cross station": "art-painting"
+    }
+  }
+]

@@ -1,0 +1,12 @@
+torch>=2.1.1
+transformers>=4.38.0
+flash-attn
+rwkv
+huggingface-hub
+openai
+anthropic
+mamba-ssm
+vertexai
+
+
+
