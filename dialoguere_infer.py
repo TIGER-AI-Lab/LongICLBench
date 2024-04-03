@@ -12,6 +12,7 @@ import tiktoken
 from mamba_ssm.models.mixer_seq_simple import MambaLMHeadModel
 import time
 from openai import OpenAI
+from lmdeploy import pipeline, GenerationConfig, TurbomindEngineConfig
 
 
 PROJECT_ID = "gemini-infer"  # @param {type:"string"}

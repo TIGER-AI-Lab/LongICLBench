@@ -1,5 +1,3 @@
-from datasets import load_dataset, load_from_disk
-from transformers import StoppingCriteriaList, StoppingCriteria
 from transformers import AutoTokenizer, AutoModel, AutoModelForCausalLM, TextStreamer
 from huggingface_hub import hf_hub_download
 from rwkv.model import RWKV
@@ -12,6 +10,7 @@ import anthropic
 from mamba_ssm.models.mixer_seq_simple import MambaLMHeadModel
 import vertexai
 from vertexai.generative_models import GenerativeModel, Part, GenerationConfig
+from lmdeploy import pipeline, GenerationConfig, TurbomindEngineConfig
 
 PROJECT_ID = "gemini-infer"  # @param {type:"string"}
 LOCATION = "us-central1"  # @param {type:"string"}
