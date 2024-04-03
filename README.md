@@ -58,14 +58,14 @@ The evaluation results for some of the datasets is presented as follows: (Please
 </div>
 
 
-🕹️	Run the script to re-obtain the demonstrated results:
+🕹️	Run the script to re-obtain the demonstrated results: (You can just set [api_key] to '' for the locally deployed models)
 ```
-sh script_goemotion.sh [model_short_name] [CUDA_DEVICES] [testing_examples_number]
-sh script_bank77.sh [model_short_name] [CUDA_DEVICES] [testing_examples_number]
-sh script_fewnerd.sh [model_short_name] [CUDA_DEVICES] [testing_examples_number]
-sh script_tacred.sh [model_short_name] [CUDA_DEVICES] [testing_examples_number]
-sh script_dialogue.sh [model_short_name] [CUDA_DEVICES] [testing_examples_number]
-sh script_discovery.sh [model_short_name] [CUDA_DEVICES] [testing_examples_number]
+sh script_goemotion.sh [model_short_name] [CUDA_DEVICES] 500 [api_key]
+sh script_bank77.sh [model_short_name] [CUDA_DEVICES] 500 [api_key]
+sh script_fewnerd.sh [model_short_name] [CUDA_DEVICES] 500 [api_key]
+sh script_tacred.sh [model_short_name] [CUDA_DEVICES] 500 [api_key]
+sh script_dialogue.sh [model_short_name] [CUDA_DEVICES] 500 [api_key]
+sh script_discovery.sh [model_short_name] [CUDA_DEVICES] 500 [api_key]
 ```
 
 To evaluate the results for Few-NERD and DialogRE with F1 score:
