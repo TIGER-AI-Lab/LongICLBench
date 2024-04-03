@@ -8,6 +8,7 @@ Long-context LLMs Struggle with Long In-context Learning
 <img src="assets/curve.png" width="90%">
 </div>
 
+We created LongICLBench to conduct comprehensive evaluations of Large Language Models (LLMs) on extreme-label classification challenges with in-context learning. We compiled six datasets that encompass a broad spectrum of labels, ranging from 28 to 174 categories, and varied the lengths of input (from few-shot demonstrations) between 2K and 50K tokens to ensure thorough testing
 Our principal discoveries reveal: 
 * 1️⃣ A notable decline in the performance of even the most advanced models as the complexity of the tasks increases. 
 * 2️⃣ In the most challenging scenarios, especially those with 174 classes, models find it difficult to discern subtle differences. 
@@ -57,6 +58,7 @@ The evaluation results for some of the datasets is presented as follows: (Please
 <img src="assets/combined_result_update.png" width="90%">
 </div>
 
+
 🕹️	Run the script to re-obtain the demonstrated results:
 ```
 sh script_goemotion.sh [model_short_name] [CUDA_DEVICES] [testing_examples_number]
@@ -65,4 +67,19 @@ sh script_fewnerd.sh [model_short_name] [CUDA_DEVICES] [testing_examples_number]
 sh script_tacred.sh [model_short_name] [CUDA_DEVICES] [testing_examples_number]
 sh script_dialogue.sh [model_short_name] [CUDA_DEVICES] [testing_examples_number]
 sh script_discovery.sh [model_short_name] [CUDA_DEVICES] [testing_examples_number]
+```
+
+## 🖊️ Citation
+
+Please kindly cite our paper if you find our study useful:
+
+```bibtex
+@misc{li2024longcontext,
+      title={Long-context LLMs Struggle with Long In-context Learning}, 
+      author={Tianle Li and Ge Zhang and Quy Duc Do and Xiang Yue and Wenhu Chen},
+      year={2024},
+      eprint={2404.02060},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
