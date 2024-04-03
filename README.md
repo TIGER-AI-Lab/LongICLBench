@@ -1,8 +1,7 @@
 # 🐍 LongICLBench
+This repo contains the official code and data for our paper [Long-context LLMs Struggle with Long In-context Learning](http://arxiv.org/abs/2404.02060)
 
-[![arXiv](https://img.shields.io/badge/arXiv-2404.02060-b31b1b.svg)](http://arxiv.org/abs/2404.02060)
-
-Long-context LLMs Struggle with Long In-context Learning
+[**🤗 HuggingFace Dataset**](https://huggingface.co/datasets/TIGER-Lab/LongICLBench)
 
 <div align="center">
 <img src="assets/curve.png" width="90%">
