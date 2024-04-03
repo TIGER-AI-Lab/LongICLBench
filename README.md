@@ -69,6 +69,12 @@ sh script_dialogue.sh [model_short_name] [CUDA_DEVICES] [testing_examples_number
 sh script_discovery.sh [model_short_name] [CUDA_DEVICES] [testing_examples_number]
 ```
 
+To evaluate the results for Few-NERD and DialogRE with F1 score:
+```
+python fewnerd_evaluate.py --model [model_short_name] --round [number_of_rounds]
+python dialogueRE_evaluate.py --model [model_short_name] --round [number_of_rounds]
+```
+
 ## 🖊️ Citation
 
 Please kindly cite our paper if you find our study useful:
