@@ -1,5 +1,4 @@
 from datasets import load_dataset, load_from_disk
-from transformers import StoppingCriteriaList, StoppingCriteria
 from transformers import AutoTokenizer, AutoModel, AutoModelForCausalLM, TextStreamer
 from huggingface_hub import hf_hub_download
 from rwkv.model import RWKV
@@ -13,6 +12,8 @@ from mamba_ssm.models.mixer_seq_simple import MambaLMHeadModel
 import vertexai
 from vertexai.generative_models import GenerativeModel, Part, GenerationConfig
 from lmdeploy import pipeline, GenerationConfig, TurbomindEngineConfig
+import json
+import os
 
 PROJECT_ID = "gemini-infer"  # @param {type:"string"}
 LOCATION = "us-central1"  # @param {type:"string"}
@@ -224,6 +225,22 @@ demo_prompt = format_discovery_prompt(demo_data,
                                       with_instruction=args.instruct,
                                       context_token_number=args.context_length)
 
+if args.round != 0:
+    if args.instruct:
+        output_file = f'goemotion_round_instruct_result/{args.model}_{args.round}.json'
+    else:
+        output_file = f'goemotion_round_result/{args.model}_{args.round}.json'
+else:
+    if args.instruct:
+        output_file = f'goemotion_instruct_result/{args.model}_{args.context_length}.json'
+    else:
+        output_file = f'goemotion_result/{args.model}_{args.context_length}.json'
+if not os.path.exists(output_file.split('/')[0]):
+    os.makedirs(output_file.split('/')[0])
+with open(output_file, mode='w', encoding='utf-8') as f:
+    feeds = []
+    f.write(json.dumps(feeds, indent=2))
+
 print(f"==========Evluation for {args.model}; Round {args.round}==============")
 for example in eva_data[:args.test_number]:
     cur_prompt = demo_prompt + "comment: " + example['text'] + "\nemotion category: "
@@ -364,4 +381,12 @@ for example in eva_data[:args.test_number]:
     print("accuracy: ", correct/total)
     print("correct: ", correct)
     print("all: ", total)
+
+    output_dict = {}
+    output_dict['text'] = example['text']
+    output_dict['label'] = label
+    output_dict['pred'] = response
+    feeds.append(output_dict)
+    with open(output_file, mode='w', encoding='utf-8') as feedsjson:
+        feedsjson.write(json.dumps(feeds, indent=2))
 

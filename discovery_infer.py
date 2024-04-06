@@ -14,6 +14,9 @@ import vertexai
 from vertexai.generative_models import GenerativeModel, Part, GenerationConfig
 from lmdeploy import pipeline, GenerationConfig, TurbomindEngineConfig
 
+import os
+import json
+
 
 PROJECT_ID = "gemini-infer"  # @param {type:"string"}
 LOCATION = "us-central1"  # @param {type:"string"}
@@ -372,6 +375,22 @@ if args.model != 'gpt4' and args.model != 'claude3' and args.model != 'gemini' a
 demo_prompt = format_discovery_prompt(demo_data, round=args.round, with_instruction=args.instruct,
                                       context_token_number=args.context_length)
 
+if args.round != 0:
+    if args.instruct:
+        output_file = f'discovery_round_instruct_result/{args.model}_{args.round}.json'
+    else:
+        output_file = f'discovery_round_result/{args.model}_{args.round}.json'
+else:
+    if args.instruct:
+        output_file = f'discovery_instruct_result/{args.model}_{args.context_length}.json'
+    else:
+        output_file = f'discovery_result/{args.model}_{args.context_length}.json'
+if not os.path.exists(output_file.split('/')[0]):
+    os.makedirs(output_file.split('/')[0])
+with open(output_file, mode='w', encoding='utf-8') as f:
+    feeds = []
+    f.write(json.dumps(feeds, indent=2))
+
 print(f"==========Evluation for {args.model}; Round {args.round}==============")
 for example in eva_data[:args.test_number]:
     cur_prompt = demo_prompt + example['sentence1'] + " ( ) " + example['sentence2'] + "\nthe most suitable conjunction word in the previous ( ) is  "
@@ -513,3 +532,11 @@ for example in eva_data[:args.test_number]:
     print("accuracy: ", correct/total)
     print("correct: ", correct)
     print("all: ", total)
+    output_dict = {}
+    output_dict['sentence1'] = example['sentence1']
+    output_dict['sentence2'] = example['sentence2']
+    output_dict['label'] = label
+    output_dict['pred'] = response
+    feeds.append(output_dict)
+    with open(output_file, mode='w', encoding='utf-8') as feedsjson:
+        feedsjson.write(json.dumps(feeds, indent=2))
