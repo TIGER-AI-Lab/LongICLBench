@@ -152,9 +152,9 @@ elif args.model == "longLora":
 elif args.model == "longllama":
     model_path = 'syzymon/long_llama_code_7b'
 elif args.model == "qwen":
-    model_path = 'Qwen/Qwen-7B'
+    model_path = 'Qwen/Qwen1.5-7B'
 elif args.model == "mistral":
-    model_path = 'mistralai/Mistral-7B-v0.1'
+    model_path = 'TIGER-Lab/Mistral-7B-Base-V0.2'
 elif args.model == "gemma":
     model_path = "google/gemma-7b"
 elif args.model == 'rwkv':
