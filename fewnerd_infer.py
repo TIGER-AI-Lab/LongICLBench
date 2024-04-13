@@ -55,6 +55,15 @@ def format_long_prompt(train_json_file, round=0, with_instruction=False, context
     prompt = prompt_inst + prompt
     return prompt
 
+def generate_text(project_id: str, location: str, prompt: str, model) -> str:
+    # Initialize Vertex AI
+    vertexai.init(project=project_id, location=location)
+    responses = model.generate_content(prompt,
+                                       generation_config=generation_config,
+                                       stream=False)
+    for response in responses:
+        return response.text
+
 parser = argparse.ArgumentParser(description="Long in-context Learning",
                                  formatter_class=argparse.ArgumentDefaultsHelpFormatter)
 parser.add_argument("-c", "--context_length", type=str, default='2k', help="number of tokens the context have")
