@@ -26,18 +26,24 @@ for result in data:
     pred = [p.strip() for p in pred]
     count += len(label)
 
-    for idx in range(len(label)):
-
-        if idx >= len(pred):
-            break
-
-        if any([relation in pred[idx] for relation in relation_set]):
+    num_label = len(label)
+    num_pred = len(pred)
+    align_total = min(num_label, num_pred)
+    total_label += num_label
+    for pred_rela in pred:
+        if any([relation in pred_rela for relation in relation_set]):
             total_pred += 1
+
+    for idx in range(align_total):
         if label[idx] == pred[idx] or label[idx] in pred[idx]:
             total_correct += 1
-        total_label += 1
-        precision = total_correct / (total_pred + 1e-8)
-        recall = total_correct / (total_label + 1e-8)
-        f1 = 2 * precision * recall / (precision + recall + 1e-8)
 
+    precision = total_correct / (total_pred + 1e-8)
+    recall = total_correct / (total_label + 1e-8)
+    f1 = 2 * precision * recall / (precision + recall + 1e-8)
+
+    if total_label >= 500:
+        break
+
+print('total_label: ', total_label)
 print(f'f1: ', f1 * 100)

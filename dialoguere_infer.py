@@ -100,7 +100,7 @@ def format_long_prompt(train_json_file, with_instruction=False, context_round=1)
 
 parser = argparse.ArgumentParser(description="Long in-context Learning",
                                  formatter_class=argparse.ArgumentDefaultsHelpFormatter)
-parser.add_argument("-c", "--context_round", type=str, help="number of rounds the context have")
+parser.add_argument("-r", "--round", type=str, help="number of rounds the context have")
 parser.add_argument("-m", "--model", type=str, help="model name to test")
 parser.add_argument("-k", "--api_key", type=str, default='', help="api key of open ai")
 parser.add_argument("--instruct", action="store_true", help="whether to show all the labels as instruction")
@@ -108,9 +108,9 @@ parser.add_argument("--test_number", type=int, help="number of examples to run f
 args = parser.parse_args()
 
 if args.instruct:
-    output_file = f'dialogueRE_round_instruct_result/{args.model}_{args.context_round}.json'
+    output_file = f'dialogueRE_round_instruct_result/{args.model}_{args.round}.json'
 else:
-    output_file = f'dialogueRE_round_result/{args.model}_{args.context_round}.json'
+    output_file = f'dialogueRE_round_result/{args.model}_{args.round}.json'
 if not os.path.exists(output_file.split('/')[0]):
     os.makedirs(output_file.split('/')[0])
 
@@ -202,7 +202,7 @@ if args.model != 'gpt4' and args.model != 'claude3' and args.model != 'gemini' a
     model = model.eval()
 
 demo_prompt = format_long_prompt('./processed_data/train_dialogueRE_processed.json', with_instruction=args.instruct,
-                                 context_round=args.context_round)
+                                 context_round=args.round)
 
 try:
     result_file = open(output_file)
