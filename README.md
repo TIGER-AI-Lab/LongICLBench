@@ -42,7 +42,7 @@ We evaluate the performance of 13 long-context large language models. Their info
 |    Gemma-7B-base     |   7B   |     Gemma      |         RoPE + LF          |   8K    |   8K    |
 |    LLaMA-2-7B-32K    |   7B   |    LLaMA-2     |   Position Interpolation   |   32K   |   32K   |
 |   ChatGLM3-6B-32K    |   6B   |    ChatGLM     |  Position Encoding Scheme  |   32K   |   32K   |
-|   Qwen-1.5-7B-base   |   7B   |      Qwen      |  NTK-Aware Interpolation   |   32K   |   32K   |
+|   Qwen-1.5-7B-base   |   7B   |      Qwen      |            RoPE            |   32K   |   32K   |
 | Mistral-7B-v0.2-base |   7B   |    Mistral     |             LF             |   32K   |   32K   |
 | LLaMA-2-7B-LongLora  |   7B   |    LLaMA-2     |  Shifted Short Attention   |  100K   |  100K   |
 |      Yi-6B-200K      |   6B   |       Yi       | Position Interpolation +LF |  200K   |  200K   |
