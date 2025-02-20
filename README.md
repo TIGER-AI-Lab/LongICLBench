@@ -1,5 +1,5 @@
 # 🐍 LongICLBench
-This repo contains the official code and data for our paper [Long-context LLMs Struggle with Long In-context Learning](http://arxiv.org/abs/2404.02060)
+This repo contains the official code and data for our TMLR25 paper [Long-context LLMs Struggle with Long In-context Learning](http://arxiv.org/abs/2404.02060)
 
 [**🤗 HuggingFace Dataset**](https://huggingface.co/datasets/TIGER-Lab/LongICLBench)
 
